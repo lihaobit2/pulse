@@ -1,0 +1,3 @@
+---- REPORT_PERIOD Matches (2 in 2 files) ----
+Pulse_drv.c:      		    if(g_PulseTime & (REPORT_PERIOD - 1))
+Pulse_drv.h:#define REPORT_PERIOD (15360/INTR_INTERVAL)

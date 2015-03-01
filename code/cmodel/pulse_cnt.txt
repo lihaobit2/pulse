@@ -1,0 +1,5324 @@
+Time: 121,g_pluseCnt:   0,prec:   0
+Time: 122,g_pluseCnt:   0,prec:   0
+Time: 123,g_pluseCnt:   0,prec:   0
+Time: 124,g_pluseCnt:   0,prec:   0
+Time: 125,g_pluseCnt:   0,prec:   0
+Time: 126,g_pluseCnt:   0,prec:   0
+Time: 127,g_pluseCnt:   0,prec:   0
+Time: 128,g_pluseCnt:   0,prec:   0
+Time: 129,g_pluseCnt:   0,prec:   0
+Time: 130,g_pluseCnt:   0,prec:   0
+Time: 131,g_pluseCnt:   0,prec:   0
+Time: 132,g_pluseCnt:   0,prec:   0
+Time: 133,g_pluseCnt:   0,prec:   0
+Time: 134,g_pluseCnt:   0,prec:   0
+Time: 135,g_pluseCnt:   0,prec:   0
+Time: 136,g_pluseCnt:   0,prec:   0
+Time: 137,g_pluseCnt:   0,prec:   0
+Time: 138,g_pluseCnt:   0,prec:   0
+Time: 139,g_pluseCnt:   0,prec:   0
+Time: 140,g_pluseCnt:   0,prec:   0
+Time: 141,g_pluseCnt:   0,prec:   0
+Time: 142,g_pluseCnt:   0,prec:   0
+Time: 143,g_pluseCnt:   0,prec:   0
+Time: 144,g_pluseCnt:   0,prec:   0
+Time: 145,g_pluseCnt:   0,prec:   0
+Time: 146,g_pluseCnt:   0,prec:   0
+Time: 147,g_pluseCnt:   0,prec:   0
+Time: 148,g_pluseCnt:   0,prec:   0
+Time: 149,g_pluseCnt:   0,prec:   0
+Time: 150,g_pluseCnt:   0,prec:   0
+Time: 151,g_pluseCnt:   0,prec:   0
+Time: 152,g_pluseCnt:   0,prec:   0
+Time: 153,g_pluseCnt:   0,prec:   0
+Time: 154,g_pluseCnt:   0,prec:   0
+Time: 155,g_pluseCnt:   0,prec:   0
+Time: 156,g_pluseCnt:   0,prec:   0
+Time: 157,g_pluseCnt:   0,prec:   0
+Time: 158,g_pluseCnt:   0,prec:   0
+Time: 159,g_pluseCnt:   0,prec:   0
+Time: 160,g_pluseCnt:   0,prec:   0
+Time: 161,g_pluseCnt:   0,prec:   0
+Time: 162,g_pluseCnt:   0,prec:   0
+Time: 163,g_pluseCnt:   0,prec:   0
+Time: 164,g_pluseCnt:   0,prec:   0
+Time: 165,g_pluseCnt:   0,prec:   0
+Time: 166,g_pluseCnt:   0,prec:   0
+Time: 167,g_pluseCnt:   0,prec:   0
+Time: 168,g_pluseCnt:   0,prec:   0
+Time: 169,g_pluseCnt:   0,prec:   0
+Time: 170,g_pluseCnt:   0,prec:   0
+Time: 171,g_pluseCnt:   0,prec:   0
+Time: 172,g_pluseCnt:   0,prec:   0
+Time: 173,g_pluseCnt:   0,prec:   0
+Time: 174,g_pluseCnt:   0,prec:   0
+Time: 175,g_pluseCnt:   0,prec:   0
+Time: 176,g_pluseCnt:   0,prec:   0
+Time: 177,g_pluseCnt:   0,prec:   0
+Time: 178,g_pluseCnt:   0,prec:   0
+Time: 179,g_pluseCnt:   0,prec:   0
+Time: 180,g_pluseCnt:   0,prec:   0
+Time: 181,g_pluseCnt:   0,prec:   0
+Time: 182,g_pluseCnt:   0,prec:   0
+Time: 183,g_pluseCnt:   0,prec:   0
+Time: 184,g_pluseCnt:   0,prec:   0
+Time: 185,g_pluseCnt:   0,prec:   0
+Time: 186,g_pluseCnt:   0,prec:   0
+Time: 187,g_pluseCnt:   0,prec:   0
+Time: 188,g_pluseCnt:   0,prec:   0
+Time: 189,g_pluseCnt:   0,prec:   0
+Time: 190,g_pluseCnt:   0,prec:   0
+Time: 191,g_pluseCnt:   0,prec:   0
+Time: 192,g_pluseCnt:   0,prec:   0
+Time: 193,g_pluseCnt:   0,prec:   0
+Time: 194,g_pluseCnt:   0,prec:   0
+Time: 195,g_pluseCnt:   0,prec:   0
+Time: 196,g_pluseCnt:   0,prec:   0
+Time: 197,g_pluseCnt:   0,prec:   0
+Time: 198,g_pluseCnt:   0,prec:   0
+Time: 199,g_pluseCnt:   0,prec:   0
+Time: 200,g_pluseCnt:   0,prec:   0
+Time: 201,g_pluseCnt:   0,prec:   0
+Time: 202,g_pluseCnt:   0,prec:   0
+Time: 203,g_pluseCnt:   0,prec:   0
+Time: 204,g_pluseCnt:   0,prec:   0
+Time: 205,g_pluseCnt:   0,prec:   0
+Time: 206,g_pluseCnt:   0,prec:   0
+Time: 207,g_pluseCnt:   0,prec:   0
+Time: 208,g_pluseCnt:   0,prec:   0
+Time: 209,g_pluseCnt:   0,prec:   0
+Time: 210,g_pluseCnt:   0,prec:   0
+Time: 211,g_pluseCnt:   0,prec:   0
+Time: 212,g_pluseCnt:   0,prec:   0
+Time: 213,g_pluseCnt:   0,prec:   0
+Time: 214,g_pluseCnt:   0,prec:   0
+Time: 215,g_pluseCnt:   0,prec:   0
+Time: 216,g_pluseCnt:   0,prec:   0
+Time: 217,g_pluseCnt:   0,prec:   0
+Time: 218,g_pluseCnt:   0,prec:   0
+Time: 219,g_pluseCnt:   0,prec:   0
+Time: 220,g_pluseCnt:   0,prec:   0
+Time: 221,g_pluseCnt:   1,prec: 367
+Time: 222,g_pluseCnt:   1,prec: 367
+Time: 223,g_pluseCnt:   1,prec: 367
+Time: 224,g_pluseCnt:   1,prec: 367
+Time: 225,g_pluseCnt:   1,prec: 367
+Time: 226,g_pluseCnt:   1,prec: 367
+Time: 227,g_pluseCnt:   1,prec: 367
+Time: 228,g_pluseCnt:   1,prec: 367
+Time: 229,g_pluseCnt:   1,prec: 367
+Time: 230,g_pluseCnt:   1,prec: 367
+Time: 231,g_pluseCnt:   1,prec: 367
+Time: 232,g_pluseCnt:   1,prec: 367
+Time: 233,g_pluseCnt:   1,prec: 367
+Time: 234,g_pluseCnt:   1,prec: 367
+Time: 235,g_pluseCnt:   1,prec: 367
+Time: 236,g_pluseCnt:   1,prec: 367
+Time: 237,g_pluseCnt:   1,prec: 367
+Time: 238,g_pluseCnt:   1,prec: 367
+Time: 239,g_pluseCnt:   1,prec: 367
+Time: 240,g_pluseCnt:   1,prec: 367
+Time: 241,g_pluseCnt:   1,prec: 367
+Time: 242,g_pluseCnt:   1,prec: 367
+Time: 243,g_pluseCnt:   1,prec: 367
+Time: 244,g_pluseCnt:   1,prec: 367
+Time: 245,g_pluseCnt:   1,prec: 367
+Time: 246,g_pluseCnt:   1,prec: 367
+Time: 247,g_pluseCnt:   1,prec: 367
+Time: 248,g_pluseCnt:   1,prec: 367
+Time: 249,g_pluseCnt:   1,prec: 367
+Time: 250,g_pluseCnt:   1,prec: 367
+Time: 251,g_pluseCnt:   1,prec: 367
+Time: 252,g_pluseCnt:   1,prec: 367
+Time: 253,g_pluseCnt:   1,prec: 367
+Time: 254,g_pluseCnt:   1,prec: 367
+Time: 255,g_pluseCnt:   1,prec: 367
+Time: 256,g_pluseCnt:   1,prec: 367
+Time: 257,g_pluseCnt:   1,prec: 367
+Time: 258,g_pluseCnt:   1,prec: 367
+Time: 259,g_pluseCnt:   1,prec: 367
+Time: 260,g_pluseCnt:   1,prec: 367
+Time: 261,g_pluseCnt:   1,prec: 367
+Time: 262,g_pluseCnt:   1,prec: 367
+Time: 263,g_pluseCnt:   1,prec: 367
+Time: 264,g_pluseCnt:   1,prec: 367
+Time: 265,g_pluseCnt:   1,prec: 367
+Time: 266,g_pluseCnt:   1,prec: 367
+Time: 267,g_pluseCnt:   1,prec: 367
+Time: 268,g_pluseCnt:   1,prec: 367
+Time: 269,g_pluseCnt:   1,prec: 367
+Time: 270,g_pluseCnt:   1,prec: 367
+Time: 271,g_pluseCnt:   1,prec: 367
+Time: 272,g_pluseCnt:   1,prec: 367
+Time: 273,g_pluseCnt:   1,prec: 367
+Time: 274,g_pluseCnt:   1,prec: 367
+Time: 275,g_pluseCnt:   1,prec: 367
+Time: 276,g_pluseCnt:   1,prec: 367
+Time: 277,g_pluseCnt:   1,prec: 367
+Time: 278,g_pluseCnt:   1,prec: 367
+Time: 279,g_pluseCnt:   1,prec: 367
+Time: 280,g_pluseCnt:   1,prec: 367
+Time: 281,g_pluseCnt:   1,prec: 367
+Time: 282,g_pluseCnt:   1,prec: 367
+Time: 283,g_pluseCnt:   1,prec: 367
+Time: 284,g_pluseCnt:   2,prec: 367
+Time: 285,g_pluseCnt:   2,prec: 367
+Time: 286,g_pluseCnt:   2,prec: 367
+Time: 287,g_pluseCnt:   2,prec: 367
+Time: 288,g_pluseCnt:   2,prec: 367
+Time: 289,g_pluseCnt:   2,prec: 367
+Time: 290,g_pluseCnt:   2,prec: 367
+Time: 291,g_pluseCnt:   2,prec: 367
+Time: 292,g_pluseCnt:   2,prec: 367
+Time: 293,g_pluseCnt:   2,prec: 367
+Time: 294,g_pluseCnt:   2,prec: 367
+Time: 295,g_pluseCnt:   2,prec: 367
+Time: 296,g_pluseCnt:   2,prec: 367
+Time: 297,g_pluseCnt:   2,prec: 367
+Time: 298,g_pluseCnt:   2,prec: 367
+Time: 299,g_pluseCnt:   2,prec: 367
+Time: 300,g_pluseCnt:   2,prec: 367
+Time: 301,g_pluseCnt:   2,prec: 367
+Time: 302,g_pluseCnt:   2,prec: 367
+Time: 303,g_pluseCnt:   2,prec: 367
+Time: 304,g_pluseCnt:   2,prec: 367
+Time: 305,g_pluseCnt:   2,prec: 367
+Time: 306,g_pluseCnt:   2,prec: 367
+Time: 307,g_pluseCnt:   2,prec: 367
+Time: 308,g_pluseCnt:   2,prec: 367
+Time: 309,g_pluseCnt:   2,prec: 367
+Time: 310,g_pluseCnt:   2,prec: 367
+Time: 311,g_pluseCnt:   2,prec: 367
+Time: 312,g_pluseCnt:   2,prec: 367
+Time: 313,g_pluseCnt:   2,prec: 367
+Time: 314,g_pluseCnt:   2,prec: 367
+Time: 315,g_pluseCnt:   2,prec: 367
+Time: 316,g_pluseCnt:   2,prec: 367
+Time: 317,g_pluseCnt:   2,prec: 367
+Time: 318,g_pluseCnt:   2,prec: 367
+Time: 319,g_pluseCnt:   2,prec: 367
+Time: 320,g_pluseCnt:   2,prec: 367
+Time: 321,g_pluseCnt:   2,prec: 367
+Time: 322,g_pluseCnt:   2,prec: 290
+Time: 323,g_pluseCnt:   2,prec: 290
+Time: 324,g_pluseCnt:   2,prec: 290
+Time: 325,g_pluseCnt:   2,prec: 290
+Time: 326,g_pluseCnt:   2,prec: 290
+Time: 327,g_pluseCnt:   2,prec: 290
+Time: 328,g_pluseCnt:   2,prec: 290
+Time: 329,g_pluseCnt:   2,prec: 290
+Time: 330,g_pluseCnt:   2,prec: 290
+Time: 331,g_pluseCnt:   2,prec: 290
+Time: 332,g_pluseCnt:   2,prec: 290
+Time: 333,g_pluseCnt:   2,prec: 290
+Time: 334,g_pluseCnt:   2,prec: 290
+Time: 335,g_pluseCnt:   2,prec: 290
+Time: 336,g_pluseCnt:   2,prec: 290
+Time: 337,g_pluseCnt:   2,prec: 290
+Time: 338,g_pluseCnt:   2,prec: 290
+Time: 339,g_pluseCnt:   2,prec: 290
+Time: 340,g_pluseCnt:   2,prec: 290
+Time: 341,g_pluseCnt:   2,prec: 290
+Time: 342,g_pluseCnt:   2,prec: 290
+Time: 343,g_pluseCnt:   3,prec: 290
+Time: 344,g_pluseCnt:   3,prec: 290
+Time: 345,g_pluseCnt:   3,prec: 290
+Time: 346,g_pluseCnt:   3,prec: 290
+Time: 347,g_pluseCnt:   3,prec: 290
+Time: 348,g_pluseCnt:   3,prec: 290
+Time: 349,g_pluseCnt:   3,prec: 290
+Time: 350,g_pluseCnt:   3,prec: 290
+Time: 351,g_pluseCnt:   3,prec: 290
+Time: 352,g_pluseCnt:   3,prec: 290
+Time: 353,g_pluseCnt:   3,prec: 290
+Time: 354,g_pluseCnt:   3,prec: 290
+Time: 355,g_pluseCnt:   3,prec: 290
+Time: 356,g_pluseCnt:   3,prec: 290
+Time: 357,g_pluseCnt:   3,prec: 290
+Time: 358,g_pluseCnt:   3,prec: 290
+Time: 359,g_pluseCnt:   3,prec: 290
+Time: 360,g_pluseCnt:   3,prec: 290
+Time: 361,g_pluseCnt:   3,prec: 290
+Time: 362,g_pluseCnt:   3,prec: 290
+Time: 363,g_pluseCnt:   3,prec: 290
+Time: 364,g_pluseCnt:   3,prec: 290
+Time: 365,g_pluseCnt:   3,prec: 290
+Time: 366,g_pluseCnt:   3,prec: 290
+Time: 367,g_pluseCnt:   3,prec: 290
+Time: 368,g_pluseCnt:   3,prec: 290
+Time: 369,g_pluseCnt:   3,prec: 290
+Time: 370,g_pluseCnt:   3,prec: 290
+Time: 371,g_pluseCnt:   3,prec: 290
+Time: 372,g_pluseCnt:   3,prec: 290
+Time: 373,g_pluseCnt:   3,prec: 290
+Time: 374,g_pluseCnt:   3,prec: 290
+Time: 375,g_pluseCnt:   3,prec: 290
+Time: 376,g_pluseCnt:   3,prec: 290
+Time: 377,g_pluseCnt:   3,prec: 290
+Time: 378,g_pluseCnt:   3,prec: 290
+Time: 379,g_pluseCnt:   3,prec: 290
+Time: 380,g_pluseCnt:   3,prec: 290
+Time: 381,g_pluseCnt:   3,prec: 290
+Time: 382,g_pluseCnt:   3,prec: 290
+Time: 383,g_pluseCnt:   3,prec: 290
+Time: 384,g_pluseCnt:   3,prec: 290
+Time: 385,g_pluseCnt:   3,prec: 290
+Time: 386,g_pluseCnt:   3,prec: 290
+Time: 387,g_pluseCnt:   3,prec: 290
+Time: 388,g_pluseCnt:   3,prec: 290
+Time: 389,g_pluseCnt:   3,prec: 290
+Time: 390,g_pluseCnt:   3,prec: 290
+Time: 391,g_pluseCnt:   3,prec: 290
+Time: 392,g_pluseCnt:   3,prec: 290
+Time: 393,g_pluseCnt:   3,prec: 290
+Time: 394,g_pluseCnt:   3,prec: 290
+Time: 395,g_pluseCnt:   3,prec: 290
+Time: 396,g_pluseCnt:   3,prec: 290
+Time: 397,g_pluseCnt:   3,prec: 290
+Time: 398,g_pluseCnt:   3,prec: 290
+Time: 399,g_pluseCnt:   4,prec: 290
+Time: 400,g_pluseCnt:   4,prec: 290
+Time: 401,g_pluseCnt:   4,prec: 290
+Time: 402,g_pluseCnt:   4,prec: 290
+Time: 403,g_pluseCnt:   4,prec: 290
+Time: 404,g_pluseCnt:   4,prec: 290
+Time: 405,g_pluseCnt:   4,prec: 290
+Time: 406,g_pluseCnt:   4,prec: 290
+Time: 407,g_pluseCnt:   4,prec: 290
+Time: 408,g_pluseCnt:   4,prec: 290
+Time: 409,g_pluseCnt:   4,prec: 290
+Time: 410,g_pluseCnt:   4,prec: 290
+Time: 411,g_pluseCnt:   4,prec: 290
+Time: 412,g_pluseCnt:   4,prec: 290
+Time: 413,g_pluseCnt:   4,prec: 290
+Time: 414,g_pluseCnt:   4,prec: 290
+Time: 415,g_pluseCnt:   4,prec: 290
+Time: 416,g_pluseCnt:   4,prec: 290
+Time: 417,g_pluseCnt:   4,prec: 290
+Time: 418,g_pluseCnt:   4,prec: 290
+Time: 419,g_pluseCnt:   4,prec: 290
+Time: 420,g_pluseCnt:   4,prec: 290
+Time: 421,g_pluseCnt:   4,prec: 290
+Time: 422,g_pluseCnt:   4,prec: 290
+Time: 423,g_pluseCnt:   4,prec: 566
+Time: 424,g_pluseCnt:   4,prec: 566
+Time: 425,g_pluseCnt:   4,prec: 566
+Time: 426,g_pluseCnt:   4,prec: 566
+Time: 427,g_pluseCnt:   4,prec: 566
+Time: 428,g_pluseCnt:   4,prec: 566
+Time: 429,g_pluseCnt:   4,prec: 566
+Time: 430,g_pluseCnt:   4,prec: 566
+Time: 431,g_pluseCnt:   4,prec: 566
+Time: 432,g_pluseCnt:   4,prec: 566
+Time: 433,g_pluseCnt:   4,prec: 566
+Time: 434,g_pluseCnt:   4,prec: 566
+Time: 435,g_pluseCnt:   4,prec: 566
+Time: 436,g_pluseCnt:   4,prec: 566
+Time: 437,g_pluseCnt:   4,prec: 566
+Time: 438,g_pluseCnt:   4,prec: 566
+Time: 439,g_pluseCnt:   4,prec: 566
+Time: 440,g_pluseCnt:   4,prec: 566
+Time: 441,g_pluseCnt:   4,prec: 566
+Time: 442,g_pluseCnt:   4,prec: 566
+Time: 443,g_pluseCnt:   4,prec: 566
+Time: 444,g_pluseCnt:   4,prec: 566
+Time: 445,g_pluseCnt:   4,prec: 566
+Time: 446,g_pluseCnt:   4,prec: 566
+Time: 447,g_pluseCnt:   4,prec: 566
+Time: 448,g_pluseCnt:   4,prec: 566
+Time: 449,g_pluseCnt:   4,prec: 566
+Time: 450,g_pluseCnt:   4,prec: 566
+Time: 451,g_pluseCnt:   4,prec: 566
+Time: 452,g_pluseCnt:   4,prec: 566
+Time: 453,g_pluseCnt:   4,prec: 566
+Time: 454,g_pluseCnt:   4,prec: 566
+Time: 455,g_pluseCnt:   4,prec: 566
+Time: 456,g_pluseCnt:   4,prec: 566
+Time: 457,g_pluseCnt:   4,prec: 566
+Time: 458,g_pluseCnt:   4,prec: 566
+Time: 459,g_pluseCnt:   4,prec: 566
+Time: 460,g_pluseCnt:   4,prec: 566
+Time: 461,g_pluseCnt:   4,prec: 566
+Time: 462,g_pluseCnt:   4,prec: 566
+Time: 463,g_pluseCnt:   4,prec: 566
+Time: 464,g_pluseCnt:   4,prec: 566
+Time: 465,g_pluseCnt:   4,prec: 566
+Time: 466,g_pluseCnt:   4,prec: 566
+Time: 467,g_pluseCnt:   5,prec: 566
+Time: 468,g_pluseCnt:   5,prec: 566
+Time: 469,g_pluseCnt:   5,prec: 566
+Time: 470,g_pluseCnt:   5,prec: 566
+Time: 471,g_pluseCnt:   5,prec: 566
+Time: 472,g_pluseCnt:   5,prec: 566
+Time: 473,g_pluseCnt:   5,prec: 566
+Time: 474,g_pluseCnt:   5,prec: 566
+Time: 475,g_pluseCnt:   5,prec: 566
+Time: 476,g_pluseCnt:   5,prec: 566
+Time: 477,g_pluseCnt:   5,prec: 566
+Time: 478,g_pluseCnt:   5,prec: 566
+Time: 479,g_pluseCnt:   5,prec: 566
+Time: 480,g_pluseCnt:   5,prec: 566
+Time: 481,g_pluseCnt:   5,prec: 566
+Time: 482,g_pluseCnt:   5,prec: 566
+Time: 483,g_pluseCnt:   5,prec: 566
+Time: 484,g_pluseCnt:   5,prec: 566
+Time: 485,g_pluseCnt:   5,prec: 566
+Time: 486,g_pluseCnt:   5,prec: 566
+Time: 487,g_pluseCnt:   5,prec: 566
+Time: 488,g_pluseCnt:   5,prec: 566
+Time: 489,g_pluseCnt:   5,prec: 566
+Time: 490,g_pluseCnt:   5,prec: 566
+Time: 491,g_pluseCnt:   5,prec: 566
+Time: 492,g_pluseCnt:   5,prec: 566
+Time: 493,g_pluseCnt:   5,prec: 566
+Time: 494,g_pluseCnt:   5,prec: 566
+Time: 495,g_pluseCnt:   5,prec: 566
+Time: 496,g_pluseCnt:   5,prec: 566
+Time: 497,g_pluseCnt:   5,prec: 566
+Time: 498,g_pluseCnt:   5,prec: 566
+Time: 499,g_pluseCnt:   5,prec: 566
+Time: 500,g_pluseCnt:   5,prec: 566
+Time: 501,g_pluseCnt:   5,prec: 566
+Time: 502,g_pluseCnt:   5,prec: 566
+Time: 503,g_pluseCnt:   5,prec: 566
+Time: 504,g_pluseCnt:   5,prec: 566
+Time: 505,g_pluseCnt:   5,prec: 566
+Time: 506,g_pluseCnt:   5,prec: 566
+Time: 507,g_pluseCnt:   5,prec: 566
+Time: 508,g_pluseCnt:   5,prec: 566
+Time: 509,g_pluseCnt:   5,prec: 566
+Time: 510,g_pluseCnt:   5,prec: 566
+Time: 511,g_pluseCnt:   5,prec: 566
+Time: 512,g_pluseCnt:   5,prec: 566
+Time: 513,g_pluseCnt:   5,prec: 566
+Time: 514,g_pluseCnt:   5,prec: 566
+Time: 515,g_pluseCnt:   5,prec: 566
+Time: 516,g_pluseCnt:   5,prec: 566
+Time: 517,g_pluseCnt:   5,prec: 566
+Time: 518,g_pluseCnt:   5,prec: 566
+Time: 519,g_pluseCnt:   5,prec: 566
+Time: 520,g_pluseCnt:   5,prec: 566
+Time: 521,g_pluseCnt:   5,prec: 566
+Time: 522,g_pluseCnt:   5,prec: 566
+Time: 523,g_pluseCnt:   5,prec: 566
+Time: 524,g_pluseCnt:   5,prec: 506
+Time: 525,g_pluseCnt:   5,prec: 506
+Time: 526,g_pluseCnt:   5,prec: 506
+Time: 527,g_pluseCnt:   5,prec: 506
+Time: 528,g_pluseCnt:   6,prec: 506
+Time: 529,g_pluseCnt:   6,prec: 506
+Time: 530,g_pluseCnt:   6,prec: 506
+Time: 531,g_pluseCnt:   6,prec: 506
+Time: 532,g_pluseCnt:   6,prec: 506
+Time: 533,g_pluseCnt:   6,prec: 506
+Time: 534,g_pluseCnt:   6,prec: 506
+Time: 535,g_pluseCnt:   6,prec: 506
+Time: 536,g_pluseCnt:   6,prec: 506
+Time: 537,g_pluseCnt:   6,prec: 506
+Time: 538,g_pluseCnt:   6,prec: 506
+Time: 539,g_pluseCnt:   6,prec: 506
+Time: 540,g_pluseCnt:   6,prec: 506
+Time: 541,g_pluseCnt:   6,prec: 506
+Time: 542,g_pluseCnt:   6,prec: 506
+Time: 543,g_pluseCnt:   6,prec: 506
+Time: 544,g_pluseCnt:   6,prec: 506
+Time: 545,g_pluseCnt:   6,prec: 506
+Time: 546,g_pluseCnt:   6,prec: 506
+Time: 547,g_pluseCnt:   6,prec: 506
+Time: 548,g_pluseCnt:   6,prec: 506
+Time: 549,g_pluseCnt:   6,prec: 506
+Time: 550,g_pluseCnt:   6,prec: 506
+Time: 551,g_pluseCnt:   6,prec: 506
+Time: 552,g_pluseCnt:   6,prec: 506
+Time: 553,g_pluseCnt:   6,prec: 506
+Time: 554,g_pluseCnt:   6,prec: 506
+Time: 555,g_pluseCnt:   6,prec: 506
+Time: 556,g_pluseCnt:   6,prec: 506
+Time: 557,g_pluseCnt:   6,prec: 506
+Time: 558,g_pluseCnt:   6,prec: 506
+Time: 559,g_pluseCnt:   6,prec: 506
+Time: 560,g_pluseCnt:   6,prec: 506
+Time: 561,g_pluseCnt:   6,prec: 506
+Time: 562,g_pluseCnt:   6,prec: 506
+Time: 563,g_pluseCnt:   6,prec: 506
+Time: 564,g_pluseCnt:   6,prec: 506
+Time: 565,g_pluseCnt:   6,prec: 506
+Time: 566,g_pluseCnt:   6,prec: 506
+Time: 567,g_pluseCnt:   6,prec: 506
+Time: 568,g_pluseCnt:   6,prec: 506
+Time: 569,g_pluseCnt:   6,prec: 506
+Time: 570,g_pluseCnt:   6,prec: 506
+Time: 571,g_pluseCnt:   6,prec: 506
+Time: 572,g_pluseCnt:   6,prec: 506
+Time: 573,g_pluseCnt:   6,prec: 506
+Time: 574,g_pluseCnt:   6,prec: 506
+Time: 575,g_pluseCnt:   6,prec: 506
+Time: 576,g_pluseCnt:   6,prec: 506
+Time: 577,g_pluseCnt:   6,prec: 506
+Time: 578,g_pluseCnt:   6,prec: 506
+Time: 579,g_pluseCnt:   6,prec: 506
+Time: 580,g_pluseCnt:   6,prec: 506
+Time: 581,g_pluseCnt:   6,prec: 506
+Time: 582,g_pluseCnt:   6,prec: 506
+Time: 583,g_pluseCnt:   6,prec: 506
+Time: 584,g_pluseCnt:   6,prec: 506
+Time: 585,g_pluseCnt:   6,prec: 506
+Time: 586,g_pluseCnt:   6,prec: 506
+Time: 587,g_pluseCnt:   6,prec: 506
+Time: 588,g_pluseCnt:   6,prec: 506
+Time: 589,g_pluseCnt:   6,prec: 506
+Time: 590,g_pluseCnt:   6,prec: 506
+Time: 591,g_pluseCnt:   6,prec: 506
+Time: 592,g_pluseCnt:   6,prec: 506
+Time: 593,g_pluseCnt:   6,prec: 506
+Time: 594,g_pluseCnt:   6,prec: 506
+Time: 595,g_pluseCnt:   6,prec: 506
+Time: 596,g_pluseCnt:   6,prec: 506
+Time: 597,g_pluseCnt:   6,prec: 506
+Time: 598,g_pluseCnt:   6,prec: 506
+Time: 599,g_pluseCnt:   6,prec: 506
+Time: 600,g_pluseCnt:   6,prec: 506
+Time: 601,g_pluseCnt:   6,prec: 506
+Time: 602,g_pluseCnt:   6,prec: 506
+Time: 603,g_pluseCnt:   6,prec: 506
+Time: 604,g_pluseCnt:   6,prec: 506
+Time: 605,g_pluseCnt:   6,prec: 506
+Time: 606,g_pluseCnt:   6,prec: 506
+Time: 607,g_pluseCnt:   6,prec: 506
+Time: 608,g_pluseCnt:   6,prec: 506
+Time: 609,g_pluseCnt:   6,prec: 506
+Time: 610,g_pluseCnt:   6,prec: 506
+Time: 611,g_pluseCnt:   6,prec: 506
+Time: 612,g_pluseCnt:   6,prec: 506
+Time: 613,g_pluseCnt:   6,prec: 506
+Time: 614,g_pluseCnt:   6,prec: 506
+Time: 615,g_pluseCnt:   6,prec: 506
+Time: 616,g_pluseCnt:   6,prec: 506
+Time: 617,g_pluseCnt:   6,prec: 506
+Time: 618,g_pluseCnt:   6,prec: 506
+Time: 619,g_pluseCnt:   6,prec: 506
+Time: 620,g_pluseCnt:   6,prec: 506
+Time: 621,g_pluseCnt:   6,prec: 506
+Time: 622,g_pluseCnt:   6,prec: 506
+Time: 623,g_pluseCnt:   6,prec: 506
+Time: 624,g_pluseCnt:   6,prec: 506
+Time: 625,g_pluseCnt:   6,prec: 282
+Time: 626,g_pluseCnt:   6,prec: 282
+Time: 627,g_pluseCnt:   6,prec: 282
+Time: 628,g_pluseCnt:   6,prec: 282
+Time: 629,g_pluseCnt:   6,prec: 282
+Time: 630,g_pluseCnt:   6,prec: 282
+Time: 631,g_pluseCnt:   6,prec: 282
+Time: 632,g_pluseCnt:   6,prec: 282
+Time: 633,g_pluseCnt:   6,prec: 282
+Time: 634,g_pluseCnt:   6,prec: 282
+Time: 635,g_pluseCnt:   6,prec: 282
+Time: 636,g_pluseCnt:   6,prec: 282
+Time: 637,g_pluseCnt:   6,prec: 282
+Time: 638,g_pluseCnt:   6,prec: 282
+Time: 639,g_pluseCnt:   6,prec: 282
+Time: 640,g_pluseCnt:   6,prec: 282
+Time: 641,g_pluseCnt:   6,prec: 282
+Time: 642,g_pluseCnt:   6,prec: 282
+Time: 643,g_pluseCnt:   6,prec: 282
+Time: 644,g_pluseCnt:   6,prec: 282
+Time: 645,g_pluseCnt:   6,prec: 282
+Time: 646,g_pluseCnt:   6,prec: 282
+Time: 647,g_pluseCnt:   6,prec: 282
+Time: 648,g_pluseCnt:   6,prec: 282
+Time: 649,g_pluseCnt:   6,prec: 282
+Time: 650,g_pluseCnt:   6,prec: 282
+Time: 651,g_pluseCnt:   6,prec: 282
+Time: 652,g_pluseCnt:   6,prec: 282
+Time: 653,g_pluseCnt:   6,prec: 282
+Time: 654,g_pluseCnt:   6,prec: 282
+Time: 655,g_pluseCnt:   6,prec: 282
+Time: 656,g_pluseCnt:   6,prec: 282
+Time: 657,g_pluseCnt:   6,prec: 282
+Time: 658,g_pluseCnt:   6,prec: 282
+Time: 659,g_pluseCnt:   6,prec: 282
+Time: 660,g_pluseCnt:   6,prec: 282
+Time: 661,g_pluseCnt:   6,prec: 282
+Time: 662,g_pluseCnt:   6,prec: 282
+Time: 663,g_pluseCnt:   6,prec: 282
+Time: 664,g_pluseCnt:   6,prec: 282
+Time: 665,g_pluseCnt:   6,prec: 282
+Time: 666,g_pluseCnt:   6,prec: 282
+Time: 667,g_pluseCnt:   6,prec: 282
+Time: 668,g_pluseCnt:   6,prec: 282
+Time: 669,g_pluseCnt:   6,prec: 282
+Time: 670,g_pluseCnt:   6,prec: 282
+Time: 671,g_pluseCnt:   6,prec: 282
+Time: 672,g_pluseCnt:   6,prec: 282
+Time: 673,g_pluseCnt:   6,prec: 282
+Time: 674,g_pluseCnt:   6,prec: 282
+Time: 675,g_pluseCnt:   6,prec: 282
+Time: 676,g_pluseCnt:   6,prec: 282
+Time: 677,g_pluseCnt:   6,prec: 282
+Time: 678,g_pluseCnt:   6,prec: 282
+Time: 679,g_pluseCnt:   6,prec: 282
+Time: 680,g_pluseCnt:   6,prec: 282
+Time: 681,g_pluseCnt:   6,prec: 282
+Time: 682,g_pluseCnt:   6,prec: 282
+Time: 683,g_pluseCnt:   6,prec: 282
+Time: 684,g_pluseCnt:   6,prec: 282
+Time: 685,g_pluseCnt:   6,prec: 282
+Time: 686,g_pluseCnt:   6,prec: 282
+Time: 687,g_pluseCnt:   6,prec: 282
+Time: 688,g_pluseCnt:   6,prec: 282
+Time: 689,g_pluseCnt:   6,prec: 282
+Time: 690,g_pluseCnt:   6,prec: 282
+Time: 691,g_pluseCnt:   6,prec: 282
+Time: 692,g_pluseCnt:   6,prec: 282
+Time: 693,g_pluseCnt:   6,prec: 282
+Time: 694,g_pluseCnt:   6,prec: 282
+Time: 695,g_pluseCnt:   6,prec: 282
+Time: 696,g_pluseCnt:   6,prec: 282
+Time: 697,g_pluseCnt:   6,prec: 282
+Time: 698,g_pluseCnt:   6,prec: 282
+Time: 699,g_pluseCnt:   6,prec: 282
+Time: 700,g_pluseCnt:   6,prec: 282
+Time: 701,g_pluseCnt:   6,prec: 282
+Time: 702,g_pluseCnt:   6,prec: 282
+Time: 703,g_pluseCnt:   6,prec: 282
+Time: 704,g_pluseCnt:   6,prec: 282
+Time: 705,g_pluseCnt:   6,prec: 282
+Time: 706,g_pluseCnt:   6,prec: 282
+Time: 707,g_pluseCnt:   6,prec: 282
+Time: 708,g_pluseCnt:   6,prec: 282
+Time: 709,g_pluseCnt:   6,prec: 282
+Time: 710,g_pluseCnt:   6,prec: 282
+Time: 711,g_pluseCnt:   6,prec: 282
+Time: 712,g_pluseCnt:   6,prec: 282
+Time: 713,g_pluseCnt:   6,prec: 282
+Time: 714,g_pluseCnt:   6,prec: 282
+Time: 715,g_pluseCnt:   6,prec: 282
+Time: 716,g_pluseCnt:   7,prec: 282
+Time: 717,g_pluseCnt:   7,prec: 282
+Time: 718,g_pluseCnt:   7,prec: 282
+Time: 719,g_pluseCnt:   7,prec: 282
+Time: 720,g_pluseCnt:   7,prec: 282
+Time: 721,g_pluseCnt:   7,prec: 282
+Time: 722,g_pluseCnt:   7,prec: 282
+Time: 723,g_pluseCnt:   7,prec: 282
+Time: 724,g_pluseCnt:   7,prec: 282
+Time: 725,g_pluseCnt:   7,prec: 282
+Time: 726,g_pluseCnt:   7,prec:4095
+Time: 727,g_pluseCnt:   7,prec:4095
+Time: 728,g_pluseCnt:   7,prec:4095
+Time: 729,g_pluseCnt:   7,prec:4095
+Time: 730,g_pluseCnt:   7,prec:4095
+Time: 731,g_pluseCnt:   7,prec:4095
+Time: 732,g_pluseCnt:   7,prec:4095
+Time: 733,g_pluseCnt:   7,prec:4095
+Time: 734,g_pluseCnt:   7,prec:4095
+Time: 735,g_pluseCnt:   7,prec:4095
+Time: 736,g_pluseCnt:   7,prec:4095
+Time: 737,g_pluseCnt:   7,prec:4095
+Time: 738,g_pluseCnt:   7,prec:4095
+Time: 739,g_pluseCnt:   7,prec:4095
+Time: 740,g_pluseCnt:   7,prec:4095
+Time: 741,g_pluseCnt:   7,prec:4095
+Time: 742,g_pluseCnt:   7,prec:4095
+Time: 743,g_pluseCnt:   7,prec:4095
+Time: 744,g_pluseCnt:   7,prec:4095
+Time: 745,g_pluseCnt:   7,prec:4095
+Time: 746,g_pluseCnt:   7,prec:4095
+Time: 747,g_pluseCnt:   7,prec:4095
+Time: 748,g_pluseCnt:   7,prec:4095
+Time: 749,g_pluseCnt:   7,prec:4095
+Time: 750,g_pluseCnt:   7,prec:4095
+Time: 751,g_pluseCnt:   7,prec:4095
+Time: 752,g_pluseCnt:   7,prec:4095
+Time: 753,g_pluseCnt:   7,prec:4095
+Time: 754,g_pluseCnt:   7,prec:4095
+Time: 755,g_pluseCnt:   7,prec:4095
+Time: 756,g_pluseCnt:   7,prec:4095
+Time: 757,g_pluseCnt:   7,prec:4095
+Time: 758,g_pluseCnt:   7,prec:4095
+Time: 759,g_pluseCnt:   7,prec:4095
+Time: 760,g_pluseCnt:   7,prec:4095
+Time: 761,g_pluseCnt:   7,prec:4095
+Time: 762,g_pluseCnt:   7,prec:4095
+Time: 763,g_pluseCnt:   7,prec:4095
+Time: 764,g_pluseCnt:   7,prec:4095
+Time: 765,g_pluseCnt:   7,prec:4095
+Time: 766,g_pluseCnt:   7,prec:4095
+Time: 767,g_pluseCnt:   7,prec:4095
+Time: 768,g_pluseCnt:   7,prec:4095
+Time: 769,g_pluseCnt:   7,prec:4095
+Time: 770,g_pluseCnt:   7,prec:4095
+Time: 771,g_pluseCnt:   7,prec:4095
+Time: 772,g_pluseCnt:   7,prec:4095
+Time: 773,g_pluseCnt:   7,prec:4095
+Time: 774,g_pluseCnt:   7,prec:4095
+Time: 775,g_pluseCnt:   7,prec:4095
+Time: 776,g_pluseCnt:   7,prec:4095
+Time: 777,g_pluseCnt:   7,prec:4095
+Time: 778,g_pluseCnt:   7,prec:4095
+Time: 779,g_pluseCnt:   7,prec:4095
+Time: 780,g_pluseCnt:   7,prec:4095
+Time: 781,g_pluseCnt:   7,prec:4095
+Time: 782,g_pluseCnt:   7,prec:4095
+Time: 783,g_pluseCnt:   7,prec:4095
+Time: 784,g_pluseCnt:   7,prec:4095
+Time: 785,g_pluseCnt:   7,prec:4095
+Time: 786,g_pluseCnt:   7,prec:4095
+Time: 787,g_pluseCnt:   7,prec:4095
+Time: 788,g_pluseCnt:   7,prec:4095
+Time: 789,g_pluseCnt:   7,prec:4095
+Time: 790,g_pluseCnt:   7,prec:4095
+Time: 791,g_pluseCnt:   7,prec:4095
+Time: 792,g_pluseCnt:   7,prec:4095
+Time: 793,g_pluseCnt:   7,prec:4095
+Time: 794,g_pluseCnt:   7,prec:4095
+Time: 795,g_pluseCnt:   7,prec:4095
+Time: 796,g_pluseCnt:   7,prec:4095
+Time: 797,g_pluseCnt:   7,prec:4095
+Time: 798,g_pluseCnt:   7,prec:4095
+Time: 799,g_pluseCnt:   7,prec:4095
+Time: 800,g_pluseCnt:   7,prec:4095
+Time: 801,g_pluseCnt:   7,prec:4095
+Time: 802,g_pluseCnt:   7,prec:4095
+Time: 803,g_pluseCnt:   7,prec:4095
+Time: 804,g_pluseCnt:   7,prec:4095
+Time: 805,g_pluseCnt:   7,prec:4095
+Time: 806,g_pluseCnt:   7,prec:4095
+Time: 807,g_pluseCnt:   7,prec:4095
+Time: 808,g_pluseCnt:   7,prec:4095
+Time: 809,g_pluseCnt:   7,prec:4095
+Time: 810,g_pluseCnt:   7,prec:4095
+Time: 811,g_pluseCnt:   7,prec:4095
+Time: 812,g_pluseCnt:   7,prec:4095
+Time: 813,g_pluseCnt:   7,prec:4095
+Time: 814,g_pluseCnt:   7,prec:4095
+Time: 815,g_pluseCnt:   7,prec:4095
+Time: 816,g_pluseCnt:   7,prec:4095
+Time: 817,g_pluseCnt:   7,prec:4095
+Time: 818,g_pluseCnt:   7,prec:4095
+Time: 819,g_pluseCnt:   7,prec:4095
+Time: 820,g_pluseCnt:   7,prec:4095
+Time: 821,g_pluseCnt:   7,prec:4095
+Time: 822,g_pluseCnt:   7,prec:4095
+Time: 823,g_pluseCnt:   7,prec:4095
+Time: 824,g_pluseCnt:   7,prec:4095
+Time: 825,g_pluseCnt:   7,prec:4095
+Time: 826,g_pluseCnt:   7,prec:4095
+Time: 827,g_pluseCnt:   7,prec: 184
+Time: 828,g_pluseCnt:   7,prec: 184
+Time: 829,g_pluseCnt:   7,prec: 184
+Time: 830,g_pluseCnt:   7,prec: 184
+Time: 831,g_pluseCnt:   7,prec: 184
+Time: 832,g_pluseCnt:   7,prec: 184
+Time: 833,g_pluseCnt:   7,prec: 184
+Time: 834,g_pluseCnt:   7,prec: 184
+Time: 835,g_pluseCnt:   7,prec: 184
+Time: 836,g_pluseCnt:   7,prec: 184
+Time: 837,g_pluseCnt:   7,prec: 184
+Time: 838,g_pluseCnt:   7,prec: 184
+Time: 839,g_pluseCnt:   7,prec: 184
+Time: 840,g_pluseCnt:   7,prec: 184
+Time: 841,g_pluseCnt:   7,prec: 184
+Time: 842,g_pluseCnt:   7,prec: 184
+Time: 843,g_pluseCnt:   7,prec: 184
+Time: 844,g_pluseCnt:   7,prec: 184
+Time: 845,g_pluseCnt:   7,prec: 184
+Time: 846,g_pluseCnt:   7,prec: 184
+Time: 847,g_pluseCnt:   7,prec: 184
+Time: 848,g_pluseCnt:   7,prec: 184
+Time: 849,g_pluseCnt:   7,prec: 184
+Time: 850,g_pluseCnt:   7,prec: 184
+Time: 851,g_pluseCnt:   7,prec: 184
+Time: 852,g_pluseCnt:   7,prec: 184
+Time: 853,g_pluseCnt:   7,prec: 184
+Time: 854,g_pluseCnt:   7,prec: 184
+Time: 855,g_pluseCnt:   7,prec: 184
+Time: 856,g_pluseCnt:   7,prec: 184
+Time: 857,g_pluseCnt:   7,prec: 184
+Time: 858,g_pluseCnt:   7,prec: 184
+Time: 859,g_pluseCnt:   7,prec: 184
+Time: 860,g_pluseCnt:   7,prec: 184
+Time: 861,g_pluseCnt:   7,prec: 184
+Time: 862,g_pluseCnt:   7,prec: 184
+Time: 863,g_pluseCnt:   7,prec: 184
+Time: 864,g_pluseCnt:   7,prec: 184
+Time: 865,g_pluseCnt:   7,prec: 184
+Time: 866,g_pluseCnt:   7,prec: 184
+Time: 867,g_pluseCnt:   7,prec: 184
+Time: 868,g_pluseCnt:   7,prec: 184
+Time: 869,g_pluseCnt:   7,prec: 184
+Time: 870,g_pluseCnt:   7,prec: 184
+Time: 871,g_pluseCnt:   7,prec: 184
+Time: 872,g_pluseCnt:   7,prec: 184
+Time: 873,g_pluseCnt:   7,prec: 184
+Time: 874,g_pluseCnt:   7,prec: 184
+Time: 875,g_pluseCnt:   7,prec: 184
+Time: 876,g_pluseCnt:   7,prec: 184
+Time: 877,g_pluseCnt:   7,prec: 184
+Time: 878,g_pluseCnt:   7,prec: 184
+Time: 879,g_pluseCnt:   7,prec: 184
+Time: 880,g_pluseCnt:   7,prec: 184
+Time: 881,g_pluseCnt:   7,prec: 184
+Time: 882,g_pluseCnt:   7,prec: 184
+Time: 883,g_pluseCnt:   7,prec: 184
+Time: 884,g_pluseCnt:   7,prec: 184
+Time: 885,g_pluseCnt:   7,prec: 184
+Time: 886,g_pluseCnt:   7,prec: 184
+Time: 887,g_pluseCnt:   7,prec: 184
+Time: 888,g_pluseCnt:   7,prec: 184
+Time: 889,g_pluseCnt:   7,prec: 184
+Time: 890,g_pluseCnt:   7,prec: 184
+Time: 891,g_pluseCnt:   7,prec: 184
+Time: 892,g_pluseCnt:   7,prec: 184
+Time: 893,g_pluseCnt:   7,prec: 184
+Time: 894,g_pluseCnt:   7,prec: 184
+Time: 895,g_pluseCnt:   7,prec: 184
+Time: 896,g_pluseCnt:   7,prec: 184
+Time: 897,g_pluseCnt:   7,prec: 184
+Time: 898,g_pluseCnt:   7,prec: 184
+Time: 899,g_pluseCnt:   7,prec: 184
+Time: 900,g_pluseCnt:   7,prec: 184
+Time: 901,g_pluseCnt:   7,prec: 184
+Time: 902,g_pluseCnt:   7,prec: 184
+Time: 903,g_pluseCnt:   7,prec: 184
+Time: 904,g_pluseCnt:   7,prec: 184
+Time: 905,g_pluseCnt:   7,prec: 184
+Time: 906,g_pluseCnt:   7,prec: 184
+Time: 907,g_pluseCnt:   7,prec: 184
+Time: 908,g_pluseCnt:   7,prec: 184
+Time: 909,g_pluseCnt:   7,prec: 184
+Time: 910,g_pluseCnt:   7,prec: 184
+Time: 911,g_pluseCnt:   7,prec: 184
+Time: 912,g_pluseCnt:   7,prec: 184
+Time: 913,g_pluseCnt:   7,prec: 184
+Time: 914,g_pluseCnt:   7,prec: 184
+Time: 915,g_pluseCnt:   7,prec: 184
+Time: 916,g_pluseCnt:   7,prec: 184
+Time: 917,g_pluseCnt:   7,prec: 184
+Time: 918,g_pluseCnt:   7,prec: 184
+Time: 919,g_pluseCnt:   7,prec: 184
+Time: 920,g_pluseCnt:   7,prec: 184
+Time: 921,g_pluseCnt:   7,prec: 184
+Time: 922,g_pluseCnt:   7,prec: 184
+Time: 923,g_pluseCnt:   7,prec: 184
+Time: 924,g_pluseCnt:   7,prec: 184
+Time: 925,g_pluseCnt:   7,prec: 184
+Time: 926,g_pluseCnt:   7,prec: 184
+Time: 927,g_pluseCnt:   7,prec: 184
+Time: 928,g_pluseCnt:   7,prec: 212
+Time: 929,g_pluseCnt:   7,prec: 212
+Time: 930,g_pluseCnt:   7,prec: 212
+Time: 931,g_pluseCnt:   7,prec: 212
+Time: 932,g_pluseCnt:   7,prec: 212
+Time: 933,g_pluseCnt:   7,prec: 212
+Time: 934,g_pluseCnt:   7,prec: 212
+Time: 935,g_pluseCnt:   7,prec: 212
+Time: 936,g_pluseCnt:   7,prec: 212
+Time: 937,g_pluseCnt:   7,prec: 212
+Time: 938,g_pluseCnt:   7,prec: 212
+Time: 939,g_pluseCnt:   7,prec: 212
+Time: 940,g_pluseCnt:   7,prec: 212
+Time: 941,g_pluseCnt:   7,prec: 212
+Time: 942,g_pluseCnt:   7,prec: 212
+Time: 943,g_pluseCnt:   7,prec: 212
+Time: 944,g_pluseCnt:   7,prec: 212
+Time: 945,g_pluseCnt:   7,prec: 212
+Time: 946,g_pluseCnt:   7,prec: 212
+Time: 947,g_pluseCnt:   7,prec: 212
+Time: 948,g_pluseCnt:   7,prec: 212
+Time: 949,g_pluseCnt:   7,prec: 212
+Time: 950,g_pluseCnt:   7,prec: 212
+Time: 951,g_pluseCnt:   7,prec: 212
+Time: 952,g_pluseCnt:   7,prec: 212
+Time: 953,g_pluseCnt:   7,prec: 212
+Time: 954,g_pluseCnt:   7,prec: 212
+Time: 955,g_pluseCnt:   7,prec: 212
+Time: 956,g_pluseCnt:   7,prec: 212
+Time: 957,g_pluseCnt:   0,prec: 212
+Time: 958,g_pluseCnt:   0,prec: 212
+Time: 959,g_pluseCnt:   0,prec: 212
+Time: 960,g_pluseCnt:   0,prec: 212
+Time: 961,g_pluseCnt:   0,prec: 212
+Time: 962,g_pluseCnt:   0,prec: 212
+Time: 963,g_pluseCnt:   0,prec: 212
+Time: 964,g_pluseCnt:   0,prec: 212
+Time: 965,g_pluseCnt:   0,prec: 212
+Time: 966,g_pluseCnt:   0,prec: 212
+Time: 967,g_pluseCnt:   0,prec: 212
+Time: 968,g_pluseCnt:   0,prec: 212
+Time: 969,g_pluseCnt:   0,prec: 212
+Time: 970,g_pluseCnt:   0,prec: 212
+Time: 971,g_pluseCnt:   0,prec: 212
+Time: 972,g_pluseCnt:   0,prec: 212
+Time: 973,g_pluseCnt:   0,prec: 212
+Time: 974,g_pluseCnt:   0,prec: 212
+Time: 975,g_pluseCnt:   0,prec: 212
+Time: 976,g_pluseCnt:   0,prec: 212
+Time: 977,g_pluseCnt:   0,prec: 212
+Time: 978,g_pluseCnt:   0,prec: 212
+Time: 979,g_pluseCnt:   0,prec: 212
+Time: 980,g_pluseCnt:   0,prec: 212
+Time: 981,g_pluseCnt:   0,prec: 212
+Time: 982,g_pluseCnt:   0,prec: 212
+Time: 983,g_pluseCnt:   0,prec: 212
+Time: 984,g_pluseCnt:   0,prec: 212
+Time: 985,g_pluseCnt:   0,prec: 212
+Time: 986,g_pluseCnt:   0,prec: 212
+Time: 987,g_pluseCnt:   0,prec: 212
+Time: 988,g_pluseCnt:   0,prec: 212
+Time: 989,g_pluseCnt:   0,prec: 212
+Time: 990,g_pluseCnt:   0,prec: 212
+Time: 991,g_pluseCnt:   0,prec: 212
+Time: 992,g_pluseCnt:   0,prec: 212
+Time: 993,g_pluseCnt:   0,prec: 212
+Time: 994,g_pluseCnt:   0,prec: 212
+Time: 995,g_pluseCnt:   0,prec: 212
+Time: 996,g_pluseCnt:   0,prec: 212
+Time: 997,g_pluseCnt:   0,prec: 212
+Time: 998,g_pluseCnt:   0,prec: 212
+Time: 999,g_pluseCnt:   0,prec: 212
+Time:1000,g_pluseCnt:   0,prec: 212
+Time:1001,g_pluseCnt:   0,prec: 212
+Time:1002,g_pluseCnt:   0,prec: 212
+Time:1003,g_pluseCnt:   0,prec: 212
+Time:1004,g_pluseCnt:   0,prec: 212
+Time:1005,g_pluseCnt:   0,prec: 212
+Time:1006,g_pluseCnt:   0,prec: 212
+Time:1007,g_pluseCnt:   0,prec: 212
+Time:1008,g_pluseCnt:   0,prec: 212
+Time:1009,g_pluseCnt:   0,prec: 212
+Time:1010,g_pluseCnt:   0,prec: 212
+Time:1011,g_pluseCnt:   0,prec: 212
+Time:1012,g_pluseCnt:   0,prec: 212
+Time:1013,g_pluseCnt:   0,prec: 212
+Time:1014,g_pluseCnt:   1,prec: 212
+Time:1015,g_pluseCnt:   1,prec: 212
+Time:1016,g_pluseCnt:   1,prec: 212
+Time:1017,g_pluseCnt:   1,prec: 212
+Time:1018,g_pluseCnt:   1,prec: 212
+Time:1019,g_pluseCnt:   1,prec: 212
+Time:1020,g_pluseCnt:   1,prec: 212
+Time:1021,g_pluseCnt:   1,prec: 212
+Time:1022,g_pluseCnt:   1,prec: 212
+Time:1023,g_pluseCnt:   1,prec: 212
+Time:1024,g_pluseCnt:   1,prec: 212
+Time:1025,g_pluseCnt:   1,prec: 212
+Time:1026,g_pluseCnt:   1,prec: 212
+Time:1027,g_pluseCnt:   1,prec: 212
+Time:1028,g_pluseCnt:   1,prec: 212
+Time:1029,g_pluseCnt:   1,prec: 297
+Time:1030,g_pluseCnt:   1,prec: 297
+Time:1031,g_pluseCnt:   1,prec: 297
+Time:1032,g_pluseCnt:   1,prec: 297
+Time:1033,g_pluseCnt:   1,prec: 297
+Time:1034,g_pluseCnt:   1,prec: 297
+Time:1035,g_pluseCnt:   1,prec: 297
+Time:1036,g_pluseCnt:   1,prec: 297
+Time:1037,g_pluseCnt:   1,prec: 297
+Time:1038,g_pluseCnt:   1,prec: 297
+Time:1039,g_pluseCnt:   1,prec: 297
+Time:1040,g_pluseCnt:   1,prec: 297
+Time:1041,g_pluseCnt:   1,prec: 297
+Time:1042,g_pluseCnt:   1,prec: 297
+Time:1043,g_pluseCnt:   1,prec: 297
+Time:1044,g_pluseCnt:   1,prec: 297
+Time:1045,g_pluseCnt:   1,prec: 297
+Time:1046,g_pluseCnt:   1,prec: 297
+Time:1047,g_pluseCnt:   1,prec: 297
+Time:1048,g_pluseCnt:   1,prec: 297
+Time:1049,g_pluseCnt:   1,prec: 297
+Time:1050,g_pluseCnt:   1,prec: 297
+Time:1051,g_pluseCnt:   1,prec: 297
+Time:1052,g_pluseCnt:   1,prec: 297
+Time:1053,g_pluseCnt:   1,prec: 297
+Time:1054,g_pluseCnt:   1,prec: 297
+Time:1055,g_pluseCnt:   1,prec: 297
+Time:1056,g_pluseCnt:   1,prec: 297
+Time:1057,g_pluseCnt:   1,prec: 297
+Time:1058,g_pluseCnt:   1,prec: 297
+Time:1059,g_pluseCnt:   1,prec: 297
+Time:1060,g_pluseCnt:   1,prec: 297
+Time:1061,g_pluseCnt:   1,prec: 297
+Time:1062,g_pluseCnt:   1,prec: 297
+Time:1063,g_pluseCnt:   1,prec: 297
+Time:1064,g_pluseCnt:   1,prec: 297
+Time:1065,g_pluseCnt:   1,prec: 297
+Time:1066,g_pluseCnt:   1,prec: 297
+Time:1067,g_pluseCnt:   1,prec: 297
+Time:1068,g_pluseCnt:   1,prec: 297
+Time:1069,g_pluseCnt:   1,prec: 297
+Time:1070,g_pluseCnt:   1,prec: 297
+Time:1071,g_pluseCnt:   1,prec: 297
+Time:1072,g_pluseCnt:   1,prec: 297
+Time:1073,g_pluseCnt:   1,prec: 297
+Time:1074,g_pluseCnt:   2,prec: 297
+Time:1075,g_pluseCnt:   2,prec: 297
+Time:1076,g_pluseCnt:   2,prec: 297
+Time:1077,g_pluseCnt:   2,prec: 297
+Time:1078,g_pluseCnt:   2,prec: 297
+Time:1079,g_pluseCnt:   2,prec: 297
+Time:1080,g_pluseCnt:   2,prec: 297
+Time:1081,g_pluseCnt:   2,prec: 297
+Time:1082,g_pluseCnt:   2,prec: 297
+Time:1083,g_pluseCnt:   2,prec: 297
+Time:1084,g_pluseCnt:   2,prec: 297
+Time:1085,g_pluseCnt:   2,prec: 297
+Time:1086,g_pluseCnt:   2,prec: 297
+Time:1087,g_pluseCnt:   2,prec: 297
+Time:1088,g_pluseCnt:   2,prec: 297
+Time:1089,g_pluseCnt:   2,prec: 297
+Time:1090,g_pluseCnt:   2,prec: 297
+Time:1091,g_pluseCnt:   2,prec: 297
+Time:1092,g_pluseCnt:   2,prec: 297
+Time:1093,g_pluseCnt:   2,prec: 297
+Time:1094,g_pluseCnt:   2,prec: 297
+Time:1095,g_pluseCnt:   2,prec: 297
+Time:1096,g_pluseCnt:   2,prec: 297
+Time:1097,g_pluseCnt:   2,prec: 297
+Time:1098,g_pluseCnt:   2,prec: 297
+Time:1099,g_pluseCnt:   2,prec: 297
+Time:1100,g_pluseCnt:   2,prec: 297
+Time:1101,g_pluseCnt:   2,prec: 297
+Time:1102,g_pluseCnt:   2,prec: 297
+Time:1103,g_pluseCnt:   2,prec: 297
+Time:1104,g_pluseCnt:   2,prec: 297
+Time:1105,g_pluseCnt:   2,prec: 297
+Time:1106,g_pluseCnt:   2,prec: 297
+Time:1107,g_pluseCnt:   2,prec: 297
+Time:1108,g_pluseCnt:   2,prec: 297
+Time:1109,g_pluseCnt:   2,prec: 297
+Time:1110,g_pluseCnt:   2,prec: 297
+Time:1111,g_pluseCnt:   2,prec: 297
+Time:1112,g_pluseCnt:   2,prec: 297
+Time:1113,g_pluseCnt:   2,prec: 297
+Time:1114,g_pluseCnt:   2,prec: 297
+Time:1115,g_pluseCnt:   2,prec: 297
+Time:1116,g_pluseCnt:   2,prec: 297
+Time:1117,g_pluseCnt:   2,prec: 297
+Time:1118,g_pluseCnt:   2,prec: 297
+Time:1119,g_pluseCnt:   2,prec: 297
+Time:1120,g_pluseCnt:   2,prec: 297
+Time:1121,g_pluseCnt:   2,prec: 297
+Time:1122,g_pluseCnt:   2,prec: 297
+Time:1123,g_pluseCnt:   2,prec: 297
+Time:1124,g_pluseCnt:   2,prec: 297
+Time:1125,g_pluseCnt:   2,prec: 297
+Time:1126,g_pluseCnt:   2,prec: 297
+Time:1127,g_pluseCnt:   2,prec: 297
+Time:1128,g_pluseCnt:   2,prec: 297
+Time:1129,g_pluseCnt:   2,prec: 297
+Time:1130,g_pluseCnt:   2,prec: 448
+Time:1131,g_pluseCnt:   2,prec: 448
+Time:1132,g_pluseCnt:   2,prec: 448
+Time:1133,g_pluseCnt:   2,prec: 448
+Time:1134,g_pluseCnt:   2,prec: 448
+Time:1135,g_pluseCnt:   2,prec: 448
+Time:1136,g_pluseCnt:   2,prec: 448
+Time:1137,g_pluseCnt:   2,prec: 448
+Time:1138,g_pluseCnt:   2,prec: 448
+Time:1139,g_pluseCnt:   3,prec: 448
+Time:1140,g_pluseCnt:   3,prec: 448
+Time:1141,g_pluseCnt:   3,prec: 448
+Time:1142,g_pluseCnt:   3,prec: 448
+Time:1143,g_pluseCnt:   3,prec: 448
+Time:1144,g_pluseCnt:   3,prec: 448
+Time:1145,g_pluseCnt:   3,prec: 448
+Time:1146,g_pluseCnt:   3,prec: 448
+Time:1147,g_pluseCnt:   3,prec: 448
+Time:1148,g_pluseCnt:   3,prec: 448
+Time:1149,g_pluseCnt:   3,prec: 448
+Time:1150,g_pluseCnt:   3,prec: 448
+Time:1151,g_pluseCnt:   3,prec: 448
+Time:1152,g_pluseCnt:   3,prec: 448
+Time:1153,g_pluseCnt:   3,prec: 448
+Time:1154,g_pluseCnt:   3,prec: 448
+Time:1155,g_pluseCnt:   3,prec: 448
+Time:1156,g_pluseCnt:   3,prec: 448
+Time:1157,g_pluseCnt:   3,prec: 448
+Time:1158,g_pluseCnt:   3,prec: 448
+Time:1159,g_pluseCnt:   3,prec: 448
+Time:1160,g_pluseCnt:   3,prec: 448
+Time:1161,g_pluseCnt:   3,prec: 448
+Time:1162,g_pluseCnt:   3,prec: 448
+Time:1163,g_pluseCnt:   3,prec: 448
+Time:1164,g_pluseCnt:   3,prec: 448
+Time:1165,g_pluseCnt:   3,prec: 448
+Time:1166,g_pluseCnt:   3,prec: 448
+Time:1167,g_pluseCnt:   3,prec: 448
+Time:1168,g_pluseCnt:   3,prec: 448
+Time:1169,g_pluseCnt:   3,prec: 448
+Time:1170,g_pluseCnt:   3,prec: 448
+Time:1171,g_pluseCnt:   3,prec: 448
+Time:1172,g_pluseCnt:   3,prec: 448
+Time:1173,g_pluseCnt:   3,prec: 448
+Time:1174,g_pluseCnt:   3,prec: 448
+Time:1175,g_pluseCnt:   3,prec: 448
+Time:1176,g_pluseCnt:   3,prec: 448
+Time:1177,g_pluseCnt:   3,prec: 448
+Time:1178,g_pluseCnt:   3,prec: 448
+Time:1179,g_pluseCnt:   3,prec: 448
+Time:1180,g_pluseCnt:   3,prec: 448
+Time:1181,g_pluseCnt:   3,prec: 448
+Time:1182,g_pluseCnt:   3,prec: 448
+Time:1183,g_pluseCnt:   3,prec: 448
+Time:1184,g_pluseCnt:   3,prec: 448
+Time:1185,g_pluseCnt:   3,prec: 448
+Time:1186,g_pluseCnt:   3,prec: 448
+Time:1187,g_pluseCnt:   3,prec: 448
+Time:1188,g_pluseCnt:   3,prec: 448
+Time:1189,g_pluseCnt:   3,prec: 448
+Time:1190,g_pluseCnt:   3,prec: 448
+Time:1191,g_pluseCnt:   3,prec: 448
+Time:1192,g_pluseCnt:   3,prec: 448
+Time:1193,g_pluseCnt:   3,prec: 448
+Time:1194,g_pluseCnt:   3,prec: 448
+Time:1195,g_pluseCnt:   3,prec: 448
+Time:1196,g_pluseCnt:   3,prec: 448
+Time:1197,g_pluseCnt:   3,prec: 448
+Time:1198,g_pluseCnt:   3,prec: 448
+Time:1199,g_pluseCnt:   3,prec: 448
+Time:1200,g_pluseCnt:   3,prec: 448
+Time:1201,g_pluseCnt:   3,prec: 448
+Time:1202,g_pluseCnt:   3,prec: 448
+Time:1203,g_pluseCnt:   3,prec: 448
+Time:1204,g_pluseCnt:   3,prec: 448
+Time:1205,g_pluseCnt:   3,prec: 448
+Time:1206,g_pluseCnt:   3,prec: 448
+Time:1207,g_pluseCnt:   3,prec: 448
+Time:1208,g_pluseCnt:   4,prec: 448
+Time:1209,g_pluseCnt:   4,prec: 448
+Time:1210,g_pluseCnt:   4,prec: 448
+Time:1211,g_pluseCnt:   4,prec: 448
+Time:1212,g_pluseCnt:   4,prec: 448
+Time:1213,g_pluseCnt:   4,prec: 448
+Time:1214,g_pluseCnt:   4,prec: 448
+Time:1215,g_pluseCnt:   4,prec: 448
+Time:1216,g_pluseCnt:   4,prec: 448
+Time:1217,g_pluseCnt:   4,prec: 448
+Time:1218,g_pluseCnt:   4,prec: 448
+Time:1219,g_pluseCnt:   4,prec: 448
+Time:1220,g_pluseCnt:   4,prec: 448
+Time:1221,g_pluseCnt:   4,prec: 448
+Time:1222,g_pluseCnt:   4,prec: 448
+Time:1223,g_pluseCnt:   4,prec: 448
+Time:1224,g_pluseCnt:   4,prec: 448
+Time:1225,g_pluseCnt:   4,prec: 448
+Time:1226,g_pluseCnt:   4,prec: 448
+Time:1227,g_pluseCnt:   4,prec: 448
+Time:1228,g_pluseCnt:   4,prec: 448
+Time:1229,g_pluseCnt:   4,prec: 448
+Time:1230,g_pluseCnt:   4,prec: 448
+Time:1231,g_pluseCnt:   4,prec: 638
+Time:1232,g_pluseCnt:   4,prec: 638
+Time:1233,g_pluseCnt:   4,prec: 638
+Time:1234,g_pluseCnt:   4,prec: 638
+Time:1235,g_pluseCnt:   4,prec: 638
+Time:1236,g_pluseCnt:   4,prec: 638
+Time:1237,g_pluseCnt:   4,prec: 638
+Time:1238,g_pluseCnt:   4,prec: 638
+Time:1239,g_pluseCnt:   4,prec: 638
+Time:1240,g_pluseCnt:   4,prec: 638
+Time:1241,g_pluseCnt:   4,prec: 638
+Time:1242,g_pluseCnt:   4,prec: 638
+Time:1243,g_pluseCnt:   4,prec: 638
+Time:1244,g_pluseCnt:   4,prec: 638
+Time:1245,g_pluseCnt:   4,prec: 638
+Time:1246,g_pluseCnt:   4,prec: 638
+Time:1247,g_pluseCnt:   4,prec: 638
+Time:1248,g_pluseCnt:   4,prec: 638
+Time:1249,g_pluseCnt:   4,prec: 638
+Time:1250,g_pluseCnt:   4,prec: 638
+Time:1251,g_pluseCnt:   4,prec: 638
+Time:1252,g_pluseCnt:   4,prec: 638
+Time:1253,g_pluseCnt:   4,prec: 638
+Time:1254,g_pluseCnt:   4,prec: 638
+Time:1255,g_pluseCnt:   4,prec: 638
+Time:1256,g_pluseCnt:   4,prec: 638
+Time:1257,g_pluseCnt:   4,prec: 638
+Time:1258,g_pluseCnt:   4,prec: 638
+Time:1259,g_pluseCnt:   4,prec: 638
+Time:1260,g_pluseCnt:   4,prec: 638
+Time:1261,g_pluseCnt:   4,prec: 638
+Time:1262,g_pluseCnt:   4,prec: 638
+Time:1263,g_pluseCnt:   4,prec: 638
+Time:1264,g_pluseCnt:   4,prec: 638
+Time:1265,g_pluseCnt:   4,prec: 638
+Time:1266,g_pluseCnt:   4,prec: 638
+Time:1267,g_pluseCnt:   4,prec: 638
+Time:1268,g_pluseCnt:   4,prec: 638
+Time:1269,g_pluseCnt:   4,prec: 638
+Time:1270,g_pluseCnt:   4,prec: 638
+Time:1271,g_pluseCnt:   4,prec: 638
+Time:1272,g_pluseCnt:   4,prec: 638
+Time:1273,g_pluseCnt:   4,prec: 638
+Time:1274,g_pluseCnt:   4,prec: 638
+Time:1275,g_pluseCnt:   4,prec: 638
+Time:1276,g_pluseCnt:   4,prec: 638
+Time:1277,g_pluseCnt:   4,prec: 638
+Time:1278,g_pluseCnt:   4,prec: 638
+Time:1279,g_pluseCnt:   4,prec: 638
+Time:1280,g_pluseCnt:   4,prec: 638
+Time:1281,g_pluseCnt:   4,prec: 638
+Time:1282,g_pluseCnt:   4,prec: 638
+Time:1283,g_pluseCnt:   4,prec: 638
+Time:1284,g_pluseCnt:   4,prec: 638
+Time:1285,g_pluseCnt:   4,prec: 638
+Time:1286,g_pluseCnt:   4,prec: 638
+Time:1287,g_pluseCnt:   4,prec: 638
+Time:1288,g_pluseCnt:   4,prec: 638
+Time:1289,g_pluseCnt:   4,prec: 638
+Time:1290,g_pluseCnt:   4,prec: 638
+Time:1291,g_pluseCnt:   4,prec: 638
+Time:1292,g_pluseCnt:   4,prec: 638
+Time:1293,g_pluseCnt:   4,prec: 638
+Time:1294,g_pluseCnt:   4,prec: 638
+Time:1295,g_pluseCnt:   4,prec: 638
+Time:1296,g_pluseCnt:   4,prec: 638
+Time:1297,g_pluseCnt:   4,prec: 638
+Time:1298,g_pluseCnt:   4,prec: 638
+Time:1299,g_pluseCnt:   4,prec: 638
+Time:1300,g_pluseCnt:   4,prec: 638
+Time:1301,g_pluseCnt:   4,prec: 638
+Time:1302,g_pluseCnt:   4,prec: 638
+Time:1303,g_pluseCnt:   4,prec: 638
+Time:1304,g_pluseCnt:   4,prec: 638
+Time:1305,g_pluseCnt:   4,prec: 638
+Time:1306,g_pluseCnt:   4,prec: 638
+Time:1307,g_pluseCnt:   4,prec: 638
+Time:1308,g_pluseCnt:   4,prec: 638
+Time:1309,g_pluseCnt:   4,prec: 638
+Time:1310,g_pluseCnt:   4,prec: 638
+Time:1311,g_pluseCnt:   4,prec: 638
+Time:1312,g_pluseCnt:   4,prec: 638
+Time:1313,g_pluseCnt:   4,prec: 638
+Time:1314,g_pluseCnt:   4,prec: 638
+Time:1315,g_pluseCnt:   4,prec: 638
+Time:1316,g_pluseCnt:   4,prec: 638
+Time:1317,g_pluseCnt:   4,prec: 638
+Time:1318,g_pluseCnt:   4,prec: 638
+Time:1319,g_pluseCnt:   4,prec: 638
+Time:1320,g_pluseCnt:   4,prec: 638
+Time:1321,g_pluseCnt:   4,prec: 638
+Time:1322,g_pluseCnt:   4,prec: 638
+Time:1323,g_pluseCnt:   4,prec: 638
+Time:1324,g_pluseCnt:   4,prec: 638
+Time:1325,g_pluseCnt:   4,prec: 638
+Time:1326,g_pluseCnt:   4,prec: 638
+Time:1327,g_pluseCnt:   4,prec: 638
+Time:1328,g_pluseCnt:   4,prec: 638
+Time:1329,g_pluseCnt:   4,prec: 638
+Time:1330,g_pluseCnt:   4,prec: 638
+Time:1331,g_pluseCnt:   4,prec: 638
+Time:1332,g_pluseCnt:   4,prec: 487
+Time:1333,g_pluseCnt:   4,prec: 487
+Time:1334,g_pluseCnt:   4,prec: 487
+Time:1335,g_pluseCnt:   4,prec: 487
+Time:1336,g_pluseCnt:   4,prec: 487
+Time:1337,g_pluseCnt:   4,prec: 487
+Time:1338,g_pluseCnt:   4,prec: 487
+Time:1339,g_pluseCnt:   4,prec: 487
+Time:1340,g_pluseCnt:   4,prec: 487
+Time:1341,g_pluseCnt:   4,prec: 487
+Time:1342,g_pluseCnt:   4,prec: 487
+Time:1343,g_pluseCnt:   4,prec: 487
+Time:1344,g_pluseCnt:   4,prec: 487
+Time:1345,g_pluseCnt:   4,prec: 487
+Time:1346,g_pluseCnt:   4,prec: 487
+Time:1347,g_pluseCnt:   4,prec: 487
+Time:1348,g_pluseCnt:   4,prec: 487
+Time:1349,g_pluseCnt:   4,prec: 487
+Time:1350,g_pluseCnt:   4,prec: 487
+Time:1351,g_pluseCnt:   4,prec: 487
+Time:1352,g_pluseCnt:   4,prec: 487
+Time:1353,g_pluseCnt:   4,prec: 487
+Time:1354,g_pluseCnt:   4,prec: 487
+Time:1355,g_pluseCnt:   4,prec: 487
+Time:1356,g_pluseCnt:   4,prec: 487
+Time:1357,g_pluseCnt:   4,prec: 487
+Time:1358,g_pluseCnt:   4,prec: 487
+Time:1359,g_pluseCnt:   4,prec: 487
+Time:1360,g_pluseCnt:   4,prec: 487
+Time:1361,g_pluseCnt:   4,prec: 487
+Time:1362,g_pluseCnt:   4,prec: 487
+Time:1363,g_pluseCnt:   4,prec: 487
+Time:1364,g_pluseCnt:   4,prec: 487
+Time:1365,g_pluseCnt:   4,prec: 487
+Time:1366,g_pluseCnt:   4,prec: 487
+Time:1367,g_pluseCnt:   4,prec: 487
+Time:1368,g_pluseCnt:   4,prec: 487
+Time:1369,g_pluseCnt:   4,prec: 487
+Time:1370,g_pluseCnt:   4,prec: 487
+Time:1371,g_pluseCnt:   4,prec: 487
+Time:1372,g_pluseCnt:   4,prec: 487
+Time:1373,g_pluseCnt:   4,prec: 487
+Time:1374,g_pluseCnt:   4,prec: 487
+Time:1375,g_pluseCnt:   4,prec: 487
+Time:1376,g_pluseCnt:   4,prec: 487
+Time:1377,g_pluseCnt:   4,prec: 487
+Time:1378,g_pluseCnt:   4,prec: 487
+Time:1379,g_pluseCnt:   4,prec: 487
+Time:1380,g_pluseCnt:   4,prec: 487
+Time:1381,g_pluseCnt:   4,prec: 487
+Time:1382,g_pluseCnt:   4,prec: 487
+Time:1383,g_pluseCnt:   4,prec: 487
+Time:1384,g_pluseCnt:   4,prec: 487
+Time:1385,g_pluseCnt:   4,prec: 487
+Time:1386,g_pluseCnt:   4,prec: 487
+Time:1387,g_pluseCnt:   4,prec: 487
+Time:1388,g_pluseCnt:   4,prec: 487
+Time:1389,g_pluseCnt:   4,prec: 487
+Time:1390,g_pluseCnt:   4,prec: 487
+Time:1391,g_pluseCnt:   4,prec: 487
+Time:1392,g_pluseCnt:   4,prec: 487
+Time:1393,g_pluseCnt:   4,prec: 487
+Time:1394,g_pluseCnt:   4,prec: 487
+Time:1395,g_pluseCnt:   4,prec: 487
+Time:1396,g_pluseCnt:   4,prec: 487
+Time:1397,g_pluseCnt:   4,prec: 487
+Time:1398,g_pluseCnt:   4,prec: 487
+Time:1399,g_pluseCnt:   4,prec: 487
+Time:1400,g_pluseCnt:   4,prec: 487
+Time:1401,g_pluseCnt:   4,prec: 487
+Time:1402,g_pluseCnt:   4,prec: 487
+Time:1403,g_pluseCnt:   4,prec: 487
+Time:1404,g_pluseCnt:   4,prec: 487
+Time:1405,g_pluseCnt:   4,prec: 487
+Time:1406,g_pluseCnt:   4,prec: 487
+Time:1407,g_pluseCnt:   4,prec: 487
+Time:1408,g_pluseCnt:   4,prec: 487
+Time:1409,g_pluseCnt:   4,prec: 487
+Time:1410,g_pluseCnt:   4,prec: 487
+Time:1411,g_pluseCnt:   4,prec: 487
+Time:1412,g_pluseCnt:   4,prec: 487
+Time:1413,g_pluseCnt:   4,prec: 487
+Time:1414,g_pluseCnt:   4,prec: 487
+Time:1415,g_pluseCnt:   4,prec: 487
+Time:1416,g_pluseCnt:   4,prec: 487
+Time:1417,g_pluseCnt:   4,prec: 487
+Time:1418,g_pluseCnt:   4,prec: 487
+Time:1419,g_pluseCnt:   4,prec: 487
+Time:1420,g_pluseCnt:   4,prec: 487
+Time:1421,g_pluseCnt:   4,prec: 487
+Time:1422,g_pluseCnt:   4,prec: 487
+Time:1423,g_pluseCnt:   4,prec: 487
+Time:1424,g_pluseCnt:   4,prec: 487
+Time:1425,g_pluseCnt:   4,prec: 487
+Time:1426,g_pluseCnt:   4,prec: 487
+Time:1427,g_pluseCnt:   4,prec: 487
+Time:1428,g_pluseCnt:   4,prec: 487
+Time:1429,g_pluseCnt:   4,prec: 487
+Time:1430,g_pluseCnt:   4,prec: 487
+Time:1431,g_pluseCnt:   4,prec: 487
+Time:1432,g_pluseCnt:   4,prec: 487
+Time:1433,g_pluseCnt:   4,prec: 237
+Time:1434,g_pluseCnt:   4,prec: 237
+Time:1435,g_pluseCnt:   4,prec: 237
+Time:1436,g_pluseCnt:   4,prec: 237
+Time:1437,g_pluseCnt:   4,prec: 237
+Time:1438,g_pluseCnt:   4,prec: 237
+Time:1439,g_pluseCnt:   4,prec: 237
+Time:1440,g_pluseCnt:   4,prec: 237
+Time:1441,g_pluseCnt:   4,prec: 237
+Time:1442,g_pluseCnt:   4,prec: 237
+Time:1443,g_pluseCnt:   4,prec: 237
+Time:1444,g_pluseCnt:   4,prec: 237
+Time:1445,g_pluseCnt:   4,prec: 237
+Time:1446,g_pluseCnt:   4,prec: 237
+Time:1447,g_pluseCnt:   4,prec: 237
+Time:1448,g_pluseCnt:   4,prec: 237
+Time:1449,g_pluseCnt:   4,prec: 237
+Time:1450,g_pluseCnt:   4,prec: 237
+Time:1451,g_pluseCnt:   4,prec: 237
+Time:1452,g_pluseCnt:   4,prec: 237
+Time:1453,g_pluseCnt:   4,prec: 237
+Time:1454,g_pluseCnt:   4,prec: 237
+Time:1455,g_pluseCnt:   4,prec: 237
+Time:1456,g_pluseCnt:   4,prec: 237
+Time:1457,g_pluseCnt:   4,prec: 237
+Time:1458,g_pluseCnt:   4,prec: 237
+Time:1459,g_pluseCnt:   4,prec: 237
+Time:1460,g_pluseCnt:   4,prec: 237
+Time:1461,g_pluseCnt:   4,prec: 237
+Time:1462,g_pluseCnt:   4,prec: 237
+Time:1463,g_pluseCnt:   4,prec: 237
+Time:1464,g_pluseCnt:   4,prec: 237
+Time:1465,g_pluseCnt:   4,prec: 237
+Time:1466,g_pluseCnt:   4,prec: 237
+Time:1467,g_pluseCnt:   4,prec: 237
+Time:1468,g_pluseCnt:   4,prec: 237
+Time:1469,g_pluseCnt:   4,prec: 237
+Time:1470,g_pluseCnt:   4,prec: 237
+Time:1471,g_pluseCnt:   4,prec: 237
+Time:1472,g_pluseCnt:   4,prec: 237
+Time:1473,g_pluseCnt:   4,prec: 237
+Time:1474,g_pluseCnt:   4,prec: 237
+Time:1475,g_pluseCnt:   4,prec: 237
+Time:1476,g_pluseCnt:   4,prec: 237
+Time:1477,g_pluseCnt:   4,prec: 237
+Time:1478,g_pluseCnt:   4,prec: 237
+Time:1479,g_pluseCnt:   4,prec: 237
+Time:1480,g_pluseCnt:   4,prec: 237
+Time:1481,g_pluseCnt:   4,prec: 237
+Time:1482,g_pluseCnt:   4,prec: 237
+Time:1483,g_pluseCnt:   4,prec: 237
+Time:1484,g_pluseCnt:   4,prec: 237
+Time:1485,g_pluseCnt:   4,prec: 237
+Time:1486,g_pluseCnt:   4,prec: 237
+Time:1487,g_pluseCnt:   4,prec: 237
+Time:1488,g_pluseCnt:   4,prec: 237
+Time:1489,g_pluseCnt:   4,prec: 237
+Time:1490,g_pluseCnt:   4,prec: 237
+Time:1491,g_pluseCnt:   4,prec: 237
+Time:1492,g_pluseCnt:   4,prec: 237
+Time:1493,g_pluseCnt:   4,prec: 237
+Time:1494,g_pluseCnt:   4,prec: 237
+Time:1495,g_pluseCnt:   4,prec: 237
+Time:1496,g_pluseCnt:   4,prec: 237
+Time:1497,g_pluseCnt:   4,prec: 237
+Time:1498,g_pluseCnt:   4,prec: 237
+Time:1499,g_pluseCnt:   4,prec: 237
+Time:1500,g_pluseCnt:   4,prec: 237
+Time:1501,g_pluseCnt:   4,prec: 237
+Time:1502,g_pluseCnt:   4,prec: 237
+Time:1503,g_pluseCnt:   4,prec: 237
+Time:1504,g_pluseCnt:   4,prec: 237
+Time:1505,g_pluseCnt:   4,prec: 237
+Time:1506,g_pluseCnt:   4,prec: 237
+Time:1507,g_pluseCnt:   4,prec: 237
+Time:1508,g_pluseCnt:   4,prec: 237
+Time:1509,g_pluseCnt:   4,prec: 237
+Time:1510,g_pluseCnt:   4,prec: 237
+Time:1511,g_pluseCnt:   4,prec: 237
+Time:1512,g_pluseCnt:   4,prec: 237
+Time:1513,g_pluseCnt:   4,prec: 237
+Time:1514,g_pluseCnt:   4,prec: 237
+Time:1515,g_pluseCnt:   4,prec: 237
+Time:1516,g_pluseCnt:   4,prec: 237
+Time:1517,g_pluseCnt:   4,prec: 237
+Time:1518,g_pluseCnt:   4,prec: 237
+Time:1519,g_pluseCnt:   4,prec: 237
+Time:1520,g_pluseCnt:   4,prec: 237
+Time:1521,g_pluseCnt:   4,prec: 237
+Time:1522,g_pluseCnt:   4,prec: 237
+Time:1523,g_pluseCnt:   4,prec: 237
+Time:1524,g_pluseCnt:   4,prec: 237
+Time:1525,g_pluseCnt:   4,prec: 237
+Time:1526,g_pluseCnt:   4,prec: 237
+Time:1527,g_pluseCnt:   5,prec: 237
+Time:1528,g_pluseCnt:   5,prec: 237
+Time:1529,g_pluseCnt:   5,prec: 237
+Time:1530,g_pluseCnt:   5,prec: 237
+Time:1531,g_pluseCnt:   5,prec: 237
+Time:1532,g_pluseCnt:   5,prec: 237
+Time:1533,g_pluseCnt:   5,prec: 237
+Time:1534,g_pluseCnt:   5,prec: 217
+Time:1535,g_pluseCnt:   5,prec: 217
+Time:1536,g_pluseCnt:   5,prec: 217
+Time:1537,g_pluseCnt:   5,prec: 217
+Time:1538,g_pluseCnt:   5,prec: 217
+Time:1539,g_pluseCnt:   5,prec: 217
+Time:1540,g_pluseCnt:   5,prec: 217
+Time:1541,g_pluseCnt:   5,prec: 217
+Time:1542,g_pluseCnt:   5,prec: 217
+Time:1543,g_pluseCnt:   5,prec: 217
+Time:1544,g_pluseCnt:   5,prec: 217
+Time:1545,g_pluseCnt:   5,prec: 217
+Time:1546,g_pluseCnt:   5,prec: 217
+Time:1547,g_pluseCnt:   5,prec: 217
+Time:1548,g_pluseCnt:   5,prec: 217
+Time:1549,g_pluseCnt:   5,prec: 217
+Time:1550,g_pluseCnt:   5,prec: 217
+Time:1551,g_pluseCnt:   5,prec: 217
+Time:1552,g_pluseCnt:   5,prec: 217
+Time:1553,g_pluseCnt:   5,prec: 217
+Time:1554,g_pluseCnt:   5,prec: 217
+Time:1555,g_pluseCnt:   5,prec: 217
+Time:1556,g_pluseCnt:   5,prec: 217
+Time:1557,g_pluseCnt:   5,prec: 217
+Time:1558,g_pluseCnt:   5,prec: 217
+Time:1559,g_pluseCnt:   5,prec: 217
+Time:1560,g_pluseCnt:   5,prec: 217
+Time:1561,g_pluseCnt:   5,prec: 217
+Time:1562,g_pluseCnt:   5,prec: 217
+Time:1563,g_pluseCnt:   5,prec: 217
+Time:1564,g_pluseCnt:   5,prec: 217
+Time:1565,g_pluseCnt:   5,prec: 217
+Time:1566,g_pluseCnt:   5,prec: 217
+Time:1567,g_pluseCnt:   5,prec: 217
+Time:1568,g_pluseCnt:   5,prec: 217
+Time:1569,g_pluseCnt:   5,prec: 217
+Time:1570,g_pluseCnt:   5,prec: 217
+Time:1571,g_pluseCnt:   5,prec: 217
+Time:1572,g_pluseCnt:   5,prec: 217
+Time:1573,g_pluseCnt:   5,prec: 217
+Time:1574,g_pluseCnt:   5,prec: 217
+Time:1575,g_pluseCnt:   5,prec: 217
+Time:1576,g_pluseCnt:   5,prec: 217
+Time:1577,g_pluseCnt:   5,prec: 217
+Time:1578,g_pluseCnt:   5,prec: 217
+Time:1579,g_pluseCnt:   5,prec: 217
+Time:1580,g_pluseCnt:   5,prec: 217
+Time:1581,g_pluseCnt:   5,prec: 217
+Time:1582,g_pluseCnt:   5,prec: 217
+Time:1583,g_pluseCnt:   5,prec: 217
+Time:1584,g_pluseCnt:   5,prec: 217
+Time:1585,g_pluseCnt:   5,prec: 217
+Time:1586,g_pluseCnt:   5,prec: 217
+Time:1587,g_pluseCnt:   5,prec: 217
+Time:1588,g_pluseCnt:   5,prec: 217
+Time:1589,g_pluseCnt:   5,prec: 217
+Time:1590,g_pluseCnt:   5,prec: 217
+Time:1591,g_pluseCnt:   5,prec: 217
+Time:1592,g_pluseCnt:   5,prec: 217
+Time:1593,g_pluseCnt:   5,prec: 217
+Time:1594,g_pluseCnt:   5,prec: 217
+Time:1595,g_pluseCnt:   5,prec: 217
+Time:1596,g_pluseCnt:   5,prec: 217
+Time:1597,g_pluseCnt:   5,prec: 217
+Time:1598,g_pluseCnt:   5,prec: 217
+Time:1599,g_pluseCnt:   5,prec: 217
+Time:1600,g_pluseCnt:   5,prec: 217
+Time:1601,g_pluseCnt:   5,prec: 217
+Time:1602,g_pluseCnt:   5,prec: 217
+Time:1603,g_pluseCnt:   5,prec: 217
+Time:1604,g_pluseCnt:   5,prec: 217
+Time:1605,g_pluseCnt:   5,prec: 217
+Time:1606,g_pluseCnt:   5,prec: 217
+Time:1607,g_pluseCnt:   5,prec: 217
+Time:1608,g_pluseCnt:   5,prec: 217
+Time:1609,g_pluseCnt:   5,prec: 217
+Time:1610,g_pluseCnt:   5,prec: 217
+Time:1611,g_pluseCnt:   5,prec: 217
+Time:1612,g_pluseCnt:   5,prec: 217
+Time:1613,g_pluseCnt:   5,prec: 217
+Time:1614,g_pluseCnt:   5,prec: 217
+Time:1615,g_pluseCnt:   5,prec: 217
+Time:1616,g_pluseCnt:   5,prec: 217
+Time:1617,g_pluseCnt:   5,prec: 217
+Time:1618,g_pluseCnt:   5,prec: 217
+Time:1619,g_pluseCnt:   5,prec: 217
+Time:1620,g_pluseCnt:   5,prec: 217
+Time:1621,g_pluseCnt:   5,prec: 217
+Time:1622,g_pluseCnt:   5,prec: 217
+Time:1623,g_pluseCnt:   5,prec: 217
+Time:1624,g_pluseCnt:   5,prec: 217
+Time:1625,g_pluseCnt:   5,prec: 217
+Time:1626,g_pluseCnt:   5,prec: 217
+Time:1627,g_pluseCnt:   5,prec: 217
+Time:1628,g_pluseCnt:   5,prec: 217
+Time:1629,g_pluseCnt:   5,prec: 217
+Time:1630,g_pluseCnt:   5,prec: 217
+Time:1631,g_pluseCnt:   5,prec: 217
+Time:1632,g_pluseCnt:   5,prec: 217
+Time:1633,g_pluseCnt:   5,prec: 217
+Time:1634,g_pluseCnt:   5,prec: 217
+Time:1635,g_pluseCnt:   5,prec: 850
+Time:1636,g_pluseCnt:   5,prec: 850
+Time:1637,g_pluseCnt:   5,prec: 850
+Time:1638,g_pluseCnt:   5,prec: 850
+Time:1639,g_pluseCnt:   5,prec: 850
+Time:1640,g_pluseCnt:   5,prec: 850
+Time:1641,g_pluseCnt:   5,prec: 850
+Time:1642,g_pluseCnt:   5,prec: 850
+Time:1643,g_pluseCnt:   5,prec: 850
+Time:1644,g_pluseCnt:   5,prec: 850
+Time:1645,g_pluseCnt:   5,prec: 850
+Time:1646,g_pluseCnt:   5,prec: 850
+Time:1647,g_pluseCnt:   5,prec: 850
+Time:1648,g_pluseCnt:   5,prec: 850
+Time:1649,g_pluseCnt:   5,prec: 850
+Time:1650,g_pluseCnt:   5,prec: 850
+Time:1651,g_pluseCnt:   5,prec: 850
+Time:1652,g_pluseCnt:   5,prec: 850
+Time:1653,g_pluseCnt:   5,prec: 850
+Time:1654,g_pluseCnt:   5,prec: 850
+Time:1655,g_pluseCnt:   5,prec: 850
+Time:1656,g_pluseCnt:   5,prec: 850
+Time:1657,g_pluseCnt:   5,prec: 850
+Time:1658,g_pluseCnt:   5,prec: 850
+Time:1659,g_pluseCnt:   5,prec: 850
+Time:1660,g_pluseCnt:   5,prec: 850
+Time:1661,g_pluseCnt:   5,prec: 850
+Time:1662,g_pluseCnt:   5,prec: 850
+Time:1663,g_pluseCnt:   5,prec: 850
+Time:1664,g_pluseCnt:   5,prec: 850
+Time:1665,g_pluseCnt:   5,prec: 850
+Time:1666,g_pluseCnt:   5,prec: 850
+Time:1667,g_pluseCnt:   5,prec: 850
+Time:1668,g_pluseCnt:   5,prec: 850
+Time:1669,g_pluseCnt:   5,prec: 850
+Time:1670,g_pluseCnt:   5,prec: 850
+Time:1671,g_pluseCnt:   5,prec: 850
+Time:1672,g_pluseCnt:   5,prec: 850
+Time:1673,g_pluseCnt:   5,prec: 850
+Time:1674,g_pluseCnt:   5,prec: 850
+Time:1675,g_pluseCnt:   5,prec: 850
+Time:1676,g_pluseCnt:   5,prec: 850
+Time:1677,g_pluseCnt:   5,prec: 850
+Time:1678,g_pluseCnt:   5,prec: 850
+Time:1679,g_pluseCnt:   5,prec: 850
+Time:1680,g_pluseCnt:   5,prec: 850
+Time:1681,g_pluseCnt:   5,prec: 850
+Time:1682,g_pluseCnt:   5,prec: 850
+Time:1683,g_pluseCnt:   5,prec: 850
+Time:1684,g_pluseCnt:   5,prec: 850
+Time:1685,g_pluseCnt:   5,prec: 850
+Time:1686,g_pluseCnt:   5,prec: 850
+Time:1687,g_pluseCnt:   5,prec: 850
+Time:1688,g_pluseCnt:   5,prec: 850
+Time:1689,g_pluseCnt:   5,prec: 850
+Time:1690,g_pluseCnt:   5,prec: 850
+Time:1691,g_pluseCnt:   5,prec: 850
+Time:1692,g_pluseCnt:   5,prec: 850
+Time:1693,g_pluseCnt:   5,prec: 850
+Time:1694,g_pluseCnt:   5,prec: 850
+Time:1695,g_pluseCnt:   5,prec: 850
+Time:1696,g_pluseCnt:   5,prec: 850
+Time:1697,g_pluseCnt:   5,prec: 850
+Time:1698,g_pluseCnt:   5,prec: 850
+Time:1699,g_pluseCnt:   5,prec: 850
+Time:1700,g_pluseCnt:   5,prec: 850
+Time:1701,g_pluseCnt:   5,prec: 850
+Time:1702,g_pluseCnt:   5,prec: 850
+Time:1703,g_pluseCnt:   5,prec: 850
+Time:1704,g_pluseCnt:   5,prec: 850
+Time:1705,g_pluseCnt:   5,prec: 850
+Time:1706,g_pluseCnt:   6,prec: 850
+Time:1707,g_pluseCnt:   6,prec: 850
+Time:1708,g_pluseCnt:   6,prec: 850
+Time:1709,g_pluseCnt:   6,prec: 850
+Time:1710,g_pluseCnt:   6,prec: 850
+Time:1711,g_pluseCnt:   6,prec: 850
+Time:1712,g_pluseCnt:   6,prec: 850
+Time:1713,g_pluseCnt:   6,prec: 850
+Time:1714,g_pluseCnt:   6,prec: 850
+Time:1715,g_pluseCnt:   6,prec: 850
+Time:1716,g_pluseCnt:   6,prec: 850
+Time:1717,g_pluseCnt:   6,prec: 850
+Time:1718,g_pluseCnt:   6,prec: 850
+Time:1719,g_pluseCnt:   6,prec: 850
+Time:1720,g_pluseCnt:   6,prec: 850
+Time:1721,g_pluseCnt:   6,prec: 850
+Time:1722,g_pluseCnt:   6,prec: 850
+Time:1723,g_pluseCnt:   6,prec: 850
+Time:1724,g_pluseCnt:   6,prec: 850
+Time:1725,g_pluseCnt:   6,prec: 850
+Time:1726,g_pluseCnt:   6,prec: 850
+Time:1727,g_pluseCnt:   6,prec: 850
+Time:1728,g_pluseCnt:   6,prec: 850
+Time:1729,g_pluseCnt:   6,prec: 850
+Time:1730,g_pluseCnt:   6,prec: 850
+Time:1731,g_pluseCnt:   6,prec: 850
+Time:1732,g_pluseCnt:   6,prec: 850
+Time:1733,g_pluseCnt:   6,prec: 850
+Time:1734,g_pluseCnt:   6,prec: 850
+Time:1735,g_pluseCnt:   6,prec: 850
+Time:1736,g_pluseCnt:   6,prec: 722
+Time:1737,g_pluseCnt:   6,prec: 722
+Time:1738,g_pluseCnt:   6,prec: 722
+Time:1739,g_pluseCnt:   6,prec: 722
+Time:1740,g_pluseCnt:   6,prec: 722
+Time:1741,g_pluseCnt:   6,prec: 722
+Time:1742,g_pluseCnt:   6,prec: 722
+Time:1743,g_pluseCnt:   6,prec: 722
+Time:1744,g_pluseCnt:   6,prec: 722
+Time:1745,g_pluseCnt:   6,prec: 722
+Time:1746,g_pluseCnt:   6,prec: 722
+Time:1747,g_pluseCnt:   6,prec: 722
+Time:1748,g_pluseCnt:   6,prec: 722
+Time:1749,g_pluseCnt:   6,prec: 722
+Time:1750,g_pluseCnt:   6,prec: 722
+Time:1751,g_pluseCnt:   6,prec: 722
+Time:1752,g_pluseCnt:   6,prec: 722
+Time:1753,g_pluseCnt:   6,prec: 722
+Time:1754,g_pluseCnt:   6,prec: 722
+Time:1755,g_pluseCnt:   6,prec: 722
+Time:1756,g_pluseCnt:   6,prec: 722
+Time:1757,g_pluseCnt:   6,prec: 722
+Time:1758,g_pluseCnt:   6,prec: 722
+Time:1759,g_pluseCnt:   6,prec: 722
+Time:1760,g_pluseCnt:   6,prec: 722
+Time:1761,g_pluseCnt:   6,prec: 722
+Time:1762,g_pluseCnt:   6,prec: 722
+Time:1763,g_pluseCnt:   6,prec: 722
+Time:1764,g_pluseCnt:   6,prec: 722
+Time:1765,g_pluseCnt:   6,prec: 722
+Time:1766,g_pluseCnt:   6,prec: 722
+Time:1767,g_pluseCnt:   6,prec: 722
+Time:1768,g_pluseCnt:   6,prec: 722
+Time:1769,g_pluseCnt:   6,prec: 722
+Time:1770,g_pluseCnt:   6,prec: 722
+Time:1771,g_pluseCnt:   6,prec: 722
+Time:1772,g_pluseCnt:   6,prec: 722
+Time:1773,g_pluseCnt:   6,prec: 722
+Time:1774,g_pluseCnt:   6,prec: 722
+Time:1775,g_pluseCnt:   6,prec: 722
+Time:1776,g_pluseCnt:   6,prec: 722
+Time:1777,g_pluseCnt:   6,prec: 722
+Time:1778,g_pluseCnt:   6,prec: 722
+Time:1779,g_pluseCnt:   6,prec: 722
+Time:1780,g_pluseCnt:   6,prec: 722
+Time:1781,g_pluseCnt:   6,prec: 722
+Time:1782,g_pluseCnt:   6,prec: 722
+Time:1783,g_pluseCnt:   6,prec: 722
+Time:1784,g_pluseCnt:   6,prec: 722
+Time:1785,g_pluseCnt:   6,prec: 722
+Time:1786,g_pluseCnt:   6,prec: 722
+Time:1787,g_pluseCnt:   6,prec: 722
+Time:1788,g_pluseCnt:   6,prec: 722
+Time:1789,g_pluseCnt:   6,prec: 722
+Time:1790,g_pluseCnt:   6,prec: 722
+Time:1791,g_pluseCnt:   6,prec: 722
+Time:1792,g_pluseCnt:   6,prec: 722
+Time:1793,g_pluseCnt:   6,prec: 722
+Time:1794,g_pluseCnt:   6,prec: 722
+Time:1795,g_pluseCnt:   6,prec: 722
+Time:1796,g_pluseCnt:   6,prec: 722
+Time:1797,g_pluseCnt:   6,prec: 722
+Time:1798,g_pluseCnt:   6,prec: 722
+Time:1799,g_pluseCnt:   6,prec: 722
+Time:1800,g_pluseCnt:   6,prec: 722
+Time:1801,g_pluseCnt:   6,prec: 722
+Time:1802,g_pluseCnt:   6,prec: 722
+Time:1803,g_pluseCnt:   6,prec: 722
+Time:1804,g_pluseCnt:   6,prec: 722
+Time:1805,g_pluseCnt:   6,prec: 722
+Time:1806,g_pluseCnt:   6,prec: 722
+Time:1807,g_pluseCnt:   6,prec: 722
+Time:1808,g_pluseCnt:   6,prec: 722
+Time:1809,g_pluseCnt:   6,prec: 722
+Time:1810,g_pluseCnt:   6,prec: 722
+Time:1811,g_pluseCnt:   6,prec: 722
+Time:1812,g_pluseCnt:   6,prec: 722
+Time:1813,g_pluseCnt:   6,prec: 722
+Time:1814,g_pluseCnt:   6,prec: 722
+Time:1815,g_pluseCnt:   6,prec: 722
+Time:1816,g_pluseCnt:   6,prec: 722
+Time:1817,g_pluseCnt:   7,prec: 722
+Time:1818,g_pluseCnt:   7,prec: 722
+Time:1819,g_pluseCnt:   7,prec: 722
+Time:1820,g_pluseCnt:   7,prec: 722
+Time:1821,g_pluseCnt:   7,prec: 722
+Time:1822,g_pluseCnt:   7,prec: 722
+Time:1823,g_pluseCnt:   7,prec: 722
+Time:1824,g_pluseCnt:   7,prec: 722
+Time:1825,g_pluseCnt:   7,prec: 722
+Time:1826,g_pluseCnt:   7,prec: 722
+Time:1827,g_pluseCnt:   7,prec: 722
+Time:1828,g_pluseCnt:   7,prec: 722
+Time:1829,g_pluseCnt:   7,prec: 722
+Time:1830,g_pluseCnt:   7,prec: 722
+Time:1831,g_pluseCnt:   7,prec: 722
+Time:1832,g_pluseCnt:   7,prec: 722
+Time:1833,g_pluseCnt:   7,prec: 722
+Time:1834,g_pluseCnt:   7,prec: 722
+Time:1835,g_pluseCnt:   7,prec: 722
+Time:1836,g_pluseCnt:   7,prec: 722
+Time:1837,g_pluseCnt:   7,prec: 795
+Time:1838,g_pluseCnt:   7,prec: 795
+Time:1839,g_pluseCnt:   7,prec: 795
+Time:1840,g_pluseCnt:   7,prec: 795
+Time:1841,g_pluseCnt:   7,prec: 795
+Time:1842,g_pluseCnt:   7,prec: 795
+Time:1843,g_pluseCnt:   7,prec: 795
+Time:1844,g_pluseCnt:   7,prec: 795
+Time:1845,g_pluseCnt:   7,prec: 795
+Time:1846,g_pluseCnt:   7,prec: 795
+Time:1847,g_pluseCnt:   7,prec: 795
+Time:1848,g_pluseCnt:   7,prec: 795
+Time:1849,g_pluseCnt:   7,prec: 795
+Time:1850,g_pluseCnt:   7,prec: 795
+Time:1851,g_pluseCnt:   7,prec: 795
+Time:1852,g_pluseCnt:   7,prec: 795
+Time:1853,g_pluseCnt:   7,prec: 795
+Time:1854,g_pluseCnt:   7,prec: 795
+Time:1855,g_pluseCnt:   7,prec: 795
+Time:1856,g_pluseCnt:   7,prec: 795
+Time:1857,g_pluseCnt:   7,prec: 795
+Time:1858,g_pluseCnt:   7,prec: 795
+Time:1859,g_pluseCnt:   7,prec: 795
+Time:1860,g_pluseCnt:   7,prec: 795
+Time:1861,g_pluseCnt:   7,prec: 795
+Time:1862,g_pluseCnt:   7,prec: 795
+Time:1863,g_pluseCnt:   7,prec: 795
+Time:1864,g_pluseCnt:   7,prec: 795
+Time:1865,g_pluseCnt:   7,prec: 795
+Time:1866,g_pluseCnt:   7,prec: 795
+Time:1867,g_pluseCnt:   7,prec: 795
+Time:1868,g_pluseCnt:   7,prec: 795
+Time:1869,g_pluseCnt:   7,prec: 795
+Time:1870,g_pluseCnt:   7,prec: 795
+Time:1871,g_pluseCnt:   0,prec: 795
+Time:1872,g_pluseCnt:   0,prec: 795
+Time:1873,g_pluseCnt:   0,prec: 795
+Time:1874,g_pluseCnt:   0,prec: 795
+Time:1875,g_pluseCnt:   0,prec: 795
+Time:1876,g_pluseCnt:   0,prec: 795
+Time:1877,g_pluseCnt:   0,prec: 795
+Time:1878,g_pluseCnt:   0,prec: 795
+Time:1879,g_pluseCnt:   0,prec: 795
+Time:1880,g_pluseCnt:   0,prec: 795
+Time:1881,g_pluseCnt:   0,prec: 795
+Time:1882,g_pluseCnt:   0,prec: 795
+Time:1883,g_pluseCnt:   0,prec: 795
+Time:1884,g_pluseCnt:   0,prec: 795
+Time:1885,g_pluseCnt:   0,prec: 795
+Time:1886,g_pluseCnt:   0,prec: 795
+Time:1887,g_pluseCnt:   0,prec: 795
+Time:1888,g_pluseCnt:   0,prec: 795
+Time:1889,g_pluseCnt:   0,prec: 795
+Time:1890,g_pluseCnt:   0,prec: 795
+Time:1891,g_pluseCnt:   0,prec: 795
+Time:1892,g_pluseCnt:   0,prec: 795
+Time:1893,g_pluseCnt:   0,prec: 795
+Time:1894,g_pluseCnt:   0,prec: 795
+Time:1895,g_pluseCnt:   0,prec: 795
+Time:1896,g_pluseCnt:   0,prec: 795
+Time:1897,g_pluseCnt:   0,prec: 795
+Time:1898,g_pluseCnt:   0,prec: 795
+Time:1899,g_pluseCnt:   0,prec: 795
+Time:1900,g_pluseCnt:   0,prec: 795
+Time:1901,g_pluseCnt:   0,prec: 795
+Time:1902,g_pluseCnt:   0,prec: 795
+Time:1903,g_pluseCnt:   0,prec: 795
+Time:1904,g_pluseCnt:   0,prec: 795
+Time:1905,g_pluseCnt:   0,prec: 795
+Time:1906,g_pluseCnt:   0,prec: 795
+Time:1907,g_pluseCnt:   0,prec: 795
+Time:1908,g_pluseCnt:   0,prec: 795
+Time:1909,g_pluseCnt:   0,prec: 795
+Time:1910,g_pluseCnt:   0,prec: 795
+Time:1911,g_pluseCnt:   0,prec: 795
+Time:1912,g_pluseCnt:   0,prec: 795
+Time:1913,g_pluseCnt:   0,prec: 795
+Time:1914,g_pluseCnt:   0,prec: 795
+Time:1915,g_pluseCnt:   0,prec: 795
+Time:1916,g_pluseCnt:   0,prec: 795
+Time:1917,g_pluseCnt:   0,prec: 795
+Time:1918,g_pluseCnt:   0,prec: 795
+Time:1919,g_pluseCnt:   0,prec: 795
+Time:1920,g_pluseCnt:   0,prec: 795
+Time:1921,g_pluseCnt:   0,prec: 795
+Time:1922,g_pluseCnt:   0,prec: 795
+Time:1923,g_pluseCnt:   0,prec: 795
+Time:1924,g_pluseCnt:   0,prec: 795
+Time:1925,g_pluseCnt:   1,prec: 795
+Time:1926,g_pluseCnt:   1,prec: 795
+Time:1927,g_pluseCnt:   1,prec: 795
+Time:1928,g_pluseCnt:   1,prec: 795
+Time:1929,g_pluseCnt:   1,prec: 795
+Time:1930,g_pluseCnt:   1,prec: 795
+Time:1931,g_pluseCnt:   1,prec: 795
+Time:1932,g_pluseCnt:   1,prec: 795
+Time:1933,g_pluseCnt:   1,prec: 795
+Time:1934,g_pluseCnt:   1,prec: 795
+Time:1935,g_pluseCnt:   1,prec: 795
+Time:1936,g_pluseCnt:   1,prec: 795
+Time:1937,g_pluseCnt:   1,prec: 795
+Time:1938,g_pluseCnt:   1,prec: 870
+Time:1939,g_pluseCnt:   1,prec: 870
+Time:1940,g_pluseCnt:   1,prec: 870
+Time:1941,g_pluseCnt:   1,prec: 870
+Time:1942,g_pluseCnt:   1,prec: 870
+Time:1943,g_pluseCnt:   1,prec: 870
+Time:1944,g_pluseCnt:   1,prec: 870
+Time:1945,g_pluseCnt:   1,prec: 870
+Time:1946,g_pluseCnt:   1,prec: 870
+Time:1947,g_pluseCnt:   1,prec: 870
+Time:1948,g_pluseCnt:   1,prec: 870
+Time:1949,g_pluseCnt:   1,prec: 870
+Time:1950,g_pluseCnt:   1,prec: 870
+Time:1951,g_pluseCnt:   1,prec: 870
+Time:1952,g_pluseCnt:   1,prec: 870
+Time:1953,g_pluseCnt:   1,prec: 870
+Time:1954,g_pluseCnt:   1,prec: 870
+Time:1955,g_pluseCnt:   1,prec: 870
+Time:1956,g_pluseCnt:   1,prec: 870
+Time:1957,g_pluseCnt:   1,prec: 870
+Time:1958,g_pluseCnt:   1,prec: 870
+Time:1959,g_pluseCnt:   1,prec: 870
+Time:1960,g_pluseCnt:   1,prec: 870
+Time:1961,g_pluseCnt:   1,prec: 870
+Time:1962,g_pluseCnt:   1,prec: 870
+Time:1963,g_pluseCnt:   1,prec: 870
+Time:1964,g_pluseCnt:   1,prec: 870
+Time:1965,g_pluseCnt:   1,prec: 870
+Time:1966,g_pluseCnt:   1,prec: 870
+Time:1967,g_pluseCnt:   1,prec: 870
+Time:1968,g_pluseCnt:   1,prec: 870
+Time:1969,g_pluseCnt:   1,prec: 870
+Time:1970,g_pluseCnt:   1,prec: 870
+Time:1971,g_pluseCnt:   1,prec: 870
+Time:1972,g_pluseCnt:   1,prec: 870
+Time:1973,g_pluseCnt:   1,prec: 870
+Time:1974,g_pluseCnt:   1,prec: 870
+Time:1975,g_pluseCnt:   1,prec: 870
+Time:1976,g_pluseCnt:   1,prec: 870
+Time:1977,g_pluseCnt:   1,prec: 870
+Time:1978,g_pluseCnt:   1,prec: 870
+Time:1979,g_pluseCnt:   2,prec: 870
+Time:1980,g_pluseCnt:   2,prec: 870
+Time:1981,g_pluseCnt:   2,prec: 870
+Time:1982,g_pluseCnt:   2,prec: 870
+Time:1983,g_pluseCnt:   2,prec: 870
+Time:1984,g_pluseCnt:   2,prec: 870
+Time:1985,g_pluseCnt:   2,prec: 870
+Time:1986,g_pluseCnt:   2,prec: 870
+Time:1987,g_pluseCnt:   2,prec: 870
+Time:1988,g_pluseCnt:   2,prec: 870
+Time:1989,g_pluseCnt:   2,prec: 870
+Time:1990,g_pluseCnt:   2,prec: 870
+Time:1991,g_pluseCnt:   2,prec: 870
+Time:1992,g_pluseCnt:   2,prec: 870
+Time:1993,g_pluseCnt:   2,prec: 870
+Time:1994,g_pluseCnt:   2,prec: 870
+Time:1995,g_pluseCnt:   2,prec: 870
+Time:1996,g_pluseCnt:   2,prec: 870
+Time:1997,g_pluseCnt:   2,prec: 870
+Time:1998,g_pluseCnt:   2,prec: 870
+Time:1999,g_pluseCnt:   2,prec: 870
+Time:2000,g_pluseCnt:   2,prec: 870
+Time:2001,g_pluseCnt:   2,prec: 870
+Time:2002,g_pluseCnt:   2,prec: 870
+Time:2003,g_pluseCnt:   2,prec: 870
+Time:2004,g_pluseCnt:   2,prec: 870
+Time:2005,g_pluseCnt:   2,prec: 870
+Time:2006,g_pluseCnt:   2,prec: 870
+Time:2007,g_pluseCnt:   2,prec: 870
+Time:2008,g_pluseCnt:   2,prec: 870
+Time:2009,g_pluseCnt:   2,prec: 870
+Time:2010,g_pluseCnt:   2,prec: 870
+Time:2011,g_pluseCnt:   2,prec: 870
+Time:2012,g_pluseCnt:   2,prec: 870
+Time:2013,g_pluseCnt:   2,prec: 870
+Time:2014,g_pluseCnt:   2,prec: 870
+Time:2015,g_pluseCnt:   2,prec: 870
+Time:2016,g_pluseCnt:   2,prec: 870
+Time:2017,g_pluseCnt:   2,prec: 870
+Time:2018,g_pluseCnt:   2,prec: 870
+Time:2019,g_pluseCnt:   2,prec: 870
+Time:2020,g_pluseCnt:   2,prec: 870
+Time:2021,g_pluseCnt:   2,prec: 870
+Time:2022,g_pluseCnt:   2,prec: 870
+Time:2023,g_pluseCnt:   2,prec: 870
+Time:2024,g_pluseCnt:   2,prec: 870
+Time:2025,g_pluseCnt:   2,prec: 870
+Time:2026,g_pluseCnt:   2,prec: 870
+Time:2027,g_pluseCnt:   2,prec: 870
+Time:2028,g_pluseCnt:   2,prec: 870
+Time:2029,g_pluseCnt:   2,prec: 870
+Time:2030,g_pluseCnt:   2,prec: 870
+Time:2031,g_pluseCnt:   2,prec: 870
+Time:2032,g_pluseCnt:   2,prec: 870
+Time:2033,g_pluseCnt:   2,prec: 870
+Time:2034,g_pluseCnt:   2,prec: 870
+Time:2035,g_pluseCnt:   2,prec: 870
+Time:2036,g_pluseCnt:   2,prec: 870
+Time:2037,g_pluseCnt:   2,prec: 870
+Time:2038,g_pluseCnt:   3,prec: 870
+Time:2039,g_pluseCnt:   3,prec: 862
+Time:2040,g_pluseCnt:   3,prec: 862
+Time:2041,g_pluseCnt:   3,prec: 862
+Time:2042,g_pluseCnt:   3,prec: 862
+Time:2043,g_pluseCnt:   3,prec: 862
+Time:2044,g_pluseCnt:   3,prec: 862
+Time:2045,g_pluseCnt:   3,prec: 862
+Time:2046,g_pluseCnt:   3,prec: 862
+Time:2047,g_pluseCnt:   3,prec: 862
+Time:2048,g_pluseCnt:   3,prec: 862
+Time:2049,g_pluseCnt:   3,prec: 862
+Time:2050,g_pluseCnt:   3,prec: 862
+Time:2051,g_pluseCnt:   3,prec: 862
+Time:2052,g_pluseCnt:   3,prec: 862
+Time:2053,g_pluseCnt:   3,prec: 862
+Time:2054,g_pluseCnt:   3,prec: 862
+Time:2055,g_pluseCnt:   3,prec: 862
+Time:2056,g_pluseCnt:   3,prec: 862
+Time:2057,g_pluseCnt:   3,prec: 862
+Time:2058,g_pluseCnt:   3,prec: 862
+Time:2059,g_pluseCnt:   3,prec: 862
+Time:2060,g_pluseCnt:   3,prec: 862
+Time:2061,g_pluseCnt:   3,prec: 862
+Time:2062,g_pluseCnt:   3,prec: 862
+Time:2063,g_pluseCnt:   3,prec: 862
+Time:2064,g_pluseCnt:   3,prec: 862
+Time:2065,g_pluseCnt:   3,prec: 862
+Time:2066,g_pluseCnt:   3,prec: 862
+Time:2067,g_pluseCnt:   3,prec: 862
+Time:2068,g_pluseCnt:   3,prec: 862
+Time:2069,g_pluseCnt:   3,prec: 862
+Time:2070,g_pluseCnt:   3,prec: 862
+Time:2071,g_pluseCnt:   3,prec: 862
+Time:2072,g_pluseCnt:   3,prec: 862
+Time:2073,g_pluseCnt:   3,prec: 862
+Time:2074,g_pluseCnt:   3,prec: 862
+Time:2075,g_pluseCnt:   3,prec: 862
+Time:2076,g_pluseCnt:   3,prec: 862
+Time:2077,g_pluseCnt:   3,prec: 862
+Time:2078,g_pluseCnt:   3,prec: 862
+Time:2079,g_pluseCnt:   3,prec: 862
+Time:2080,g_pluseCnt:   3,prec: 862
+Time:2081,g_pluseCnt:   3,prec: 862
+Time:2082,g_pluseCnt:   3,prec: 862
+Time:2083,g_pluseCnt:   3,prec: 862
+Time:2084,g_pluseCnt:   3,prec: 862
+Time:2085,g_pluseCnt:   3,prec: 862
+Time:2086,g_pluseCnt:   3,prec: 862
+Time:2087,g_pluseCnt:   3,prec: 862
+Time:2088,g_pluseCnt:   3,prec: 862
+Time:2089,g_pluseCnt:   3,prec: 862
+Time:2090,g_pluseCnt:   3,prec: 862
+Time:2091,g_pluseCnt:   4,prec: 862
+Time:2092,g_pluseCnt:   4,prec: 862
+Time:2093,g_pluseCnt:   4,prec: 862
+Time:2094,g_pluseCnt:   4,prec: 862
+Time:2095,g_pluseCnt:   4,prec: 862
+Time:2096,g_pluseCnt:   4,prec: 862
+Time:2097,g_pluseCnt:   4,prec: 862
+Time:2098,g_pluseCnt:   4,prec: 862
+Time:2099,g_pluseCnt:   4,prec: 862
+Time:2100,g_pluseCnt:   4,prec: 862
+Time:2101,g_pluseCnt:   4,prec: 862
+Time:2102,g_pluseCnt:   4,prec: 862
+Time:2103,g_pluseCnt:   4,prec: 862
+Time:2104,g_pluseCnt:   4,prec: 862
+Time:2105,g_pluseCnt:   4,prec: 862
+Time:2106,g_pluseCnt:   4,prec: 862
+Time:2107,g_pluseCnt:   4,prec: 862
+Time:2108,g_pluseCnt:   4,prec: 862
+Time:2109,g_pluseCnt:   4,prec: 862
+Time:2110,g_pluseCnt:   4,prec: 862
+Time:2111,g_pluseCnt:   4,prec: 862
+Time:2112,g_pluseCnt:   4,prec: 862
+Time:2113,g_pluseCnt:   4,prec: 862
+Time:2114,g_pluseCnt:   4,prec: 862
+Time:2115,g_pluseCnt:   4,prec: 862
+Time:2116,g_pluseCnt:   4,prec: 862
+Time:2117,g_pluseCnt:   4,prec: 862
+Time:2118,g_pluseCnt:   4,prec: 862
+Time:2119,g_pluseCnt:   4,prec: 862
+Time:2120,g_pluseCnt:   4,prec: 862
+Time:2121,g_pluseCnt:   4,prec: 862
+Time:2122,g_pluseCnt:   4,prec: 862
+Time:2123,g_pluseCnt:   4,prec: 862
+Time:2124,g_pluseCnt:   4,prec: 862
+Time:2125,g_pluseCnt:   4,prec: 862
+Time:2126,g_pluseCnt:   4,prec: 862
+Time:2127,g_pluseCnt:   4,prec: 862
+Time:2128,g_pluseCnt:   4,prec: 862
+Time:2129,g_pluseCnt:   4,prec: 862
+Time:2130,g_pluseCnt:   4,prec: 862
+Time:2131,g_pluseCnt:   4,prec: 862
+Time:2132,g_pluseCnt:   4,prec: 862
+Time:2133,g_pluseCnt:   4,prec: 862
+Time:2134,g_pluseCnt:   4,prec: 862
+Time:2135,g_pluseCnt:   4,prec: 862
+Time:2136,g_pluseCnt:   4,prec: 862
+Time:2137,g_pluseCnt:   4,prec: 862
+Time:2138,g_pluseCnt:   4,prec: 862
+Time:2139,g_pluseCnt:   4,prec: 862
+Time:2140,g_pluseCnt:   4,prec: 818
+Time:2141,g_pluseCnt:   4,prec: 818
+Time:2142,g_pluseCnt:   4,prec: 818
+Time:2143,g_pluseCnt:   4,prec: 818
+Time:2144,g_pluseCnt:   4,prec: 818
+Time:2145,g_pluseCnt:   5,prec: 818
+Time:2146,g_pluseCnt:   5,prec: 818
+Time:2147,g_pluseCnt:   5,prec: 818
+Time:2148,g_pluseCnt:   5,prec: 818
+Time:2149,g_pluseCnt:   5,prec: 818
+Time:2150,g_pluseCnt:   5,prec: 818
+Time:2151,g_pluseCnt:   5,prec: 818
+Time:2152,g_pluseCnt:   5,prec: 818
+Time:2153,g_pluseCnt:   5,prec: 818
+Time:2154,g_pluseCnt:   5,prec: 818
+Time:2155,g_pluseCnt:   5,prec: 818
+Time:2156,g_pluseCnt:   5,prec: 818
+Time:2157,g_pluseCnt:   5,prec: 818
+Time:2158,g_pluseCnt:   5,prec: 818
+Time:2159,g_pluseCnt:   5,prec: 818
+Time:2160,g_pluseCnt:   5,prec: 818
+Time:2161,g_pluseCnt:   5,prec: 818
+Time:2162,g_pluseCnt:   5,prec: 818
+Time:2163,g_pluseCnt:   5,prec: 818
+Time:2164,g_pluseCnt:   5,prec: 818
+Time:2165,g_pluseCnt:   5,prec: 818
+Time:2166,g_pluseCnt:   5,prec: 818
+Time:2167,g_pluseCnt:   5,prec: 818
+Time:2168,g_pluseCnt:   5,prec: 818
+Time:2169,g_pluseCnt:   5,prec: 818
+Time:2170,g_pluseCnt:   5,prec: 818
+Time:2171,g_pluseCnt:   5,prec: 818
+Time:2172,g_pluseCnt:   5,prec: 818
+Time:2173,g_pluseCnt:   5,prec: 818
+Time:2174,g_pluseCnt:   5,prec: 818
+Time:2175,g_pluseCnt:   5,prec: 818
+Time:2176,g_pluseCnt:   5,prec: 818
+Time:2177,g_pluseCnt:   5,prec: 818
+Time:2178,g_pluseCnt:   5,prec: 818
+Time:2179,g_pluseCnt:   5,prec: 818
+Time:2180,g_pluseCnt:   5,prec: 818
+Time:2181,g_pluseCnt:   5,prec: 818
+Time:2182,g_pluseCnt:   5,prec: 818
+Time:2183,g_pluseCnt:   5,prec: 818
+Time:2184,g_pluseCnt:   5,prec: 818
+Time:2185,g_pluseCnt:   5,prec: 818
+Time:2186,g_pluseCnt:   5,prec: 818
+Time:2187,g_pluseCnt:   5,prec: 818
+Time:2188,g_pluseCnt:   5,prec: 818
+Time:2189,g_pluseCnt:   5,prec: 818
+Time:2190,g_pluseCnt:   5,prec: 818
+Time:2191,g_pluseCnt:   5,prec: 818
+Time:2192,g_pluseCnt:   5,prec: 818
+Time:2193,g_pluseCnt:   5,prec: 818
+Time:2194,g_pluseCnt:   5,prec: 818
+Time:2195,g_pluseCnt:   5,prec: 818
+Time:2196,g_pluseCnt:   5,prec: 818
+Time:2197,g_pluseCnt:   5,prec: 818
+Time:2198,g_pluseCnt:   5,prec: 818
+Time:2199,g_pluseCnt:   5,prec: 818
+Time:2200,g_pluseCnt:   5,prec: 818
+Time:2201,g_pluseCnt:   5,prec: 818
+Time:2202,g_pluseCnt:   5,prec: 818
+Time:2203,g_pluseCnt:   6,prec: 818
+Time:2204,g_pluseCnt:   6,prec: 818
+Time:2205,g_pluseCnt:   6,prec: 818
+Time:2206,g_pluseCnt:   6,prec: 818
+Time:2207,g_pluseCnt:   6,prec: 818
+Time:2208,g_pluseCnt:   6,prec: 818
+Time:2209,g_pluseCnt:   6,prec: 818
+Time:2210,g_pluseCnt:   6,prec: 818
+Time:2211,g_pluseCnt:   6,prec: 818
+Time:2212,g_pluseCnt:   6,prec: 818
+Time:2213,g_pluseCnt:   6,prec: 818
+Time:2214,g_pluseCnt:   6,prec: 818
+Time:2215,g_pluseCnt:   6,prec: 818
+Time:2216,g_pluseCnt:   6,prec: 818
+Time:2217,g_pluseCnt:   6,prec: 818
+Time:2218,g_pluseCnt:   6,prec: 818
+Time:2219,g_pluseCnt:   6,prec: 818
+Time:2220,g_pluseCnt:   6,prec: 818
+Time:2221,g_pluseCnt:   6,prec: 818
+Time:2222,g_pluseCnt:   6,prec: 818
+Time:2223,g_pluseCnt:   6,prec: 818
+Time:2224,g_pluseCnt:   6,prec: 818
+Time:2225,g_pluseCnt:   6,prec: 818
+Time:2226,g_pluseCnt:   6,prec: 818
+Time:2227,g_pluseCnt:   6,prec: 818
+Time:2228,g_pluseCnt:   6,prec: 818
+Time:2229,g_pluseCnt:   6,prec: 818
+Time:2230,g_pluseCnt:   6,prec: 818
+Time:2231,g_pluseCnt:   6,prec: 818
+Time:2232,g_pluseCnt:   6,prec: 818
+Time:2233,g_pluseCnt:   6,prec: 818
+Time:2234,g_pluseCnt:   6,prec: 818
+Time:2235,g_pluseCnt:   6,prec: 818
+Time:2236,g_pluseCnt:   6,prec: 818
+Time:2237,g_pluseCnt:   6,prec: 818
+Time:2238,g_pluseCnt:   6,prec: 818
+Time:2239,g_pluseCnt:   6,prec: 818
+Time:2240,g_pluseCnt:   6,prec: 818
+Time:2241,g_pluseCnt:   6,prec: 797
+Time:2242,g_pluseCnt:   6,prec: 797
+Time:2243,g_pluseCnt:   6,prec: 797
+Time:2244,g_pluseCnt:   6,prec: 797
+Time:2245,g_pluseCnt:   6,prec: 797
+Time:2246,g_pluseCnt:   6,prec: 797
+Time:2247,g_pluseCnt:   6,prec: 797
+Time:2248,g_pluseCnt:   6,prec: 797
+Time:2249,g_pluseCnt:   6,prec: 797
+Time:2250,g_pluseCnt:   6,prec: 797
+Time:2251,g_pluseCnt:   6,prec: 797
+Time:2252,g_pluseCnt:   6,prec: 797
+Time:2253,g_pluseCnt:   6,prec: 797
+Time:2254,g_pluseCnt:   6,prec: 797
+Time:2255,g_pluseCnt:   6,prec: 797
+Time:2256,g_pluseCnt:   6,prec: 797
+Time:2257,g_pluseCnt:   6,prec: 797
+Time:2258,g_pluseCnt:   6,prec: 797
+Time:2259,g_pluseCnt:   6,prec: 797
+Time:2260,g_pluseCnt:   6,prec: 797
+Time:2261,g_pluseCnt:   6,prec: 797
+Time:2262,g_pluseCnt:   6,prec: 797
+Time:2263,g_pluseCnt:   7,prec: 797
+Time:2264,g_pluseCnt:   7,prec: 797
+Time:2265,g_pluseCnt:   7,prec: 797
+Time:2266,g_pluseCnt:   7,prec: 797
+Time:2267,g_pluseCnt:   7,prec: 797
+Time:2268,g_pluseCnt:   7,prec: 797
+Time:2269,g_pluseCnt:   7,prec: 797
+Time:2270,g_pluseCnt:   7,prec: 797
+Time:2271,g_pluseCnt:   7,prec: 797
+Time:2272,g_pluseCnt:   7,prec: 797
+Time:2273,g_pluseCnt:   7,prec: 797
+Time:2274,g_pluseCnt:   7,prec: 797
+Time:2275,g_pluseCnt:   7,prec: 797
+Time:2276,g_pluseCnt:   7,prec: 797
+Time:2277,g_pluseCnt:   7,prec: 797
+Time:2278,g_pluseCnt:   7,prec: 797
+Time:2279,g_pluseCnt:   7,prec: 797
+Time:2280,g_pluseCnt:   7,prec: 797
+Time:2281,g_pluseCnt:   7,prec: 797
+Time:2282,g_pluseCnt:   7,prec: 797
+Time:2283,g_pluseCnt:   7,prec: 797
+Time:2284,g_pluseCnt:   7,prec: 797
+Time:2285,g_pluseCnt:   7,prec: 797
+Time:2286,g_pluseCnt:   7,prec: 797
+Time:2287,g_pluseCnt:   7,prec: 797
+Time:2288,g_pluseCnt:   7,prec: 797
+Time:2289,g_pluseCnt:   7,prec: 797
+Time:2290,g_pluseCnt:   7,prec: 797
+Time:2291,g_pluseCnt:   7,prec: 797
+Time:2292,g_pluseCnt:   7,prec: 797
+Time:2293,g_pluseCnt:   7,prec: 797
+Time:2294,g_pluseCnt:   7,prec: 797
+Time:2295,g_pluseCnt:   7,prec: 797
+Time:2296,g_pluseCnt:   7,prec: 797
+Time:2297,g_pluseCnt:   7,prec: 797
+Time:2298,g_pluseCnt:   7,prec: 797
+Time:2299,g_pluseCnt:   7,prec: 797
+Time:2300,g_pluseCnt:   7,prec: 797
+Time:2301,g_pluseCnt:   7,prec: 797
+Time:2302,g_pluseCnt:   7,prec: 797
+Time:2303,g_pluseCnt:   7,prec: 797
+Time:2304,g_pluseCnt:   7,prec: 797
+Time:2305,g_pluseCnt:   7,prec: 797
+Time:2306,g_pluseCnt:   7,prec: 797
+Time:2307,g_pluseCnt:   7,prec: 797
+Time:2308,g_pluseCnt:   7,prec: 797
+Time:2309,g_pluseCnt:   7,prec: 797
+Time:2310,g_pluseCnt:   7,prec: 797
+Time:2311,g_pluseCnt:   7,prec: 797
+Time:2312,g_pluseCnt:   7,prec: 797
+Time:2313,g_pluseCnt:   7,prec: 797
+Time:2314,g_pluseCnt:   7,prec: 797
+Time:2315,g_pluseCnt:   7,prec: 797
+Time:2316,g_pluseCnt:   7,prec: 797
+Time:2317,g_pluseCnt:   7,prec: 797
+Time:2318,g_pluseCnt:   7,prec: 797
+Time:2319,g_pluseCnt:   7,prec: 797
+Time:2320,g_pluseCnt:   7,prec: 797
+Time:2321,g_pluseCnt:   7,prec: 797
+Time:2322,g_pluseCnt:   7,prec: 797
+Time:2323,g_pluseCnt:   7,prec: 797
+Time:2324,g_pluseCnt:   7,prec: 797
+Time:2325,g_pluseCnt:   7,prec: 797
+Time:2326,g_pluseCnt:   7,prec: 797
+Time:2327,g_pluseCnt:   0,prec: 797
+Time:2328,g_pluseCnt:   0,prec: 797
+Time:2329,g_pluseCnt:   0,prec: 797
+Time:2330,g_pluseCnt:   0,prec: 797
+Time:2331,g_pluseCnt:   0,prec: 797
+Time:2332,g_pluseCnt:   0,prec: 797
+Time:2333,g_pluseCnt:   0,prec: 797
+Time:2334,g_pluseCnt:   0,prec: 797
+Time:2335,g_pluseCnt:   0,prec: 797
+Time:2336,g_pluseCnt:   0,prec: 797
+Time:2337,g_pluseCnt:   0,prec: 797
+Time:2338,g_pluseCnt:   0,prec: 797
+Time:2339,g_pluseCnt:   0,prec: 797
+Time:2340,g_pluseCnt:   0,prec: 797
+Time:2341,g_pluseCnt:   0,prec: 797
+Time:2342,g_pluseCnt:   0,prec: 620
+Time:2343,g_pluseCnt:   0,prec: 620
+Time:2344,g_pluseCnt:   0,prec: 620
+Time:2345,g_pluseCnt:   0,prec: 620
+Time:2346,g_pluseCnt:   0,prec: 620
+Time:2347,g_pluseCnt:   0,prec: 620
+Time:2348,g_pluseCnt:   0,prec: 620
+Time:2349,g_pluseCnt:   0,prec: 620
+Time:2350,g_pluseCnt:   0,prec: 620
+Time:2351,g_pluseCnt:   0,prec: 620
+Time:2352,g_pluseCnt:   0,prec: 620
+Time:2353,g_pluseCnt:   0,prec: 620
+Time:2354,g_pluseCnt:   0,prec: 620
+Time:2355,g_pluseCnt:   0,prec: 620
+Time:2356,g_pluseCnt:   0,prec: 620
+Time:2357,g_pluseCnt:   0,prec: 620
+Time:2358,g_pluseCnt:   0,prec: 620
+Time:2359,g_pluseCnt:   0,prec: 620
+Time:2360,g_pluseCnt:   0,prec: 620
+Time:2361,g_pluseCnt:   0,prec: 620
+Time:2362,g_pluseCnt:   0,prec: 620
+Time:2363,g_pluseCnt:   0,prec: 620
+Time:2364,g_pluseCnt:   0,prec: 620
+Time:2365,g_pluseCnt:   0,prec: 620
+Time:2366,g_pluseCnt:   0,prec: 620
+Time:2367,g_pluseCnt:   0,prec: 620
+Time:2368,g_pluseCnt:   0,prec: 620
+Time:2369,g_pluseCnt:   0,prec: 620
+Time:2370,g_pluseCnt:   0,prec: 620
+Time:2371,g_pluseCnt:   0,prec: 620
+Time:2372,g_pluseCnt:   0,prec: 620
+Time:2373,g_pluseCnt:   0,prec: 620
+Time:2374,g_pluseCnt:   0,prec: 620
+Time:2375,g_pluseCnt:   0,prec: 620
+Time:2376,g_pluseCnt:   0,prec: 620
+Time:2377,g_pluseCnt:   0,prec: 620
+Time:2378,g_pluseCnt:   0,prec: 620
+Time:2379,g_pluseCnt:   0,prec: 620
+Time:2380,g_pluseCnt:   0,prec: 620
+Time:2381,g_pluseCnt:   0,prec: 620
+Time:2382,g_pluseCnt:   0,prec: 620
+Time:2383,g_pluseCnt:   0,prec: 620
+Time:2384,g_pluseCnt:   0,prec: 620
+Time:2385,g_pluseCnt:   0,prec: 620
+Time:2386,g_pluseCnt:   0,prec: 620
+Time:2387,g_pluseCnt:   1,prec: 620
+Time:2388,g_pluseCnt:   1,prec: 620
+Time:2389,g_pluseCnt:   1,prec: 620
+Time:2390,g_pluseCnt:   1,prec: 620
+Time:2391,g_pluseCnt:   1,prec: 620
+Time:2392,g_pluseCnt:   1,prec: 620
+Time:2393,g_pluseCnt:   1,prec: 620
+Time:2394,g_pluseCnt:   1,prec: 620
+Time:2395,g_pluseCnt:   1,prec: 620
+Time:2396,g_pluseCnt:   1,prec: 620
+Time:2397,g_pluseCnt:   1,prec: 620
+Time:2398,g_pluseCnt:   1,prec: 620
+Time:2399,g_pluseCnt:   1,prec: 620
+Time:2400,g_pluseCnt:   1,prec: 620
+Time:2401,g_pluseCnt:   1,prec: 620
+Time:2402,g_pluseCnt:   1,prec: 620
+Time:2403,g_pluseCnt:   1,prec: 620
+Time:2404,g_pluseCnt:   1,prec: 620
+Time:2405,g_pluseCnt:   1,prec: 620
+Time:2406,g_pluseCnt:   1,prec: 620
+Time:2407,g_pluseCnt:   1,prec: 620
+Time:2408,g_pluseCnt:   1,prec: 620
+Time:2409,g_pluseCnt:   1,prec: 620
+Time:2410,g_pluseCnt:   1,prec: 620
+Time:2411,g_pluseCnt:   1,prec: 620
+Time:2412,g_pluseCnt:   1,prec: 620
+Time:2413,g_pluseCnt:   1,prec: 620
+Time:2414,g_pluseCnt:   1,prec: 620
+Time:2415,g_pluseCnt:   1,prec: 620
+Time:2416,g_pluseCnt:   1,prec: 620
+Time:2417,g_pluseCnt:   1,prec: 620
+Time:2418,g_pluseCnt:   1,prec: 620
+Time:2419,g_pluseCnt:   1,prec: 620
+Time:2420,g_pluseCnt:   1,prec: 620
+Time:2421,g_pluseCnt:   1,prec: 620
+Time:2422,g_pluseCnt:   1,prec: 620
+Time:2423,g_pluseCnt:   1,prec: 620
+Time:2424,g_pluseCnt:   1,prec: 620
+Time:2425,g_pluseCnt:   1,prec: 620
+Time:2426,g_pluseCnt:   1,prec: 620
+Time:2427,g_pluseCnt:   1,prec: 620
+Time:2428,g_pluseCnt:   1,prec: 620
+Time:2429,g_pluseCnt:   1,prec: 620
+Time:2430,g_pluseCnt:   1,prec: 620
+Time:2431,g_pluseCnt:   1,prec: 620
+Time:2432,g_pluseCnt:   1,prec: 620
+Time:2433,g_pluseCnt:   1,prec: 620
+Time:2434,g_pluseCnt:   1,prec: 620
+Time:2435,g_pluseCnt:   1,prec: 620
+Time:2436,g_pluseCnt:   1,prec: 620
+Time:2437,g_pluseCnt:   1,prec: 620
+Time:2438,g_pluseCnt:   1,prec: 620
+Time:2439,g_pluseCnt:   1,prec: 620
+Time:2440,g_pluseCnt:   1,prec: 620
+Time:2441,g_pluseCnt:   1,prec: 620
+Time:2442,g_pluseCnt:   1,prec: 620
+Time:2443,g_pluseCnt:   1,prec: 514
+Time:2444,g_pluseCnt:   1,prec: 514
+Time:2445,g_pluseCnt:   1,prec: 514
+Time:2446,g_pluseCnt:   1,prec: 514
+Time:2447,g_pluseCnt:   1,prec: 514
+Time:2448,g_pluseCnt:   1,prec: 514
+Time:2449,g_pluseCnt:   1,prec: 514
+Time:2450,g_pluseCnt:   1,prec: 514
+Time:2451,g_pluseCnt:   1,prec: 514
+Time:2452,g_pluseCnt:   1,prec: 514
+Time:2453,g_pluseCnt:   1,prec: 514
+Time:2454,g_pluseCnt:   1,prec: 514
+Time:2455,g_pluseCnt:   1,prec: 514
+Time:2456,g_pluseCnt:   1,prec: 514
+Time:2457,g_pluseCnt:   1,prec: 514
+Time:2458,g_pluseCnt:   1,prec: 514
+Time:2459,g_pluseCnt:   1,prec: 514
+Time:2460,g_pluseCnt:   1,prec: 514
+Time:2461,g_pluseCnt:   1,prec: 514
+Time:2462,g_pluseCnt:   1,prec: 514
+Time:2463,g_pluseCnt:   1,prec: 514
+Time:2464,g_pluseCnt:   1,prec: 514
+Time:2465,g_pluseCnt:   1,prec: 514
+Time:2466,g_pluseCnt:   1,prec: 514
+Time:2467,g_pluseCnt:   1,prec: 514
+Time:2468,g_pluseCnt:   1,prec: 514
+Time:2469,g_pluseCnt:   1,prec: 514
+Time:2470,g_pluseCnt:   1,prec: 514
+Time:2471,g_pluseCnt:   1,prec: 514
+Time:2472,g_pluseCnt:   1,prec: 514
+Time:2473,g_pluseCnt:   1,prec: 514
+Time:2474,g_pluseCnt:   1,prec: 514
+Time:2475,g_pluseCnt:   1,prec: 514
+Time:2476,g_pluseCnt:   1,prec: 514
+Time:2477,g_pluseCnt:   1,prec: 514
+Time:2478,g_pluseCnt:   1,prec: 514
+Time:2479,g_pluseCnt:   1,prec: 514
+Time:2480,g_pluseCnt:   1,prec: 514
+Time:2481,g_pluseCnt:   1,prec: 514
+Time:2482,g_pluseCnt:   1,prec: 514
+Time:2483,g_pluseCnt:   1,prec: 514
+Time:2484,g_pluseCnt:   1,prec: 514
+Time:2485,g_pluseCnt:   1,prec: 514
+Time:2486,g_pluseCnt:   1,prec: 514
+Time:2487,g_pluseCnt:   1,prec: 514
+Time:2488,g_pluseCnt:   1,prec: 514
+Time:2489,g_pluseCnt:   1,prec: 514
+Time:2490,g_pluseCnt:   1,prec: 514
+Time:2491,g_pluseCnt:   1,prec: 514
+Time:2492,g_pluseCnt:   1,prec: 514
+Time:2493,g_pluseCnt:   1,prec: 514
+Time:2494,g_pluseCnt:   1,prec: 514
+Time:2495,g_pluseCnt:   1,prec: 514
+Time:2496,g_pluseCnt:   1,prec: 514
+Time:2497,g_pluseCnt:   1,prec: 514
+Time:2498,g_pluseCnt:   1,prec: 514
+Time:2499,g_pluseCnt:   1,prec: 514
+Time:2500,g_pluseCnt:   1,prec: 514
+Time:2501,g_pluseCnt:   1,prec: 514
+Time:2502,g_pluseCnt:   1,prec: 514
+Time:2503,g_pluseCnt:   1,prec: 514
+Time:2504,g_pluseCnt:   1,prec: 514
+Time:2505,g_pluseCnt:   1,prec: 514
+Time:2506,g_pluseCnt:   1,prec: 514
+Time:2507,g_pluseCnt:   1,prec: 514
+Time:2508,g_pluseCnt:   1,prec: 514
+Time:2509,g_pluseCnt:   1,prec: 514
+Time:2510,g_pluseCnt:   1,prec: 514
+Time:2511,g_pluseCnt:   1,prec: 514
+Time:2512,g_pluseCnt:   1,prec: 514
+Time:2513,g_pluseCnt:   1,prec: 514
+Time:2514,g_pluseCnt:   1,prec: 514
+Time:2515,g_pluseCnt:   1,prec: 514
+Time:2516,g_pluseCnt:   1,prec: 514
+Time:2517,g_pluseCnt:   1,prec: 514
+Time:2518,g_pluseCnt:   1,prec: 514
+Time:2519,g_pluseCnt:   1,prec: 514
+Time:2520,g_pluseCnt:   1,prec: 514
+Time:2521,g_pluseCnt:   1,prec: 514
+Time:2522,g_pluseCnt:   1,prec: 514
+Time:2523,g_pluseCnt:   1,prec: 514
+Time:2524,g_pluseCnt:   1,prec: 514
+Time:2525,g_pluseCnt:   1,prec: 514
+Time:2526,g_pluseCnt:   1,prec: 514
+Time:2527,g_pluseCnt:   1,prec: 514
+Time:2528,g_pluseCnt:   1,prec: 514
+Time:2529,g_pluseCnt:   1,prec: 514
+Time:2530,g_pluseCnt:   1,prec: 514
+Time:2531,g_pluseCnt:   1,prec: 514
+Time:2532,g_pluseCnt:   1,prec: 514
+Time:2533,g_pluseCnt:   1,prec: 514
+Time:2534,g_pluseCnt:   1,prec: 514
+Time:2535,g_pluseCnt:   1,prec: 514
+Time:2536,g_pluseCnt:   1,prec: 514
+Time:2537,g_pluseCnt:   1,prec: 514
+Time:2538,g_pluseCnt:   1,prec: 514
+Time:2539,g_pluseCnt:   1,prec: 514
+Time:2540,g_pluseCnt:   1,prec: 514
+Time:2541,g_pluseCnt:   1,prec: 514
+Time:2542,g_pluseCnt:   1,prec: 514
+Time:2543,g_pluseCnt:   1,prec: 514
+Time:2544,g_pluseCnt:   1,prec: 291
+Time:2545,g_pluseCnt:   1,prec: 291
+Time:2546,g_pluseCnt:   1,prec: 291
+Time:2547,g_pluseCnt:   1,prec: 291
+Time:2548,g_pluseCnt:   1,prec: 291
+Time:2549,g_pluseCnt:   1,prec: 291
+Time:2550,g_pluseCnt:   1,prec: 291
+Time:2551,g_pluseCnt:   1,prec: 291
+Time:2552,g_pluseCnt:   1,prec: 291
+Time:2553,g_pluseCnt:   1,prec: 291
+Time:2554,g_pluseCnt:   1,prec: 291
+Time:2555,g_pluseCnt:   1,prec: 291
+Time:2556,g_pluseCnt:   1,prec: 291
+Time:2557,g_pluseCnt:   1,prec: 291
+Time:2558,g_pluseCnt:   1,prec: 291
+Time:2559,g_pluseCnt:   1,prec: 291
+Time:2560,g_pluseCnt:   1,prec: 291
+Time:2561,g_pluseCnt:   1,prec: 291
+Time:2562,g_pluseCnt:   1,prec: 291
+Time:2563,g_pluseCnt:   1,prec: 291
+Time:2564,g_pluseCnt:   1,prec: 291
+Time:2565,g_pluseCnt:   1,prec: 291
+Time:2566,g_pluseCnt:   1,prec: 291
+Time:2567,g_pluseCnt:   1,prec: 291
+Time:2568,g_pluseCnt:   1,prec: 291
+Time:2569,g_pluseCnt:   1,prec: 291
+Time:2570,g_pluseCnt:   1,prec: 291
+Time:2571,g_pluseCnt:   1,prec: 291
+Time:2572,g_pluseCnt:   1,prec: 291
+Time:2573,g_pluseCnt:   1,prec: 291
+Time:2574,g_pluseCnt:   1,prec: 291
+Time:2575,g_pluseCnt:   1,prec: 291
+Time:2576,g_pluseCnt:   1,prec: 291
+Time:2577,g_pluseCnt:   1,prec: 291
+Time:2578,g_pluseCnt:   1,prec: 291
+Time:2579,g_pluseCnt:   1,prec: 291
+Time:2580,g_pluseCnt:   1,prec: 291
+Time:2581,g_pluseCnt:   1,prec: 291
+Time:2582,g_pluseCnt:   1,prec: 291
+Time:2583,g_pluseCnt:   1,prec: 291
+Time:2584,g_pluseCnt:   1,prec: 291
+Time:2585,g_pluseCnt:   1,prec: 291
+Time:2586,g_pluseCnt:   2,prec: 291
+Time:2587,g_pluseCnt:   2,prec: 291
+Time:2588,g_pluseCnt:   2,prec: 291
+Time:2589,g_pluseCnt:   2,prec: 291
+Time:2590,g_pluseCnt:   2,prec: 291
+Time:2591,g_pluseCnt:   2,prec: 291
+Time:2592,g_pluseCnt:   2,prec: 291
+Time:2593,g_pluseCnt:   2,prec: 291
+Time:2594,g_pluseCnt:   2,prec: 291
+Time:2595,g_pluseCnt:   2,prec: 291
+Time:2596,g_pluseCnt:   2,prec: 291
+Time:2597,g_pluseCnt:   2,prec: 291
+Time:2598,g_pluseCnt:   2,prec: 291
+Time:2599,g_pluseCnt:   2,prec: 291
+Time:2600,g_pluseCnt:   2,prec: 291
+Time:2601,g_pluseCnt:   2,prec: 291
+Time:2602,g_pluseCnt:   2,prec: 291
+Time:2603,g_pluseCnt:   2,prec: 291
+Time:2604,g_pluseCnt:   2,prec: 291
+Time:2605,g_pluseCnt:   2,prec: 291
+Time:2606,g_pluseCnt:   2,prec: 291
+Time:2607,g_pluseCnt:   2,prec: 291
+Time:2608,g_pluseCnt:   2,prec: 291
+Time:2609,g_pluseCnt:   2,prec: 291
+Time:2610,g_pluseCnt:   2,prec: 291
+Time:2611,g_pluseCnt:   2,prec: 291
+Time:2612,g_pluseCnt:   2,prec: 291
+Time:2613,g_pluseCnt:   2,prec: 291
+Time:2614,g_pluseCnt:   2,prec: 291
+Time:2615,g_pluseCnt:   2,prec: 291
+Time:2616,g_pluseCnt:   2,prec: 291
+Time:2617,g_pluseCnt:   2,prec: 291
+Time:2618,g_pluseCnt:   2,prec: 291
+Time:2619,g_pluseCnt:   2,prec: 291
+Time:2620,g_pluseCnt:   2,prec: 291
+Time:2621,g_pluseCnt:   2,prec: 291
+Time:2622,g_pluseCnt:   2,prec: 291
+Time:2623,g_pluseCnt:   2,prec: 291
+Time:2624,g_pluseCnt:   2,prec: 291
+Time:2625,g_pluseCnt:   2,prec: 291
+Time:2626,g_pluseCnt:   2,prec: 291
+Time:2627,g_pluseCnt:   2,prec: 291
+Time:2628,g_pluseCnt:   2,prec: 291
+Time:2629,g_pluseCnt:   2,prec: 291
+Time:2630,g_pluseCnt:   2,prec: 291
+Time:2631,g_pluseCnt:   2,prec: 291
+Time:2632,g_pluseCnt:   2,prec: 291
+Time:2633,g_pluseCnt:   2,prec: 291
+Time:2634,g_pluseCnt:   2,prec: 291
+Time:2635,g_pluseCnt:   2,prec: 291
+Time:2636,g_pluseCnt:   2,prec: 291
+Time:2637,g_pluseCnt:   2,prec: 291
+Time:2638,g_pluseCnt:   2,prec: 291
+Time:2639,g_pluseCnt:   2,prec: 291
+Time:2640,g_pluseCnt:   2,prec: 291
+Time:2641,g_pluseCnt:   2,prec: 291
+Time:2642,g_pluseCnt:   2,prec: 291
+Time:2643,g_pluseCnt:   2,prec: 291
+Time:2644,g_pluseCnt:   2,prec: 291
+Time:2645,g_pluseCnt:   2,prec: 517
+Time:2646,g_pluseCnt:   2,prec: 517
+Time:2647,g_pluseCnt:   2,prec: 517
+Time:2648,g_pluseCnt:   2,prec: 517
+Time:2649,g_pluseCnt:   2,prec: 517
+Time:2650,g_pluseCnt:   2,prec: 517
+Time:2651,g_pluseCnt:   2,prec: 517
+Time:2652,g_pluseCnt:   2,prec: 517
+Time:2653,g_pluseCnt:   2,prec: 517
+Time:2654,g_pluseCnt:   2,prec: 517
+Time:2655,g_pluseCnt:   2,prec: 517
+Time:2656,g_pluseCnt:   2,prec: 517
+Time:2657,g_pluseCnt:   3,prec: 517
+Time:2658,g_pluseCnt:   3,prec: 517
+Time:2659,g_pluseCnt:   3,prec: 517
+Time:2660,g_pluseCnt:   3,prec: 517
+Time:2661,g_pluseCnt:   3,prec: 517
+Time:2662,g_pluseCnt:   3,prec: 517
+Time:2663,g_pluseCnt:   3,prec: 517
+Time:2664,g_pluseCnt:   3,prec: 517
+Time:2665,g_pluseCnt:   3,prec: 517
+Time:2666,g_pluseCnt:   3,prec: 517
+Time:2667,g_pluseCnt:   3,prec: 517
+Time:2668,g_pluseCnt:   3,prec: 517
+Time:2669,g_pluseCnt:   3,prec: 517
+Time:2670,g_pluseCnt:   3,prec: 517
+Time:2671,g_pluseCnt:   3,prec: 517
+Time:2672,g_pluseCnt:   3,prec: 517
+Time:2673,g_pluseCnt:   3,prec: 517
+Time:2674,g_pluseCnt:   3,prec: 517
+Time:2675,g_pluseCnt:   3,prec: 517
+Time:2676,g_pluseCnt:   3,prec: 517
+Time:2677,g_pluseCnt:   3,prec: 517
+Time:2678,g_pluseCnt:   3,prec: 517
+Time:2679,g_pluseCnt:   3,prec: 517
+Time:2680,g_pluseCnt:   3,prec: 517
+Time:2681,g_pluseCnt:   3,prec: 517
+Time:2682,g_pluseCnt:   3,prec: 517
+Time:2683,g_pluseCnt:   3,prec: 517
+Time:2684,g_pluseCnt:   3,prec: 517
+Time:2685,g_pluseCnt:   3,prec: 517
+Time:2686,g_pluseCnt:   3,prec: 517
+Time:2687,g_pluseCnt:   3,prec: 517
+Time:2688,g_pluseCnt:   3,prec: 517
+Time:2689,g_pluseCnt:   3,prec: 517
+Time:2690,g_pluseCnt:   3,prec: 517
+Time:2691,g_pluseCnt:   3,prec: 517
+Time:2692,g_pluseCnt:   3,prec: 517
+Time:2693,g_pluseCnt:   3,prec: 517
+Time:2694,g_pluseCnt:   3,prec: 517
+Time:2695,g_pluseCnt:   3,prec: 517
+Time:2696,g_pluseCnt:   3,prec: 517
+Time:2697,g_pluseCnt:   3,prec: 517
+Time:2698,g_pluseCnt:   3,prec: 517
+Time:2699,g_pluseCnt:   3,prec: 517
+Time:2700,g_pluseCnt:   3,prec: 517
+Time:2701,g_pluseCnt:   3,prec: 517
+Time:2702,g_pluseCnt:   3,prec: 517
+Time:2703,g_pluseCnt:   3,prec: 517
+Time:2704,g_pluseCnt:   3,prec: 517
+Time:2705,g_pluseCnt:   3,prec: 517
+Time:2706,g_pluseCnt:   3,prec: 517
+Time:2707,g_pluseCnt:   3,prec: 517
+Time:2708,g_pluseCnt:   3,prec: 517
+Time:2709,g_pluseCnt:   3,prec: 517
+Time:2710,g_pluseCnt:   3,prec: 517
+Time:2711,g_pluseCnt:   3,prec: 517
+Time:2712,g_pluseCnt:   3,prec: 517
+Time:2713,g_pluseCnt:   3,prec: 517
+Time:2714,g_pluseCnt:   3,prec: 517
+Time:2715,g_pluseCnt:   3,prec: 517
+Time:2716,g_pluseCnt:   3,prec: 517
+Time:2717,g_pluseCnt:   3,prec: 517
+Time:2718,g_pluseCnt:   3,prec: 517
+Time:2719,g_pluseCnt:   3,prec: 517
+Time:2720,g_pluseCnt:   3,prec: 517
+Time:2721,g_pluseCnt:   3,prec: 517
+Time:2722,g_pluseCnt:   3,prec: 517
+Time:2723,g_pluseCnt:   3,prec: 517
+Time:2724,g_pluseCnt:   3,prec: 517
+Time:2725,g_pluseCnt:   3,prec: 517
+Time:2726,g_pluseCnt:   3,prec: 517
+Time:2727,g_pluseCnt:   3,prec: 517
+Time:2728,g_pluseCnt:   3,prec: 517
+Time:2729,g_pluseCnt:   3,prec: 517
+Time:2730,g_pluseCnt:   3,prec: 517
+Time:2731,g_pluseCnt:   3,prec: 517
+Time:2732,g_pluseCnt:   3,prec: 517
+Time:2733,g_pluseCnt:   3,prec: 517
+Time:2734,g_pluseCnt:   3,prec: 517
+Time:2735,g_pluseCnt:   3,prec: 517
+Time:2736,g_pluseCnt:   3,prec: 517
+Time:2737,g_pluseCnt:   3,prec: 517
+Time:2738,g_pluseCnt:   3,prec: 517
+Time:2739,g_pluseCnt:   3,prec: 517
+Time:2740,g_pluseCnt:   3,prec: 517
+Time:2741,g_pluseCnt:   3,prec: 517
+Time:2742,g_pluseCnt:   3,prec: 517
+Time:2743,g_pluseCnt:   3,prec: 517
+Time:2744,g_pluseCnt:   3,prec: 517
+Time:2745,g_pluseCnt:   3,prec: 517
+Time:2746,g_pluseCnt:   3,prec: 253
+Time:2747,g_pluseCnt:   3,prec: 253
+Time:2748,g_pluseCnt:   3,prec: 253
+Time:2749,g_pluseCnt:   3,prec: 253
+Time:2750,g_pluseCnt:   3,prec: 253
+Time:2751,g_pluseCnt:   3,prec: 253
+Time:2752,g_pluseCnt:   3,prec: 253
+Time:2753,g_pluseCnt:   3,prec: 253
+Time:2754,g_pluseCnt:   3,prec: 253
+Time:2755,g_pluseCnt:   3,prec: 253
+Time:2756,g_pluseCnt:   3,prec: 253
+Time:2757,g_pluseCnt:   3,prec: 253
+Time:2758,g_pluseCnt:   3,prec: 253
+Time:2759,g_pluseCnt:   3,prec: 253
+Time:2760,g_pluseCnt:   3,prec: 253
+Time:2761,g_pluseCnt:   3,prec: 253
+Time:2762,g_pluseCnt:   3,prec: 253
+Time:2763,g_pluseCnt:   3,prec: 253
+Time:2764,g_pluseCnt:   3,prec: 253
+Time:2765,g_pluseCnt:   3,prec: 253
+Time:2766,g_pluseCnt:   3,prec: 253
+Time:2767,g_pluseCnt:   3,prec: 253
+Time:2768,g_pluseCnt:   3,prec: 253
+Time:2769,g_pluseCnt:   3,prec: 253
+Time:2770,g_pluseCnt:   3,prec: 253
+Time:2771,g_pluseCnt:   3,prec: 253
+Time:2772,g_pluseCnt:   3,prec: 253
+Time:2773,g_pluseCnt:   3,prec: 253
+Time:2774,g_pluseCnt:   3,prec: 253
+Time:2775,g_pluseCnt:   3,prec: 253
+Time:2776,g_pluseCnt:   3,prec: 253
+Time:2777,g_pluseCnt:   3,prec: 253
+Time:2778,g_pluseCnt:   3,prec: 253
+Time:2779,g_pluseCnt:   3,prec: 253
+Time:2780,g_pluseCnt:   3,prec: 253
+Time:2781,g_pluseCnt:   3,prec: 253
+Time:2782,g_pluseCnt:   3,prec: 253
+Time:2783,g_pluseCnt:   3,prec: 253
+Time:2784,g_pluseCnt:   3,prec: 253
+Time:2785,g_pluseCnt:   3,prec: 253
+Time:2786,g_pluseCnt:   3,prec: 253
+Time:2787,g_pluseCnt:   3,prec: 253
+Time:2788,g_pluseCnt:   3,prec: 253
+Time:2789,g_pluseCnt:   3,prec: 253
+Time:2790,g_pluseCnt:   3,prec: 253
+Time:2791,g_pluseCnt:   3,prec: 253
+Time:2792,g_pluseCnt:   3,prec: 253
+Time:2793,g_pluseCnt:   3,prec: 253
+Time:2794,g_pluseCnt:   3,prec: 253
+Time:2795,g_pluseCnt:   3,prec: 253
+Time:2796,g_pluseCnt:   3,prec: 253
+Time:2797,g_pluseCnt:   3,prec: 253
+Time:2798,g_pluseCnt:   3,prec: 253
+Time:2799,g_pluseCnt:   3,prec: 253
+Time:2800,g_pluseCnt:   3,prec: 253
+Time:2801,g_pluseCnt:   3,prec: 253
+Time:2802,g_pluseCnt:   0,prec: 253
+Time:2803,g_pluseCnt:   0,prec: 253
+Time:2804,g_pluseCnt:   0,prec: 253
+Time:2805,g_pluseCnt:   0,prec: 253
+Time:2806,g_pluseCnt:   0,prec: 253
+Time:2807,g_pluseCnt:   0,prec: 253
+Time:2808,g_pluseCnt:   0,prec: 253
+Time:2809,g_pluseCnt:   0,prec: 253
+Time:2810,g_pluseCnt:   0,prec: 253
+Time:2811,g_pluseCnt:   0,prec: 253
+Time:2812,g_pluseCnt:   0,prec: 253
+Time:2813,g_pluseCnt:   0,prec: 253
+Time:2814,g_pluseCnt:   0,prec: 253
+Time:2815,g_pluseCnt:   0,prec: 253
+Time:2816,g_pluseCnt:   0,prec: 253
+Time:2817,g_pluseCnt:   0,prec: 253
+Time:2818,g_pluseCnt:   0,prec: 253
+Time:2819,g_pluseCnt:   0,prec: 253
+Time:2820,g_pluseCnt:   0,prec: 253
+Time:2821,g_pluseCnt:   0,prec: 253
+Time:2822,g_pluseCnt:   0,prec: 253
+Time:2823,g_pluseCnt:   0,prec: 253
+Time:2824,g_pluseCnt:   0,prec: 253
+Time:2825,g_pluseCnt:   0,prec: 253
+Time:2826,g_pluseCnt:   0,prec: 253
+Time:2827,g_pluseCnt:   0,prec: 253
+Time:2828,g_pluseCnt:   0,prec: 253
+Time:2829,g_pluseCnt:   0,prec: 253
+Time:2830,g_pluseCnt:   0,prec: 253
+Time:2831,g_pluseCnt:   0,prec: 253
+Time:2832,g_pluseCnt:   0,prec: 253
+Time:2833,g_pluseCnt:   0,prec: 253
+Time:2834,g_pluseCnt:   0,prec: 253
+Time:2835,g_pluseCnt:   0,prec: 253
+Time:2836,g_pluseCnt:   0,prec: 253
+Time:2837,g_pluseCnt:   0,prec: 253
+Time:2838,g_pluseCnt:   0,prec: 253
+Time:2839,g_pluseCnt:   0,prec: 253
+Time:2840,g_pluseCnt:   0,prec: 253
+Time:2841,g_pluseCnt:   0,prec: 253
+Time:2842,g_pluseCnt:   0,prec: 253
+Time:2843,g_pluseCnt:   0,prec: 253
+Time:2844,g_pluseCnt:   0,prec: 253
+Time:2845,g_pluseCnt:   0,prec: 253
+Time:2846,g_pluseCnt:   0,prec: 253
+Time:2847,g_pluseCnt:   0,prec: 236
+Time:2848,g_pluseCnt:   0,prec: 236
+Time:2849,g_pluseCnt:   0,prec: 236
+Time:2850,g_pluseCnt:   0,prec: 236
+Time:2851,g_pluseCnt:   0,prec: 236
+Time:2852,g_pluseCnt:   0,prec: 236
+Time:2853,g_pluseCnt:   0,prec: 236
+Time:2854,g_pluseCnt:   0,prec: 236
+Time:2855,g_pluseCnt:   0,prec: 236
+Time:2856,g_pluseCnt:   0,prec: 236
+Time:2857,g_pluseCnt:   0,prec: 236
+Time:2858,g_pluseCnt:   0,prec: 236
+Time:2859,g_pluseCnt:   0,prec: 236
+Time:2860,g_pluseCnt:   0,prec: 236
+Time:2861,g_pluseCnt:   0,prec: 236
+Time:2862,g_pluseCnt:   0,prec: 236
+Time:2863,g_pluseCnt:   0,prec: 236
+Time:2864,g_pluseCnt:   0,prec: 236
+Time:2865,g_pluseCnt:   1,prec: 236
+Time:2866,g_pluseCnt:   1,prec: 236
+Time:2867,g_pluseCnt:   1,prec: 236
+Time:2868,g_pluseCnt:   1,prec: 236
+Time:2869,g_pluseCnt:   1,prec: 236
+Time:2870,g_pluseCnt:   1,prec: 236
+Time:2871,g_pluseCnt:   1,prec: 236
+Time:2872,g_pluseCnt:   1,prec: 236
+Time:2873,g_pluseCnt:   1,prec: 236
+Time:2874,g_pluseCnt:   1,prec: 236
+Time:2875,g_pluseCnt:   1,prec: 236
+Time:2876,g_pluseCnt:   1,prec: 236
+Time:2877,g_pluseCnt:   1,prec: 236
+Time:2878,g_pluseCnt:   1,prec: 236
+Time:2879,g_pluseCnt:   1,prec: 236
+Time:2880,g_pluseCnt:   1,prec: 236
+Time:2881,g_pluseCnt:   1,prec: 236
+Time:2882,g_pluseCnt:   1,prec: 236
+Time:2883,g_pluseCnt:   1,prec: 236
+Time:2884,g_pluseCnt:   1,prec: 236
+Time:2885,g_pluseCnt:   1,prec: 236
+Time:2886,g_pluseCnt:   1,prec: 236
+Time:2887,g_pluseCnt:   1,prec: 236
+Time:2888,g_pluseCnt:   1,prec: 236
+Time:2889,g_pluseCnt:   1,prec: 236
+Time:2890,g_pluseCnt:   1,prec: 236
+Time:2891,g_pluseCnt:   1,prec: 236
+Time:2892,g_pluseCnt:   1,prec: 236
+Time:2893,g_pluseCnt:   1,prec: 236
+Time:2894,g_pluseCnt:   1,prec: 236
+Time:2895,g_pluseCnt:   1,prec: 236
+Time:2896,g_pluseCnt:   1,prec: 236
+Time:2897,g_pluseCnt:   1,prec: 236
+Time:2898,g_pluseCnt:   1,prec: 236
+Time:2899,g_pluseCnt:   1,prec: 236
+Time:2900,g_pluseCnt:   1,prec: 236
+Time:2901,g_pluseCnt:   1,prec: 236
+Time:2902,g_pluseCnt:   1,prec: 236
+Time:2903,g_pluseCnt:   1,prec: 236
+Time:2904,g_pluseCnt:   1,prec: 236
+Time:2905,g_pluseCnt:   1,prec: 236
+Time:2906,g_pluseCnt:   1,prec: 236
+Time:2907,g_pluseCnt:   1,prec: 236
+Time:2908,g_pluseCnt:   1,prec: 236
+Time:2909,g_pluseCnt:   1,prec: 236
+Time:2910,g_pluseCnt:   1,prec: 236
+Time:2911,g_pluseCnt:   1,prec: 236
+Time:2912,g_pluseCnt:   1,prec: 236
+Time:2913,g_pluseCnt:   1,prec: 236
+Time:2914,g_pluseCnt:   1,prec: 236
+Time:2915,g_pluseCnt:   1,prec: 236
+Time:2916,g_pluseCnt:   1,prec: 236
+Time:2917,g_pluseCnt:   1,prec: 236
+Time:2918,g_pluseCnt:   1,prec: 236
+Time:2919,g_pluseCnt:   1,prec: 236
+Time:2920,g_pluseCnt:   1,prec: 236
+Time:2921,g_pluseCnt:   1,prec: 236
+Time:2922,g_pluseCnt:   1,prec: 236
+Time:2923,g_pluseCnt:   1,prec: 236
+Time:2924,g_pluseCnt:   1,prec: 236
+Time:2925,g_pluseCnt:   1,prec: 236
+Time:2926,g_pluseCnt:   1,prec: 236
+Time:2927,g_pluseCnt:   1,prec: 236
+Time:2928,g_pluseCnt:   1,prec: 236
+Time:2929,g_pluseCnt:   1,prec: 236
+Time:2930,g_pluseCnt:   1,prec: 236
+Time:2931,g_pluseCnt:   1,prec: 236
+Time:2932,g_pluseCnt:   1,prec: 236
+Time:2933,g_pluseCnt:   1,prec: 236
+Time:2934,g_pluseCnt:   1,prec: 236
+Time:2935,g_pluseCnt:   1,prec: 236
+Time:2936,g_pluseCnt:   1,prec: 236
+Time:2937,g_pluseCnt:   1,prec: 236
+Time:2938,g_pluseCnt:   1,prec: 236
+Time:2939,g_pluseCnt:   2,prec: 236
+Time:2940,g_pluseCnt:   2,prec: 236
+Time:2941,g_pluseCnt:   2,prec: 236
+Time:2942,g_pluseCnt:   2,prec: 236
+Time:2943,g_pluseCnt:   2,prec: 236
+Time:2944,g_pluseCnt:   2,prec: 236
+Time:2945,g_pluseCnt:   2,prec: 236
+Time:2946,g_pluseCnt:   2,prec: 236
+Time:2947,g_pluseCnt:   2,prec: 236
+Time:2948,g_pluseCnt:   2,prec: 327
+Time:2949,g_pluseCnt:   2,prec: 327
+Time:2950,g_pluseCnt:   2,prec: 327
+Time:2951,g_pluseCnt:   2,prec: 327
+Time:2952,g_pluseCnt:   2,prec: 327
+Time:2953,g_pluseCnt:   2,prec: 327
+Time:2954,g_pluseCnt:   2,prec: 327
+Time:2955,g_pluseCnt:   2,prec: 327
+Time:2956,g_pluseCnt:   2,prec: 327
+Time:2957,g_pluseCnt:   2,prec: 327
+Time:2958,g_pluseCnt:   2,prec: 327
+Time:2959,g_pluseCnt:   2,prec: 327
+Time:2960,g_pluseCnt:   2,prec: 327
+Time:2961,g_pluseCnt:   2,prec: 327
+Time:2962,g_pluseCnt:   2,prec: 327
+Time:2963,g_pluseCnt:   2,prec: 327
+Time:2964,g_pluseCnt:   2,prec: 327
+Time:2965,g_pluseCnt:   2,prec: 327
+Time:2966,g_pluseCnt:   2,prec: 327
+Time:2967,g_pluseCnt:   2,prec: 327
+Time:2968,g_pluseCnt:   2,prec: 327
+Time:2969,g_pluseCnt:   2,prec: 327
+Time:2970,g_pluseCnt:   2,prec: 327
+Time:2971,g_pluseCnt:   2,prec: 327
+Time:2972,g_pluseCnt:   2,prec: 327
+Time:2973,g_pluseCnt:   2,prec: 327
+Time:2974,g_pluseCnt:   2,prec: 327
+Time:2975,g_pluseCnt:   2,prec: 327
+Time:2976,g_pluseCnt:   2,prec: 327
+Time:2977,g_pluseCnt:   2,prec: 327
+Time:2978,g_pluseCnt:   2,prec: 327
+Time:2979,g_pluseCnt:   2,prec: 327
+Time:2980,g_pluseCnt:   2,prec: 327
+Time:2981,g_pluseCnt:   2,prec: 327
+Time:2982,g_pluseCnt:   2,prec: 327
+Time:2983,g_pluseCnt:   2,prec: 327
+Time:2984,g_pluseCnt:   2,prec: 327
+Time:2985,g_pluseCnt:   2,prec: 327
+Time:2986,g_pluseCnt:   2,prec: 327
+Time:2987,g_pluseCnt:   2,prec: 327
+Time:2988,g_pluseCnt:   2,prec: 327
+Time:2989,g_pluseCnt:   2,prec: 327
+Time:2990,g_pluseCnt:   2,prec: 327
+Time:2991,g_pluseCnt:   2,prec: 327
+Time:2992,g_pluseCnt:   2,prec: 327
+Time:2993,g_pluseCnt:   2,prec: 327
+Time:2994,g_pluseCnt:   2,prec: 327
+Time:2995,g_pluseCnt:   2,prec: 327
+Time:2996,g_pluseCnt:   2,prec: 327
+Time:2997,g_pluseCnt:   2,prec: 327
+Time:2998,g_pluseCnt:   2,prec: 327
+Time:2999,g_pluseCnt:   2,prec: 327
+Time:3000,g_pluseCnt:   2,prec: 327
+Time:3001,g_pluseCnt:   2,prec: 327
+Time:3002,g_pluseCnt:   2,prec: 327
+Time:3003,g_pluseCnt:   2,prec: 327
+Time:3004,g_pluseCnt:   2,prec: 327
+Time:3005,g_pluseCnt:   2,prec: 327
+Time:3006,g_pluseCnt:   2,prec: 327
+Time:3007,g_pluseCnt:   2,prec: 327
+Time:3008,g_pluseCnt:   2,prec: 327
+Time:3009,g_pluseCnt:   2,prec: 327
+Time:3010,g_pluseCnt:   2,prec: 327
+Time:3011,g_pluseCnt:   2,prec: 327
+Time:3012,g_pluseCnt:   3,prec: 327
+Time:3013,g_pluseCnt:   3,prec: 327
+Time:3014,g_pluseCnt:   3,prec: 327
+Time:3015,g_pluseCnt:   3,prec: 327
+Time:3016,g_pluseCnt:   3,prec: 327
+Time:3017,g_pluseCnt:   3,prec: 327
+Time:3018,g_pluseCnt:   3,prec: 327
+Time:3019,g_pluseCnt:   3,prec: 327
+Time:3020,g_pluseCnt:   3,prec: 327
+Time:3021,g_pluseCnt:   3,prec: 327
+Time:3022,g_pluseCnt:   3,prec: 327
+Time:3023,g_pluseCnt:   3,prec: 327
+Time:3024,g_pluseCnt:   3,prec: 327
+Time:3025,g_pluseCnt:   3,prec: 327
+Time:3026,g_pluseCnt:   3,prec: 327
+Time:3027,g_pluseCnt:   3,prec: 327
+Time:3028,g_pluseCnt:   3,prec: 327
+Time:3029,g_pluseCnt:   3,prec: 327
+Time:3030,g_pluseCnt:   3,prec: 327
+Time:3031,g_pluseCnt:   3,prec: 327
+Time:3032,g_pluseCnt:   3,prec: 327
+Time:3033,g_pluseCnt:   3,prec: 327
+Time:3034,g_pluseCnt:   3,prec: 327
+Time:3035,g_pluseCnt:   3,prec: 327
+Time:3036,g_pluseCnt:   3,prec: 327
+Time:3037,g_pluseCnt:   3,prec: 327
+Time:3038,g_pluseCnt:   3,prec: 327
+Time:3039,g_pluseCnt:   3,prec: 327
+Time:3040,g_pluseCnt:   3,prec: 327
+Time:3041,g_pluseCnt:   3,prec: 327
+Time:3042,g_pluseCnt:   3,prec: 327
+Time:3043,g_pluseCnt:   3,prec: 327
+Time:3044,g_pluseCnt:   3,prec: 327
+Time:3045,g_pluseCnt:   3,prec: 327
+Time:3046,g_pluseCnt:   3,prec: 327
+Time:3047,g_pluseCnt:   3,prec: 327
+Time:3048,g_pluseCnt:   3,prec: 327
+Time:3049,g_pluseCnt:   3,prec: 259
+Time:3050,g_pluseCnt:   3,prec: 259
+Time:3051,g_pluseCnt:   3,prec: 259
+Time:3052,g_pluseCnt:   3,prec: 259
+Time:3053,g_pluseCnt:   3,prec: 259
+Time:3054,g_pluseCnt:   3,prec: 259
+Time:3055,g_pluseCnt:   3,prec: 259
+Time:3056,g_pluseCnt:   3,prec: 259
+Time:3057,g_pluseCnt:   3,prec: 259
+Time:3058,g_pluseCnt:   3,prec: 259
+Time:3059,g_pluseCnt:   3,prec: 259
+Time:3060,g_pluseCnt:   3,prec: 259
+Time:3061,g_pluseCnt:   3,prec: 259
+Time:3062,g_pluseCnt:   3,prec: 259
+Time:3063,g_pluseCnt:   3,prec: 259
+Time:3064,g_pluseCnt:   3,prec: 259
+Time:3065,g_pluseCnt:   3,prec: 259
+Time:3066,g_pluseCnt:   3,prec: 259
+Time:3067,g_pluseCnt:   3,prec: 259
+Time:3068,g_pluseCnt:   3,prec: 259
+Time:3069,g_pluseCnt:   3,prec: 259
+Time:3070,g_pluseCnt:   3,prec: 259
+Time:3071,g_pluseCnt:   3,prec: 259
+Time:3072,g_pluseCnt:   3,prec: 259
+Time:3073,g_pluseCnt:   3,prec: 259
+Time:3074,g_pluseCnt:   3,prec: 259
+Time:3075,g_pluseCnt:   3,prec: 259
+Time:3076,g_pluseCnt:   3,prec: 259
+Time:3077,g_pluseCnt:   0,prec: 259
+Time:3078,g_pluseCnt:   0,prec: 259
+Time:3079,g_pluseCnt:   0,prec: 259
+Time:3080,g_pluseCnt:   0,prec: 259
+Time:3081,g_pluseCnt:   0,prec: 259
+Time:3082,g_pluseCnt:   0,prec: 259
+Time:3083,g_pluseCnt:   0,prec: 259
+Time:3084,g_pluseCnt:   0,prec: 259
+Time:3085,g_pluseCnt:   0,prec: 259
+Time:3086,g_pluseCnt:   0,prec: 259
+Time:3087,g_pluseCnt:   0,prec: 259
+Time:3088,g_pluseCnt:   0,prec: 259
+Time:3089,g_pluseCnt:   0,prec: 259
+Time:3090,g_pluseCnt:   0,prec: 259
+Time:3091,g_pluseCnt:   0,prec: 259
+Time:3092,g_pluseCnt:   0,prec: 259
+Time:3093,g_pluseCnt:   0,prec: 259
+Time:3094,g_pluseCnt:   0,prec: 259
+Time:3095,g_pluseCnt:   0,prec: 259
+Time:3096,g_pluseCnt:   0,prec: 259
+Time:3097,g_pluseCnt:   0,prec: 259
+Time:3098,g_pluseCnt:   0,prec: 259
+Time:3099,g_pluseCnt:   0,prec: 259
+Time:3100,g_pluseCnt:   0,prec: 259
+Time:3101,g_pluseCnt:   0,prec: 259
+Time:3102,g_pluseCnt:   0,prec: 259
+Time:3103,g_pluseCnt:   0,prec: 259
+Time:3104,g_pluseCnt:   0,prec: 259
+Time:3105,g_pluseCnt:   0,prec: 259
+Time:3106,g_pluseCnt:   0,prec: 259
+Time:3107,g_pluseCnt:   0,prec: 259
+Time:3108,g_pluseCnt:   0,prec: 259
+Time:3109,g_pluseCnt:   0,prec: 259
+Time:3110,g_pluseCnt:   0,prec: 259
+Time:3111,g_pluseCnt:   0,prec: 259
+Time:3112,g_pluseCnt:   0,prec: 259
+Time:3113,g_pluseCnt:   0,prec: 259
+Time:3114,g_pluseCnt:   0,prec: 259
+Time:3115,g_pluseCnt:   0,prec: 259
+Time:3116,g_pluseCnt:   0,prec: 259
+Time:3117,g_pluseCnt:   0,prec: 259
+Time:3118,g_pluseCnt:   0,prec: 259
+Time:3119,g_pluseCnt:   0,prec: 259
+Time:3120,g_pluseCnt:   0,prec: 259
+Time:3121,g_pluseCnt:   0,prec: 259
+Time:3122,g_pluseCnt:   0,prec: 259
+Time:3123,g_pluseCnt:   0,prec: 259
+Time:3124,g_pluseCnt:   0,prec: 259
+Time:3125,g_pluseCnt:   0,prec: 259
+Time:3126,g_pluseCnt:   0,prec: 259
+Time:3127,g_pluseCnt:   0,prec: 259
+Time:3128,g_pluseCnt:   0,prec: 259
+Time:3129,g_pluseCnt:   0,prec: 259
+Time:3130,g_pluseCnt:   0,prec: 259
+Time:3131,g_pluseCnt:   0,prec: 259
+Time:3132,g_pluseCnt:   0,prec: 259
+Time:3133,g_pluseCnt:   0,prec: 259
+Time:3134,g_pluseCnt:   0,prec: 259
+Time:3135,g_pluseCnt:   0,prec: 259
+Time:3136,g_pluseCnt:   0,prec: 259
+Time:3137,g_pluseCnt:   0,prec: 259
+Time:3138,g_pluseCnt:   0,prec: 259
+Time:3139,g_pluseCnt:   0,prec: 259
+Time:3140,g_pluseCnt:   0,prec: 259
+Time:3141,g_pluseCnt:   0,prec: 259
+Time:3142,g_pluseCnt:   1,prec: 259
+Time:3143,g_pluseCnt:   1,prec: 259
+Time:3144,g_pluseCnt:   1,prec: 259
+Time:3145,g_pluseCnt:   1,prec: 259
+Time:3146,g_pluseCnt:   1,prec: 259
+Time:3147,g_pluseCnt:   1,prec: 259
+Time:3148,g_pluseCnt:   1,prec: 259
+Time:3149,g_pluseCnt:   1,prec: 259
+Time:3150,g_pluseCnt:   1,prec: 339
+Time:3151,g_pluseCnt:   1,prec: 339
+Time:3152,g_pluseCnt:   1,prec: 339
+Time:3153,g_pluseCnt:   1,prec: 339
+Time:3154,g_pluseCnt:   1,prec: 339
+Time:3155,g_pluseCnt:   1,prec: 339
+Time:3156,g_pluseCnt:   1,prec: 339
+Time:3157,g_pluseCnt:   1,prec: 339
+Time:3158,g_pluseCnt:   1,prec: 339
+Time:3159,g_pluseCnt:   1,prec: 339
+Time:3160,g_pluseCnt:   1,prec: 339
+Time:3161,g_pluseCnt:   1,prec: 339
+Time:3162,g_pluseCnt:   1,prec: 339
+Time:3163,g_pluseCnt:   1,prec: 339
+Time:3164,g_pluseCnt:   1,prec: 339
+Time:3165,g_pluseCnt:   1,prec: 339
+Time:3166,g_pluseCnt:   1,prec: 339
+Time:3167,g_pluseCnt:   1,prec: 339
+Time:3168,g_pluseCnt:   1,prec: 339
+Time:3169,g_pluseCnt:   1,prec: 339
+Time:3170,g_pluseCnt:   1,prec: 339
+Time:3171,g_pluseCnt:   1,prec: 339
+Time:3172,g_pluseCnt:   1,prec: 339
+Time:3173,g_pluseCnt:   1,prec: 339
+Time:3174,g_pluseCnt:   1,prec: 339
+Time:3175,g_pluseCnt:   1,prec: 339
+Time:3176,g_pluseCnt:   1,prec: 339
+Time:3177,g_pluseCnt:   1,prec: 339
+Time:3178,g_pluseCnt:   1,prec: 339
+Time:3179,g_pluseCnt:   1,prec: 339
+Time:3180,g_pluseCnt:   1,prec: 339
+Time:3181,g_pluseCnt:   1,prec: 339
+Time:3182,g_pluseCnt:   1,prec: 339
+Time:3183,g_pluseCnt:   1,prec: 339
+Time:3184,g_pluseCnt:   1,prec: 339
+Time:3185,g_pluseCnt:   1,prec: 339
+Time:3186,g_pluseCnt:   1,prec: 339
+Time:3187,g_pluseCnt:   1,prec: 339
+Time:3188,g_pluseCnt:   1,prec: 339
+Time:3189,g_pluseCnt:   1,prec: 339
+Time:3190,g_pluseCnt:   1,prec: 339
+Time:3191,g_pluseCnt:   1,prec: 339
+Time:3192,g_pluseCnt:   1,prec: 339
+Time:3193,g_pluseCnt:   1,prec: 339
+Time:3194,g_pluseCnt:   1,prec: 339
+Time:3195,g_pluseCnt:   1,prec: 339
+Time:3196,g_pluseCnt:   1,prec: 339
+Time:3197,g_pluseCnt:   1,prec: 339
+Time:3198,g_pluseCnt:   1,prec: 339
+Time:3199,g_pluseCnt:   1,prec: 339
+Time:3200,g_pluseCnt:   1,prec: 339
+Time:3201,g_pluseCnt:   1,prec: 339
+Time:3202,g_pluseCnt:   1,prec: 339
+Time:3203,g_pluseCnt:   1,prec: 339
+Time:3204,g_pluseCnt:   1,prec: 339
+Time:3205,g_pluseCnt:   1,prec: 339
+Time:3206,g_pluseCnt:   1,prec: 339
+Time:3207,g_pluseCnt:   1,prec: 339
+Time:3208,g_pluseCnt:   1,prec: 339
+Time:3209,g_pluseCnt:   1,prec: 339
+Time:3210,g_pluseCnt:   2,prec: 339
+Time:3211,g_pluseCnt:   2,prec: 339
+Time:3212,g_pluseCnt:   2,prec: 339
+Time:3213,g_pluseCnt:   2,prec: 339
+Time:3214,g_pluseCnt:   2,prec: 339
+Time:3215,g_pluseCnt:   2,prec: 339
+Time:3216,g_pluseCnt:   2,prec: 339
+Time:3217,g_pluseCnt:   2,prec: 339
+Time:3218,g_pluseCnt:   2,prec: 339
+Time:3219,g_pluseCnt:   2,prec: 339
+Time:3220,g_pluseCnt:   2,prec: 339
+Time:3221,g_pluseCnt:   2,prec: 339
+Time:3222,g_pluseCnt:   2,prec: 339
+Time:3223,g_pluseCnt:   2,prec: 339
+Time:3224,g_pluseCnt:   2,prec: 339
+Time:3225,g_pluseCnt:   2,prec: 339
+Time:3226,g_pluseCnt:   2,prec: 339
+Time:3227,g_pluseCnt:   2,prec: 339
+Time:3228,g_pluseCnt:   2,prec: 339
+Time:3229,g_pluseCnt:   2,prec: 339
+Time:3230,g_pluseCnt:   2,prec: 339
+Time:3231,g_pluseCnt:   2,prec: 339
+Time:3232,g_pluseCnt:   2,prec: 339
+Time:3233,g_pluseCnt:   2,prec: 339
+Time:3234,g_pluseCnt:   2,prec: 339
+Time:3235,g_pluseCnt:   2,prec: 339
+Time:3236,g_pluseCnt:   2,prec: 339
+Time:3237,g_pluseCnt:   2,prec: 339
+Time:3238,g_pluseCnt:   2,prec: 339
+Time:3239,g_pluseCnt:   2,prec: 339
+Time:3240,g_pluseCnt:   2,prec: 339
+Time:3241,g_pluseCnt:   2,prec: 339
+Time:3242,g_pluseCnt:   2,prec: 339
+Time:3243,g_pluseCnt:   2,prec: 339
+Time:3244,g_pluseCnt:   2,prec: 339
+Time:3245,g_pluseCnt:   2,prec: 339
+Time:3246,g_pluseCnt:   2,prec: 339
+Time:3247,g_pluseCnt:   2,prec: 339
+Time:3248,g_pluseCnt:   2,prec: 339
+Time:3249,g_pluseCnt:   2,prec: 339
+Time:3250,g_pluseCnt:   2,prec: 339
+Time:3251,g_pluseCnt:   2,prec: 435
+Time:3252,g_pluseCnt:   2,prec: 435
+Time:3253,g_pluseCnt:   2,prec: 435
+Time:3254,g_pluseCnt:   2,prec: 435
+Time:3255,g_pluseCnt:   2,prec: 435
+Time:3256,g_pluseCnt:   2,prec: 435
+Time:3257,g_pluseCnt:   2,prec: 435
+Time:3258,g_pluseCnt:   2,prec: 435
+Time:3259,g_pluseCnt:   2,prec: 435
+Time:3260,g_pluseCnt:   2,prec: 435
+Time:3261,g_pluseCnt:   2,prec: 435
+Time:3262,g_pluseCnt:   2,prec: 435
+Time:3263,g_pluseCnt:   2,prec: 435
+Time:3264,g_pluseCnt:   2,prec: 435
+Time:3265,g_pluseCnt:   2,prec: 435
+Time:3266,g_pluseCnt:   2,prec: 435
+Time:3267,g_pluseCnt:   2,prec: 435
+Time:3268,g_pluseCnt:   2,prec: 435
+Time:3269,g_pluseCnt:   2,prec: 435
+Time:3270,g_pluseCnt:   2,prec: 435
+Time:3271,g_pluseCnt:   2,prec: 435
+Time:3272,g_pluseCnt:   2,prec: 435
+Time:3273,g_pluseCnt:   2,prec: 435
+Time:3274,g_pluseCnt:   2,prec: 435
+Time:3275,g_pluseCnt:   2,prec: 435
+Time:3276,g_pluseCnt:   2,prec: 435
+Time:3277,g_pluseCnt:   2,prec: 435
+Time:3278,g_pluseCnt:   3,prec: 435
+Time:3279,g_pluseCnt:   3,prec: 435
+Time:3280,g_pluseCnt:   3,prec: 435
+Time:3281,g_pluseCnt:   3,prec: 435
+Time:3282,g_pluseCnt:   3,prec: 435
+Time:3283,g_pluseCnt:   3,prec: 435
+Time:3284,g_pluseCnt:   3,prec: 435
+Time:3285,g_pluseCnt:   3,prec: 435
+Time:3286,g_pluseCnt:   3,prec: 435
+Time:3287,g_pluseCnt:   3,prec: 435
+Time:3288,g_pluseCnt:   3,prec: 435
+Time:3289,g_pluseCnt:   3,prec: 435
+Time:3290,g_pluseCnt:   3,prec: 435
+Time:3291,g_pluseCnt:   3,prec: 435
+Time:3292,g_pluseCnt:   3,prec: 435
+Time:3293,g_pluseCnt:   3,prec: 435
+Time:3294,g_pluseCnt:   3,prec: 435
+Time:3295,g_pluseCnt:   3,prec: 435
+Time:3296,g_pluseCnt:   3,prec: 435
+Time:3297,g_pluseCnt:   3,prec: 435
+Time:3298,g_pluseCnt:   3,prec: 435
+Time:3299,g_pluseCnt:   3,prec: 435
+Time:3300,g_pluseCnt:   3,prec: 435
+Time:3301,g_pluseCnt:   3,prec: 435
+Time:3302,g_pluseCnt:   3,prec: 435
+Time:3303,g_pluseCnt:   3,prec: 435
+Time:3304,g_pluseCnt:   3,prec: 435
+Time:3305,g_pluseCnt:   3,prec: 435
+Time:3306,g_pluseCnt:   3,prec: 435
+Time:3307,g_pluseCnt:   3,prec: 435
+Time:3308,g_pluseCnt:   3,prec: 435
+Time:3309,g_pluseCnt:   3,prec: 435
+Time:3310,g_pluseCnt:   3,prec: 435
+Time:3311,g_pluseCnt:   3,prec: 435
+Time:3312,g_pluseCnt:   3,prec: 435
+Time:3313,g_pluseCnt:   3,prec: 435
+Time:3314,g_pluseCnt:   3,prec: 435
+Time:3315,g_pluseCnt:   3,prec: 435
+Time:3316,g_pluseCnt:   3,prec: 435
+Time:3317,g_pluseCnt:   3,prec: 435
+Time:3318,g_pluseCnt:   3,prec: 435
+Time:3319,g_pluseCnt:   3,prec: 435
+Time:3320,g_pluseCnt:   3,prec: 435
+Time:3321,g_pluseCnt:   3,prec: 435
+Time:3322,g_pluseCnt:   3,prec: 435
+Time:3323,g_pluseCnt:   3,prec: 435
+Time:3324,g_pluseCnt:   3,prec: 435
+Time:3325,g_pluseCnt:   3,prec: 435
+Time:3326,g_pluseCnt:   3,prec: 435
+Time:3327,g_pluseCnt:   3,prec: 435
+Time:3328,g_pluseCnt:   3,prec: 435
+Time:3329,g_pluseCnt:   3,prec: 435
+Time:3330,g_pluseCnt:   3,prec: 435
+Time:3331,g_pluseCnt:   3,prec: 435
+Time:3332,g_pluseCnt:   3,prec: 435
+Time:3333,g_pluseCnt:   3,prec: 435
+Time:3334,g_pluseCnt:   3,prec: 435
+Time:3335,g_pluseCnt:   3,prec: 435
+Time:3336,g_pluseCnt:   3,prec: 435
+Time:3337,g_pluseCnt:   3,prec: 435
+Time:3338,g_pluseCnt:   3,prec: 435
+Time:3339,g_pluseCnt:   3,prec: 435
+Time:3340,g_pluseCnt:   3,prec: 435
+Time:3341,g_pluseCnt:   3,prec: 435
+Time:3342,g_pluseCnt:   3,prec: 435
+Time:3343,g_pluseCnt:   3,prec: 435
+Time:3344,g_pluseCnt:   3,prec: 435
+Time:3345,g_pluseCnt:   3,prec: 435
+Time:3346,g_pluseCnt:   3,prec: 435
+Time:3347,g_pluseCnt:   3,prec: 435
+Time:3348,g_pluseCnt:   3,prec: 435
+Time:3349,g_pluseCnt:   3,prec: 435
+Time:3350,g_pluseCnt:   3,prec: 435
+Time:3351,g_pluseCnt:   3,prec: 435
+Time:3352,g_pluseCnt:   0,prec: 321
+Time:3353,g_pluseCnt:   0,prec: 321
+Time:3354,g_pluseCnt:   0,prec: 321
+Time:3355,g_pluseCnt:   0,prec: 321
+Time:3356,g_pluseCnt:   0,prec: 321
+Time:3357,g_pluseCnt:   0,prec: 321
+Time:3358,g_pluseCnt:   0,prec: 321
+Time:3359,g_pluseCnt:   0,prec: 321
+Time:3360,g_pluseCnt:   0,prec: 321
+Time:3361,g_pluseCnt:   0,prec: 321
+Time:3362,g_pluseCnt:   0,prec: 321
+Time:3363,g_pluseCnt:   0,prec: 321
+Time:3364,g_pluseCnt:   0,prec: 321
+Time:3365,g_pluseCnt:   0,prec: 321
+Time:3366,g_pluseCnt:   0,prec: 321
+Time:3367,g_pluseCnt:   0,prec: 321
+Time:3368,g_pluseCnt:   0,prec: 321
+Time:3369,g_pluseCnt:   0,prec: 321
+Time:3370,g_pluseCnt:   0,prec: 321
+Time:3371,g_pluseCnt:   0,prec: 321
+Time:3372,g_pluseCnt:   0,prec: 321
+Time:3373,g_pluseCnt:   0,prec: 321
+Time:3374,g_pluseCnt:   0,prec: 321
+Time:3375,g_pluseCnt:   0,prec: 321
+Time:3376,g_pluseCnt:   0,prec: 321
+Time:3377,g_pluseCnt:   0,prec: 321
+Time:3378,g_pluseCnt:   0,prec: 321
+Time:3379,g_pluseCnt:   0,prec: 321
+Time:3380,g_pluseCnt:   0,prec: 321
+Time:3381,g_pluseCnt:   0,prec: 321
+Time:3382,g_pluseCnt:   0,prec: 321
+Time:3383,g_pluseCnt:   0,prec: 321
+Time:3384,g_pluseCnt:   0,prec: 321
+Time:3385,g_pluseCnt:   0,prec: 321
+Time:3386,g_pluseCnt:   0,prec: 321
+Time:3387,g_pluseCnt:   0,prec: 321
+Time:3388,g_pluseCnt:   0,prec: 321
+Time:3389,g_pluseCnt:   0,prec: 321
+Time:3390,g_pluseCnt:   0,prec: 321
+Time:3391,g_pluseCnt:   0,prec: 321
+Time:3392,g_pluseCnt:   0,prec: 321
+Time:3393,g_pluseCnt:   0,prec: 321
+Time:3394,g_pluseCnt:   0,prec: 321
+Time:3395,g_pluseCnt:   0,prec: 321
+Time:3396,g_pluseCnt:   0,prec: 321
+Time:3397,g_pluseCnt:   0,prec: 321
+Time:3398,g_pluseCnt:   0,prec: 321
+Time:3399,g_pluseCnt:   0,prec: 321
+Time:3400,g_pluseCnt:   0,prec: 321
+Time:3401,g_pluseCnt:   0,prec: 321
+Time:3402,g_pluseCnt:   0,prec: 321
+Time:3403,g_pluseCnt:   0,prec: 321
+Time:3404,g_pluseCnt:   0,prec: 321
+Time:3405,g_pluseCnt:   0,prec: 321
+Time:3406,g_pluseCnt:   0,prec: 321
+Time:3407,g_pluseCnt:   0,prec: 321
+Time:3408,g_pluseCnt:   0,prec: 321
+Time:3409,g_pluseCnt:   0,prec: 321
+Time:3410,g_pluseCnt:   0,prec: 321
+Time:3411,g_pluseCnt:   0,prec: 321
+Time:3412,g_pluseCnt:   0,prec: 321
+Time:3413,g_pluseCnt:   0,prec: 321
+Time:3414,g_pluseCnt:   0,prec: 321
+Time:3415,g_pluseCnt:   0,prec: 321
+Time:3416,g_pluseCnt:   0,prec: 321
+Time:3417,g_pluseCnt:   0,prec: 321
+Time:3418,g_pluseCnt:   0,prec: 321
+Time:3419,g_pluseCnt:   0,prec: 321
+Time:3420,g_pluseCnt:   0,prec: 321
+Time:3421,g_pluseCnt:   0,prec: 321
+Time:3422,g_pluseCnt:   0,prec: 321
+Time:3423,g_pluseCnt:   1,prec: 321
+Time:3424,g_pluseCnt:   1,prec: 321
+Time:3425,g_pluseCnt:   1,prec: 321
+Time:3426,g_pluseCnt:   1,prec: 321
+Time:3427,g_pluseCnt:   1,prec: 321
+Time:3428,g_pluseCnt:   1,prec: 321
+Time:3429,g_pluseCnt:   1,prec: 321
+Time:3430,g_pluseCnt:   1,prec: 321
+Time:3431,g_pluseCnt:   1,prec: 321
+Time:3432,g_pluseCnt:   1,prec: 321
+Time:3433,g_pluseCnt:   1,prec: 321
+Time:3434,g_pluseCnt:   1,prec: 321
+Time:3435,g_pluseCnt:   1,prec: 321
+Time:3436,g_pluseCnt:   1,prec: 321
+Time:3437,g_pluseCnt:   1,prec: 321
+Time:3438,g_pluseCnt:   1,prec: 321
+Time:3439,g_pluseCnt:   1,prec: 321
+Time:3440,g_pluseCnt:   1,prec: 321
+Time:3441,g_pluseCnt:   1,prec: 321
+Time:3442,g_pluseCnt:   1,prec: 321
+Time:3443,g_pluseCnt:   1,prec: 321
+Time:3444,g_pluseCnt:   1,prec: 321
+Time:3445,g_pluseCnt:   1,prec: 321
+Time:3446,g_pluseCnt:   1,prec: 321
+Time:3447,g_pluseCnt:   1,prec: 321
+Time:3448,g_pluseCnt:   1,prec: 321
+Time:3449,g_pluseCnt:   1,prec: 321
+Time:3450,g_pluseCnt:   1,prec: 321
+Time:3451,g_pluseCnt:   1,prec: 321
+Time:3452,g_pluseCnt:   1,prec: 321
+Time:3453,g_pluseCnt:   1,prec: 270
+Time:3454,g_pluseCnt:   1,prec: 270
+Time:3455,g_pluseCnt:   1,prec: 270
+Time:3456,g_pluseCnt:   1,prec: 270
+Time:3457,g_pluseCnt:   1,prec: 270
+Time:3458,g_pluseCnt:   1,prec: 270
+Time:3459,g_pluseCnt:   1,prec: 270
+Time:3460,g_pluseCnt:   1,prec: 270
+Time:3461,g_pluseCnt:   1,prec: 270
+Time:3462,g_pluseCnt:   1,prec: 270
+Time:3463,g_pluseCnt:   1,prec: 270
+Time:3464,g_pluseCnt:   1,prec: 270
+Time:3465,g_pluseCnt:   1,prec: 270
+Time:3466,g_pluseCnt:   1,prec: 270
+Time:3467,g_pluseCnt:   1,prec: 270
+Time:3468,g_pluseCnt:   1,prec: 270
+Time:3469,g_pluseCnt:   1,prec: 270
+Time:3470,g_pluseCnt:   1,prec: 270
+Time:3471,g_pluseCnt:   1,prec: 270
+Time:3472,g_pluseCnt:   1,prec: 270
+Time:3473,g_pluseCnt:   1,prec: 270
+Time:3474,g_pluseCnt:   1,prec: 270
+Time:3475,g_pluseCnt:   1,prec: 270
+Time:3476,g_pluseCnt:   1,prec: 270
+Time:3477,g_pluseCnt:   1,prec: 270
+Time:3478,g_pluseCnt:   1,prec: 270
+Time:3479,g_pluseCnt:   1,prec: 270
+Time:3480,g_pluseCnt:   1,prec: 270
+Time:3481,g_pluseCnt:   1,prec: 270
+Time:3482,g_pluseCnt:   1,prec: 270
+Time:3483,g_pluseCnt:   1,prec: 270
+Time:3484,g_pluseCnt:   1,prec: 270
+Time:3485,g_pluseCnt:   1,prec: 270
+Time:3486,g_pluseCnt:   1,prec: 270
+Time:3487,g_pluseCnt:   1,prec: 270
+Time:3488,g_pluseCnt:   1,prec: 270
+Time:3489,g_pluseCnt:   1,prec: 270
+Time:3490,g_pluseCnt:   1,prec: 270
+Time:3491,g_pluseCnt:   1,prec: 270
+Time:3492,g_pluseCnt:   1,prec: 270
+Time:3493,g_pluseCnt:   1,prec: 270
+Time:3494,g_pluseCnt:   1,prec: 270
+Time:3495,g_pluseCnt:   1,prec: 270
+Time:3496,g_pluseCnt:   1,prec: 270
+Time:3497,g_pluseCnt:   1,prec: 270
+Time:3498,g_pluseCnt:   1,prec: 270
+Time:3499,g_pluseCnt:   1,prec: 270
+Time:3500,g_pluseCnt:   1,prec: 270
+Time:3501,g_pluseCnt:   1,prec: 270
+Time:3502,g_pluseCnt:   1,prec: 270
+Time:3503,g_pluseCnt:   1,prec: 270
+Time:3504,g_pluseCnt:   1,prec: 270
+Time:3505,g_pluseCnt:   1,prec: 270
+Time:3506,g_pluseCnt:   1,prec: 270
+Time:3507,g_pluseCnt:   1,prec: 270
+Time:3508,g_pluseCnt:   1,prec: 270
+Time:3509,g_pluseCnt:   1,prec: 270
+Time:3510,g_pluseCnt:   1,prec: 270
+Time:3511,g_pluseCnt:   1,prec: 270
+Time:3512,g_pluseCnt:   1,prec: 270
+Time:3513,g_pluseCnt:   1,prec: 270
+Time:3514,g_pluseCnt:   1,prec: 270
+Time:3515,g_pluseCnt:   1,prec: 270
+Time:3516,g_pluseCnt:   1,prec: 270
+Time:3517,g_pluseCnt:   1,prec: 270
+Time:3518,g_pluseCnt:   1,prec: 270
+Time:3519,g_pluseCnt:   1,prec: 270
+Time:3520,g_pluseCnt:   1,prec: 270
+Time:3521,g_pluseCnt:   1,prec: 270
+Time:3522,g_pluseCnt:   1,prec: 270
+Time:3523,g_pluseCnt:   1,prec: 270
+Time:3524,g_pluseCnt:   1,prec: 270
+Time:3525,g_pluseCnt:   1,prec: 270
+Time:3526,g_pluseCnt:   1,prec: 270
+Time:3527,g_pluseCnt:   1,prec: 270
+Time:3528,g_pluseCnt:   1,prec: 270
+Time:3529,g_pluseCnt:   1,prec: 270
+Time:3530,g_pluseCnt:   1,prec: 270
+Time:3531,g_pluseCnt:   1,prec: 270
+Time:3532,g_pluseCnt:   1,prec: 270
+Time:3533,g_pluseCnt:   1,prec: 270
+Time:3534,g_pluseCnt:   1,prec: 270
+Time:3535,g_pluseCnt:   1,prec: 270
+Time:3536,g_pluseCnt:   1,prec: 270
+Time:3537,g_pluseCnt:   1,prec: 270
+Time:3538,g_pluseCnt:   1,prec: 270
+Time:3539,g_pluseCnt:   1,prec: 270
+Time:3540,g_pluseCnt:   1,prec: 270
+Time:3541,g_pluseCnt:   1,prec: 270
+Time:3542,g_pluseCnt:   1,prec: 270
+Time:3543,g_pluseCnt:   1,prec: 270
+Time:3544,g_pluseCnt:   1,prec: 270
+Time:3545,g_pluseCnt:   1,prec: 270
+Time:3546,g_pluseCnt:   1,prec: 270
+Time:3547,g_pluseCnt:   1,prec: 270
+Time:3548,g_pluseCnt:   1,prec: 270
+Time:3549,g_pluseCnt:   1,prec: 270
+Time:3550,g_pluseCnt:   1,prec: 270
+Time:3551,g_pluseCnt:   1,prec: 270
+Time:3552,g_pluseCnt:   1,prec: 270
+Time:3553,g_pluseCnt:   1,prec: 270
+Time:3554,g_pluseCnt:   1,prec: 176
+Time:3555,g_pluseCnt:   1,prec: 176
+Time:3556,g_pluseCnt:   1,prec: 176
+Time:3557,g_pluseCnt:   1,prec: 176
+Time:3558,g_pluseCnt:   1,prec: 176
+Time:3559,g_pluseCnt:   1,prec: 176
+Time:3560,g_pluseCnt:   1,prec: 176
+Time:3561,g_pluseCnt:   1,prec: 176
+Time:3562,g_pluseCnt:   1,prec: 176
+Time:3563,g_pluseCnt:   1,prec: 176
+Time:3564,g_pluseCnt:   1,prec: 176
+Time:3565,g_pluseCnt:   1,prec: 176
+Time:3566,g_pluseCnt:   1,prec: 176
+Time:3567,g_pluseCnt:   1,prec: 176
+Time:3568,g_pluseCnt:   1,prec: 176
+Time:3569,g_pluseCnt:   1,prec: 176
+Time:3570,g_pluseCnt:   1,prec: 176
+Time:3571,g_pluseCnt:   1,prec: 176
+Time:3572,g_pluseCnt:   1,prec: 176
+Time:3573,g_pluseCnt:   1,prec: 176
+Time:3574,g_pluseCnt:   1,prec: 176
+Time:3575,g_pluseCnt:   1,prec: 176
+Time:3576,g_pluseCnt:   1,prec: 176
+Time:3577,g_pluseCnt:   1,prec: 176
+Time:3578,g_pluseCnt:   1,prec: 176
+Time:3579,g_pluseCnt:   1,prec: 176
+Time:3580,g_pluseCnt:   1,prec: 176
+Time:3581,g_pluseCnt:   1,prec: 176
+Time:3582,g_pluseCnt:   1,prec: 176
+Time:3583,g_pluseCnt:   1,prec: 176
+Time:3584,g_pluseCnt:   1,prec: 176
+Time:3585,g_pluseCnt:   1,prec: 176
+Time:3586,g_pluseCnt:   1,prec: 176
+Time:3587,g_pluseCnt:   1,prec: 176
+Time:3588,g_pluseCnt:   1,prec: 176
+Time:3589,g_pluseCnt:   1,prec: 176
+Time:3590,g_pluseCnt:   1,prec: 176
+Time:3591,g_pluseCnt:   1,prec: 176
+Time:3592,g_pluseCnt:   1,prec: 176
+Time:3593,g_pluseCnt:   1,prec: 176
+Time:3594,g_pluseCnt:   1,prec: 176
+Time:3595,g_pluseCnt:   1,prec: 176
+Time:3596,g_pluseCnt:   1,prec: 176
+Time:3597,g_pluseCnt:   1,prec: 176
+Time:3598,g_pluseCnt:   1,prec: 176
+Time:3599,g_pluseCnt:   1,prec: 176
+Time:3600,g_pluseCnt:   1,prec: 176
+Time:3601,g_pluseCnt:   1,prec: 176
+Time:3602,g_pluseCnt:   1,prec: 176
+Time:3603,g_pluseCnt:   1,prec: 176
+Time:3604,g_pluseCnt:   1,prec: 176
+Time:3605,g_pluseCnt:   1,prec: 176
+Time:3606,g_pluseCnt:   1,prec: 176
+Time:3607,g_pluseCnt:   1,prec: 176
+Time:3608,g_pluseCnt:   1,prec: 176
+Time:3609,g_pluseCnt:   1,prec: 176
+Time:3610,g_pluseCnt:   1,prec: 176
+Time:3611,g_pluseCnt:   1,prec: 176
+Time:3612,g_pluseCnt:   1,prec: 176
+Time:3613,g_pluseCnt:   1,prec: 176
+Time:3614,g_pluseCnt:   1,prec: 176
+Time:3615,g_pluseCnt:   1,prec: 176
+Time:3616,g_pluseCnt:   1,prec: 176
+Time:3617,g_pluseCnt:   1,prec: 176
+Time:3618,g_pluseCnt:   1,prec: 176
+Time:3619,g_pluseCnt:   1,prec: 176
+Time:3620,g_pluseCnt:   1,prec: 176
+Time:3621,g_pluseCnt:   1,prec: 176
+Time:3622,g_pluseCnt:   1,prec: 176
+Time:3623,g_pluseCnt:   1,prec: 176
+Time:3624,g_pluseCnt:   1,prec: 176
+Time:3625,g_pluseCnt:   1,prec: 176
+Time:3626,g_pluseCnt:   1,prec: 176
+Time:3627,g_pluseCnt:   1,prec: 176
+Time:3628,g_pluseCnt:   1,prec: 176
+Time:3629,g_pluseCnt:   1,prec: 176
+Time:3630,g_pluseCnt:   1,prec: 176
+Time:3631,g_pluseCnt:   1,prec: 176
+Time:3632,g_pluseCnt:   1,prec: 176
+Time:3633,g_pluseCnt:   1,prec: 176
+Time:3634,g_pluseCnt:   1,prec: 176
+Time:3635,g_pluseCnt:   1,prec: 176
+Time:3636,g_pluseCnt:   1,prec: 176
+Time:3637,g_pluseCnt:   1,prec: 176
+Time:3638,g_pluseCnt:   1,prec: 176
+Time:3639,g_pluseCnt:   1,prec: 176
+Time:3640,g_pluseCnt:   1,prec: 176
+Time:3641,g_pluseCnt:   1,prec: 176
+Time:3642,g_pluseCnt:   1,prec: 176
+Time:3643,g_pluseCnt:   1,prec: 176
+Time:3644,g_pluseCnt:   1,prec: 176
+Time:3645,g_pluseCnt:   1,prec: 176
+Time:3646,g_pluseCnt:   1,prec: 176
+Time:3647,g_pluseCnt:   1,prec: 176
+Time:3648,g_pluseCnt:   1,prec: 176
+Time:3649,g_pluseCnt:   1,prec: 176
+Time:3650,g_pluseCnt:   1,prec: 176
+Time:3651,g_pluseCnt:   1,prec: 176
+Time:3652,g_pluseCnt:   1,prec: 176
+Time:3653,g_pluseCnt:   1,prec: 176
+Time:3654,g_pluseCnt:   1,prec: 176
+Time:3655,g_pluseCnt:   1,prec: 269
+Time:3656,g_pluseCnt:   1,prec: 269
+Time:3657,g_pluseCnt:   1,prec: 269
+Time:3658,g_pluseCnt:   1,prec: 269
+Time:3659,g_pluseCnt:   1,prec: 269
+Time:3660,g_pluseCnt:   1,prec: 269
+Time:3661,g_pluseCnt:   1,prec: 269
+Time:3662,g_pluseCnt:   1,prec: 269
+Time:3663,g_pluseCnt:   1,prec: 269
+Time:3664,g_pluseCnt:   1,prec: 269
+Time:3665,g_pluseCnt:   1,prec: 269
+Time:3666,g_pluseCnt:   1,prec: 269
+Time:3667,g_pluseCnt:   1,prec: 269
+Time:3668,g_pluseCnt:   1,prec: 269
+Time:3669,g_pluseCnt:   1,prec: 269
+Time:3670,g_pluseCnt:   1,prec: 269
+Time:3671,g_pluseCnt:   1,prec: 269
+Time:3672,g_pluseCnt:   1,prec: 269
+Time:3673,g_pluseCnt:   1,prec: 269
+Time:3674,g_pluseCnt:   1,prec: 269
+Time:3675,g_pluseCnt:   1,prec: 269
+Time:3676,g_pluseCnt:   1,prec: 269
+Time:3677,g_pluseCnt:   1,prec: 269
+Time:3678,g_pluseCnt:   1,prec: 269
+Time:3679,g_pluseCnt:   1,prec: 269
+Time:3680,g_pluseCnt:   1,prec: 269
+Time:3681,g_pluseCnt:   1,prec: 269
+Time:3682,g_pluseCnt:   1,prec: 269
+Time:3683,g_pluseCnt:   1,prec: 269
+Time:3684,g_pluseCnt:   1,prec: 269
+Time:3685,g_pluseCnt:   1,prec: 269
+Time:3686,g_pluseCnt:   1,prec: 269
+Time:3687,g_pluseCnt:   1,prec: 269
+Time:3688,g_pluseCnt:   1,prec: 269
+Time:3689,g_pluseCnt:   1,prec: 269
+Time:3690,g_pluseCnt:   1,prec: 269
+Time:3691,g_pluseCnt:   2,prec: 269
+Time:3692,g_pluseCnt:   2,prec: 269
+Time:3693,g_pluseCnt:   2,prec: 269
+Time:3694,g_pluseCnt:   2,prec: 269
+Time:3695,g_pluseCnt:   2,prec: 269
+Time:3696,g_pluseCnt:   2,prec: 269
+Time:3697,g_pluseCnt:   2,prec: 269
+Time:3698,g_pluseCnt:   2,prec: 269
+Time:3699,g_pluseCnt:   2,prec: 269
+Time:3700,g_pluseCnt:   2,prec: 269
+Time:3701,g_pluseCnt:   2,prec: 269
+Time:3702,g_pluseCnt:   2,prec: 269
+Time:3703,g_pluseCnt:   2,prec: 269
+Time:3704,g_pluseCnt:   2,prec: 269
+Time:3705,g_pluseCnt:   2,prec: 269
+Time:3706,g_pluseCnt:   2,prec: 269
+Time:3707,g_pluseCnt:   2,prec: 269
+Time:3708,g_pluseCnt:   2,prec: 269
+Time:3709,g_pluseCnt:   2,prec: 269
+Time:3710,g_pluseCnt:   2,prec: 269
+Time:3711,g_pluseCnt:   2,prec: 269
+Time:3712,g_pluseCnt:   2,prec: 269
+Time:3713,g_pluseCnt:   2,prec: 269
+Time:3714,g_pluseCnt:   2,prec: 269
+Time:3715,g_pluseCnt:   2,prec: 269
+Time:3716,g_pluseCnt:   2,prec: 269
+Time:3717,g_pluseCnt:   2,prec: 269
+Time:3718,g_pluseCnt:   2,prec: 269
+Time:3719,g_pluseCnt:   2,prec: 269
+Time:3720,g_pluseCnt:   2,prec: 269
+Time:3721,g_pluseCnt:   2,prec: 269
+Time:3722,g_pluseCnt:   2,prec: 269
+Time:3723,g_pluseCnt:   2,prec: 269
+Time:3724,g_pluseCnt:   2,prec: 269
+Time:3725,g_pluseCnt:   2,prec: 269
+Time:3726,g_pluseCnt:   2,prec: 269
+Time:3727,g_pluseCnt:   2,prec: 269
+Time:3728,g_pluseCnt:   2,prec: 269
+Time:3729,g_pluseCnt:   2,prec: 269
+Time:3730,g_pluseCnt:   2,prec: 269
+Time:3731,g_pluseCnt:   2,prec: 269
+Time:3732,g_pluseCnt:   2,prec: 269
+Time:3733,g_pluseCnt:   2,prec: 269
+Time:3734,g_pluseCnt:   2,prec: 269
+Time:3735,g_pluseCnt:   2,prec: 269
+Time:3736,g_pluseCnt:   2,prec: 269
+Time:3737,g_pluseCnt:   2,prec: 269
+Time:3738,g_pluseCnt:   2,prec: 269
+Time:3739,g_pluseCnt:   2,prec: 269
+Time:3740,g_pluseCnt:   2,prec: 269
+Time:3741,g_pluseCnt:   2,prec: 269
+Time:3742,g_pluseCnt:   2,prec: 269
+Time:3743,g_pluseCnt:   2,prec: 269
+Time:3744,g_pluseCnt:   2,prec: 269
+Time:3745,g_pluseCnt:   2,prec: 269
+Time:3746,g_pluseCnt:   2,prec: 269
+Time:3747,g_pluseCnt:   2,prec: 269
+Time:3748,g_pluseCnt:   2,prec: 269
+Time:3749,g_pluseCnt:   2,prec: 269
+Time:3750,g_pluseCnt:   2,prec: 269
+Time:3751,g_pluseCnt:   2,prec: 269
+Time:3752,g_pluseCnt:   2,prec: 269
+Time:3753,g_pluseCnt:   2,prec: 269
+Time:3754,g_pluseCnt:   2,prec: 269
+Time:3755,g_pluseCnt:   2,prec: 269
+Time:3756,g_pluseCnt:   2,prec: 235
+Time:3757,g_pluseCnt:   2,prec: 235
+Time:3758,g_pluseCnt:   2,prec: 235
+Time:3759,g_pluseCnt:   2,prec: 235
+Time:3760,g_pluseCnt:   2,prec: 235
+Time:3761,g_pluseCnt:   3,prec: 235
+Time:3762,g_pluseCnt:   3,prec: 235
+Time:3763,g_pluseCnt:   3,prec: 235
+Time:3764,g_pluseCnt:   3,prec: 235
+Time:3765,g_pluseCnt:   3,prec: 235
+Time:3766,g_pluseCnt:   3,prec: 235
+Time:3767,g_pluseCnt:   3,prec: 235
+Time:3768,g_pluseCnt:   3,prec: 235
+Time:3769,g_pluseCnt:   3,prec: 235
+Time:3770,g_pluseCnt:   3,prec: 235
+Time:3771,g_pluseCnt:   3,prec: 235
+Time:3772,g_pluseCnt:   3,prec: 235
+Time:3773,g_pluseCnt:   3,prec: 235
+Time:3774,g_pluseCnt:   3,prec: 235
+Time:3775,g_pluseCnt:   3,prec: 235
+Time:3776,g_pluseCnt:   3,prec: 235
+Time:3777,g_pluseCnt:   3,prec: 235
+Time:3778,g_pluseCnt:   3,prec: 235
+Time:3779,g_pluseCnt:   3,prec: 235
+Time:3780,g_pluseCnt:   3,prec: 235
+Time:3781,g_pluseCnt:   3,prec: 235
+Time:3782,g_pluseCnt:   3,prec: 235
+Time:3783,g_pluseCnt:   3,prec: 235
+Time:3784,g_pluseCnt:   3,prec: 235
+Time:3785,g_pluseCnt:   3,prec: 235
+Time:3786,g_pluseCnt:   3,prec: 235
+Time:3787,g_pluseCnt:   3,prec: 235
+Time:3788,g_pluseCnt:   3,prec: 235
+Time:3789,g_pluseCnt:   3,prec: 235
+Time:3790,g_pluseCnt:   3,prec: 235
+Time:3791,g_pluseCnt:   3,prec: 235
+Time:3792,g_pluseCnt:   3,prec: 235
+Time:3793,g_pluseCnt:   3,prec: 235
+Time:3794,g_pluseCnt:   3,prec: 235
+Time:3795,g_pluseCnt:   3,prec: 235
+Time:3796,g_pluseCnt:   3,prec: 235
+Time:3797,g_pluseCnt:   3,prec: 235
+Time:3798,g_pluseCnt:   3,prec: 235
+Time:3799,g_pluseCnt:   3,prec: 235
+Time:3800,g_pluseCnt:   3,prec: 235
+Time:3801,g_pluseCnt:   3,prec: 235
+Time:3802,g_pluseCnt:   3,prec: 235
+Time:3803,g_pluseCnt:   3,prec: 235
+Time:3804,g_pluseCnt:   3,prec: 235
+Time:3805,g_pluseCnt:   3,prec: 235
+Time:3806,g_pluseCnt:   3,prec: 235
+Time:3807,g_pluseCnt:   3,prec: 235
+Time:3808,g_pluseCnt:   3,prec: 235
+Time:3809,g_pluseCnt:   3,prec: 235
+Time:3810,g_pluseCnt:   3,prec: 235
+Time:3811,g_pluseCnt:   3,prec: 235
+Time:3812,g_pluseCnt:   3,prec: 235
+Time:3813,g_pluseCnt:   3,prec: 235
+Time:3814,g_pluseCnt:   3,prec: 235
+Time:3815,g_pluseCnt:   3,prec: 235
+Time:3816,g_pluseCnt:   3,prec: 235
+Time:3817,g_pluseCnt:   3,prec: 235
+Time:3818,g_pluseCnt:   3,prec: 235
+Time:3819,g_pluseCnt:   3,prec: 235
+Time:3820,g_pluseCnt:   3,prec: 235
+Time:3821,g_pluseCnt:   3,prec: 235
+Time:3822,g_pluseCnt:   3,prec: 235
+Time:3823,g_pluseCnt:   3,prec: 235
+Time:3824,g_pluseCnt:   3,prec: 235
+Time:3825,g_pluseCnt:   3,prec: 235
+Time:3826,g_pluseCnt:   3,prec: 235
+Time:3827,g_pluseCnt:   3,prec: 235
+Time:3828,g_pluseCnt:   3,prec: 235
+Time:3829,g_pluseCnt:   0,prec: 235
+Time:3830,g_pluseCnt:   0,prec: 235
+Time:3831,g_pluseCnt:   0,prec: 235
+Time:3832,g_pluseCnt:   0,prec: 235
+Time:3833,g_pluseCnt:   0,prec: 235
+Time:3834,g_pluseCnt:   0,prec: 235
+Time:3835,g_pluseCnt:   0,prec: 235
+Time:3836,g_pluseCnt:   0,prec: 235
+Time:3837,g_pluseCnt:   0,prec: 235
+Time:3838,g_pluseCnt:   0,prec: 235
+Time:3839,g_pluseCnt:   0,prec: 235
+Time:3840,g_pluseCnt:   0,prec: 235
+Time:3841,g_pluseCnt:   0,prec: 235
+Time:3842,g_pluseCnt:   0,prec: 235
+Time:3843,g_pluseCnt:   0,prec: 235
+Time:3844,g_pluseCnt:   0,prec: 235
+Time:3845,g_pluseCnt:   0,prec: 235
+Time:3846,g_pluseCnt:   0,prec: 235
+Time:3847,g_pluseCnt:   0,prec: 235
+Time:3848,g_pluseCnt:   0,prec: 235
+Time:3849,g_pluseCnt:   0,prec: 235
+Time:3850,g_pluseCnt:   0,prec: 235
+Time:3851,g_pluseCnt:   0,prec: 235
+Time:3852,g_pluseCnt:   0,prec: 235
+Time:3853,g_pluseCnt:   0,prec: 235
+Time:3854,g_pluseCnt:   0,prec: 235
+Time:3855,g_pluseCnt:   0,prec: 235
+Time:3856,g_pluseCnt:   0,prec: 235
+Time:3857,g_pluseCnt:   0,prec: 297
+Time:3858,g_pluseCnt:   0,prec: 297
+Time:3859,g_pluseCnt:   0,prec: 297
+Time:3860,g_pluseCnt:   0,prec: 297
+Time:3861,g_pluseCnt:   0,prec: 297
+Time:3862,g_pluseCnt:   0,prec: 297
+Time:3863,g_pluseCnt:   0,prec: 297
+Time:3864,g_pluseCnt:   0,prec: 297
+Time:3865,g_pluseCnt:   0,prec: 297
+Time:3866,g_pluseCnt:   0,prec: 297
+Time:3867,g_pluseCnt:   0,prec: 297
+Time:3868,g_pluseCnt:   0,prec: 297
+Time:3869,g_pluseCnt:   0,prec: 297
+Time:3870,g_pluseCnt:   0,prec: 297
+Time:3871,g_pluseCnt:   0,prec: 297
+Time:3872,g_pluseCnt:   0,prec: 297
+Time:3873,g_pluseCnt:   0,prec: 297
+Time:3874,g_pluseCnt:   0,prec: 297
+Time:3875,g_pluseCnt:   0,prec: 297
+Time:3876,g_pluseCnt:   0,prec: 297
+Time:3877,g_pluseCnt:   0,prec: 297
+Time:3878,g_pluseCnt:   0,prec: 297
+Time:3879,g_pluseCnt:   0,prec: 297
+Time:3880,g_pluseCnt:   0,prec: 297
+Time:3881,g_pluseCnt:   0,prec: 297
+Time:3882,g_pluseCnt:   0,prec: 297
+Time:3883,g_pluseCnt:   0,prec: 297
+Time:3884,g_pluseCnt:   0,prec: 297
+Time:3885,g_pluseCnt:   0,prec: 297
+Time:3886,g_pluseCnt:   0,prec: 297
+Time:3887,g_pluseCnt:   0,prec: 297
+Time:3888,g_pluseCnt:   0,prec: 297
+Time:3889,g_pluseCnt:   0,prec: 297
+Time:3890,g_pluseCnt:   0,prec: 297
+Time:3891,g_pluseCnt:   0,prec: 297
+Time:3892,g_pluseCnt:   0,prec: 297
+Time:3893,g_pluseCnt:   0,prec: 297
+Time:3894,g_pluseCnt:   0,prec: 297
+Time:3895,g_pluseCnt:   0,prec: 297
+Time:3896,g_pluseCnt:   1,prec: 297
+Time:3897,g_pluseCnt:   1,prec: 297
+Time:3898,g_pluseCnt:   1,prec: 297
+Time:3899,g_pluseCnt:   1,prec: 297
+Time:3900,g_pluseCnt:   1,prec: 297
+Time:3901,g_pluseCnt:   1,prec: 297
+Time:3902,g_pluseCnt:   1,prec: 297
+Time:3903,g_pluseCnt:   1,prec: 297
+Time:3904,g_pluseCnt:   1,prec: 297
+Time:3905,g_pluseCnt:   1,prec: 297
+Time:3906,g_pluseCnt:   1,prec: 297
+Time:3907,g_pluseCnt:   1,prec: 297
+Time:3908,g_pluseCnt:   1,prec: 297
+Time:3909,g_pluseCnt:   1,prec: 297
+Time:3910,g_pluseCnt:   1,prec: 297
+Time:3911,g_pluseCnt:   1,prec: 297
+Time:3912,g_pluseCnt:   1,prec: 297
+Time:3913,g_pluseCnt:   1,prec: 297
+Time:3914,g_pluseCnt:   1,prec: 297
+Time:3915,g_pluseCnt:   1,prec: 297
+Time:3916,g_pluseCnt:   1,prec: 297
+Time:3917,g_pluseCnt:   1,prec: 297
+Time:3918,g_pluseCnt:   1,prec: 297
+Time:3919,g_pluseCnt:   1,prec: 297
+Time:3920,g_pluseCnt:   1,prec: 297
+Time:3921,g_pluseCnt:   1,prec: 297
+Time:3922,g_pluseCnt:   1,prec: 297
+Time:3923,g_pluseCnt:   1,prec: 297
+Time:3924,g_pluseCnt:   1,prec: 297
+Time:3925,g_pluseCnt:   1,prec: 297
+Time:3926,g_pluseCnt:   1,prec: 297
+Time:3927,g_pluseCnt:   1,prec: 297
+Time:3928,g_pluseCnt:   1,prec: 297
+Time:3929,g_pluseCnt:   1,prec: 297
+Time:3930,g_pluseCnt:   1,prec: 297
+Time:3931,g_pluseCnt:   1,prec: 297
+Time:3932,g_pluseCnt:   1,prec: 297
+Time:3933,g_pluseCnt:   1,prec: 297
+Time:3934,g_pluseCnt:   1,prec: 297
+Time:3935,g_pluseCnt:   1,prec: 297
+Time:3936,g_pluseCnt:   1,prec: 297
+Time:3937,g_pluseCnt:   1,prec: 297
+Time:3938,g_pluseCnt:   1,prec: 297
+Time:3939,g_pluseCnt:   1,prec: 297
+Time:3940,g_pluseCnt:   1,prec: 297
+Time:3941,g_pluseCnt:   1,prec: 297
+Time:3942,g_pluseCnt:   1,prec: 297
+Time:3943,g_pluseCnt:   1,prec: 297
+Time:3944,g_pluseCnt:   1,prec: 297
+Time:3945,g_pluseCnt:   1,prec: 297
+Time:3946,g_pluseCnt:   1,prec: 297
+Time:3947,g_pluseCnt:   1,prec: 297
+Time:3948,g_pluseCnt:   1,prec: 297
+Time:3949,g_pluseCnt:   1,prec: 297
+Time:3950,g_pluseCnt:   1,prec: 297
+Time:3951,g_pluseCnt:   1,prec: 297
+Time:3952,g_pluseCnt:   1,prec: 297
+Time:3953,g_pluseCnt:   1,prec: 297
+Time:3954,g_pluseCnt:   1,prec: 297
+Time:3955,g_pluseCnt:   1,prec: 297
+Time:3956,g_pluseCnt:   1,prec: 297
+Time:3957,g_pluseCnt:   1,prec: 297
+Time:3958,g_pluseCnt:   1,prec: 506
+Time:3959,g_pluseCnt:   1,prec: 506
+Time:3960,g_pluseCnt:   1,prec: 506
+Time:3961,g_pluseCnt:   1,prec: 506
+Time:3962,g_pluseCnt:   2,prec: 506
+Time:3963,g_pluseCnt:   2,prec: 506
+Time:3964,g_pluseCnt:   2,prec: 506
+Time:3965,g_pluseCnt:   2,prec: 506
+Time:3966,g_pluseCnt:   2,prec: 506
+Time:3967,g_pluseCnt:   2,prec: 506
+Time:3968,g_pluseCnt:   2,prec: 506
+Time:3969,g_pluseCnt:   2,prec: 506
+Time:3970,g_pluseCnt:   2,prec: 506
+Time:3971,g_pluseCnt:   2,prec: 506
+Time:3972,g_pluseCnt:   2,prec: 506
+Time:3973,g_pluseCnt:   2,prec: 506
+Time:3974,g_pluseCnt:   2,prec: 506
+Time:3975,g_pluseCnt:   2,prec: 506
+Time:3976,g_pluseCnt:   2,prec: 506
+Time:3977,g_pluseCnt:   2,prec: 506
+Time:3978,g_pluseCnt:   2,prec: 506
+Time:3979,g_pluseCnt:   2,prec: 506
+Time:3980,g_pluseCnt:   2,prec: 506
+Time:3981,g_pluseCnt:   2,prec: 506
+Time:3982,g_pluseCnt:   2,prec: 506
+Time:3983,g_pluseCnt:   2,prec: 506
+Time:3984,g_pluseCnt:   2,prec: 506
+Time:3985,g_pluseCnt:   2,prec: 506
+Time:3986,g_pluseCnt:   2,prec: 506
+Time:3987,g_pluseCnt:   2,prec: 506
+Time:3988,g_pluseCnt:   2,prec: 506
+Time:3989,g_pluseCnt:   2,prec: 506
+Time:3990,g_pluseCnt:   2,prec: 506
+Time:3991,g_pluseCnt:   2,prec: 506
+Time:3992,g_pluseCnt:   2,prec: 506
+Time:3993,g_pluseCnt:   2,prec: 506
+Time:3994,g_pluseCnt:   2,prec: 506
+Time:3995,g_pluseCnt:   2,prec: 506
+Time:3996,g_pluseCnt:   2,prec: 506
+Time:3997,g_pluseCnt:   2,prec: 506
+Time:3998,g_pluseCnt:   2,prec: 506
+Time:3999,g_pluseCnt:   2,prec: 506
+Time:4000,g_pluseCnt:   2,prec: 506
+Time:4001,g_pluseCnt:   2,prec: 506
+Time:4002,g_pluseCnt:   2,prec: 506
+Time:4003,g_pluseCnt:   2,prec: 506
+Time:4004,g_pluseCnt:   2,prec: 506
+Time:4005,g_pluseCnt:   2,prec: 506
+Time:4006,g_pluseCnt:   2,prec: 506
+Time:4007,g_pluseCnt:   2,prec: 506
+Time:4008,g_pluseCnt:   2,prec: 506
+Time:4009,g_pluseCnt:   2,prec: 506
+Time:4010,g_pluseCnt:   2,prec: 506
+Time:4011,g_pluseCnt:   2,prec: 506
+Time:4012,g_pluseCnt:   2,prec: 506
+Time:4013,g_pluseCnt:   2,prec: 506
+Time:4014,g_pluseCnt:   2,prec: 506
+Time:4015,g_pluseCnt:   2,prec: 506
+Time:4016,g_pluseCnt:   2,prec: 506
+Time:4017,g_pluseCnt:   2,prec: 506
+Time:4018,g_pluseCnt:   2,prec: 506
+Time:4019,g_pluseCnt:   2,prec: 506
+Time:4020,g_pluseCnt:   2,prec: 506
+Time:4021,g_pluseCnt:   2,prec: 506
+Time:4022,g_pluseCnt:   2,prec: 506
+Time:4023,g_pluseCnt:   2,prec: 506
+Time:4024,g_pluseCnt:   2,prec: 506
+Time:4025,g_pluseCnt:   2,prec: 506
+Time:4026,g_pluseCnt:   2,prec: 506
+Time:4027,g_pluseCnt:   2,prec: 506
+Time:4028,g_pluseCnt:   2,prec: 506
+Time:4029,g_pluseCnt:   2,prec: 506
+Time:4030,g_pluseCnt:   2,prec: 506
+Time:4031,g_pluseCnt:   3,prec: 506
+Time:4032,g_pluseCnt:   3,prec: 506
+Time:4033,g_pluseCnt:   3,prec: 506
+Time:4034,g_pluseCnt:   3,prec: 506
+Time:4035,g_pluseCnt:   3,prec: 506
+Time:4036,g_pluseCnt:   3,prec: 506
+Time:4037,g_pluseCnt:   3,prec: 506
+Time:4038,g_pluseCnt:   3,prec: 506
+Time:4039,g_pluseCnt:   3,prec: 506
+Time:4040,g_pluseCnt:   3,prec: 506
+Time:4041,g_pluseCnt:   3,prec: 506
+Time:4042,g_pluseCnt:   3,prec: 506
+Time:4043,g_pluseCnt:   3,prec: 506
+Time:4044,g_pluseCnt:   3,prec: 506
+Time:4045,g_pluseCnt:   3,prec: 506
+Time:4046,g_pluseCnt:   3,prec: 506
+Time:4047,g_pluseCnt:   3,prec: 506
+Time:4048,g_pluseCnt:   3,prec: 506
+Time:4049,g_pluseCnt:   3,prec: 506
+Time:4050,g_pluseCnt:   3,prec: 506
+Time:4051,g_pluseCnt:   3,prec: 506
+Time:4052,g_pluseCnt:   3,prec: 506
+Time:4053,g_pluseCnt:   3,prec: 506
+Time:4054,g_pluseCnt:   3,prec: 506
+Time:4055,g_pluseCnt:   3,prec: 506
+Time:4056,g_pluseCnt:   3,prec: 506
+Time:4057,g_pluseCnt:   3,prec: 506
+Time:4058,g_pluseCnt:   3,prec: 506
+Time:4059,g_pluseCnt:   3,prec: 655
+Time:4060,g_pluseCnt:   3,prec: 655
+Time:4061,g_pluseCnt:   3,prec: 655
+Time:4062,g_pluseCnt:   3,prec: 655
+Time:4063,g_pluseCnt:   3,prec: 655
+Time:4064,g_pluseCnt:   3,prec: 655
+Time:4065,g_pluseCnt:   3,prec: 655
+Time:4066,g_pluseCnt:   3,prec: 655
+Time:4067,g_pluseCnt:   3,prec: 655
+Time:4068,g_pluseCnt:   3,prec: 655
+Time:4069,g_pluseCnt:   3,prec: 655
+Time:4070,g_pluseCnt:   3,prec: 655
+Time:4071,g_pluseCnt:   3,prec: 655
+Time:4072,g_pluseCnt:   3,prec: 655
+Time:4073,g_pluseCnt:   3,prec: 655
+Time:4074,g_pluseCnt:   3,prec: 655
+Time:4075,g_pluseCnt:   3,prec: 655
+Time:4076,g_pluseCnt:   3,prec: 655
+Time:4077,g_pluseCnt:   3,prec: 655
+Time:4078,g_pluseCnt:   3,prec: 655
+Time:4079,g_pluseCnt:   3,prec: 655
+Time:4080,g_pluseCnt:   3,prec: 655
+Time:4081,g_pluseCnt:   3,prec: 655
+Time:4082,g_pluseCnt:   3,prec: 655
+Time:4083,g_pluseCnt:   3,prec: 655
+Time:4084,g_pluseCnt:   3,prec: 655
+Time:4085,g_pluseCnt:   3,prec: 655
+Time:4086,g_pluseCnt:   3,prec: 655
+Time:4087,g_pluseCnt:   3,prec: 655
+Time:4088,g_pluseCnt:   3,prec: 655
+Time:4089,g_pluseCnt:   3,prec: 655
+Time:4090,g_pluseCnt:   3,prec: 655
+Time:4091,g_pluseCnt:   3,prec: 655
+Time:4092,g_pluseCnt:   3,prec: 655
+Time:4093,g_pluseCnt:   3,prec: 655
+Time:4094,g_pluseCnt:   3,prec: 655
+Time:4095,g_pluseCnt:   3,prec: 655
+Time:4096,g_pluseCnt:   3,prec: 655
+Time:4097,g_pluseCnt:   3,prec: 655
+Time:4098,g_pluseCnt:   3,prec: 655
+Time:4099,g_pluseCnt:   3,prec: 655
+Time:4100,g_pluseCnt:   3,prec: 655
+Time:4101,g_pluseCnt:   0,prec: 655
+Time:4102,g_pluseCnt:   0,prec: 655
+Time:4103,g_pluseCnt:   0,prec: 655
+Time:4104,g_pluseCnt:   0,prec: 655
+Time:4105,g_pluseCnt:   0,prec: 655
+Time:4106,g_pluseCnt:   0,prec: 655
+Time:4107,g_pluseCnt:   0,prec: 655
+Time:4108,g_pluseCnt:   0,prec: 655
+Time:4109,g_pluseCnt:   0,prec: 655
+Time:4110,g_pluseCnt:   0,prec: 655
+Time:4111,g_pluseCnt:   0,prec: 655
+Time:4112,g_pluseCnt:   0,prec: 655
+Time:4113,g_pluseCnt:   0,prec: 655
+Time:4114,g_pluseCnt:   0,prec: 655
+Time:4115,g_pluseCnt:   0,prec: 655
+Time:4116,g_pluseCnt:   0,prec: 655
+Time:4117,g_pluseCnt:   0,prec: 655
+Time:4118,g_pluseCnt:   0,prec: 655
+Time:4119,g_pluseCnt:   0,prec: 655
+Time:4120,g_pluseCnt:   0,prec: 655
+Time:4121,g_pluseCnt:   0,prec: 655
+Time:4122,g_pluseCnt:   0,prec: 655
+Time:4123,g_pluseCnt:   0,prec: 655
+Time:4124,g_pluseCnt:   0,prec: 655
+Time:4125,g_pluseCnt:   0,prec: 655
+Time:4126,g_pluseCnt:   0,prec: 655
+Time:4127,g_pluseCnt:   0,prec: 655
+Time:4128,g_pluseCnt:   0,prec: 655
+Time:4129,g_pluseCnt:   0,prec: 655
+Time:4130,g_pluseCnt:   0,prec: 655
+Time:4131,g_pluseCnt:   0,prec: 655
+Time:4132,g_pluseCnt:   0,prec: 655
+Time:4133,g_pluseCnt:   0,prec: 655
+Time:4134,g_pluseCnt:   0,prec: 655
+Time:4135,g_pluseCnt:   0,prec: 655
+Time:4136,g_pluseCnt:   0,prec: 655
+Time:4137,g_pluseCnt:   0,prec: 655
+Time:4138,g_pluseCnt:   0,prec: 655
+Time:4139,g_pluseCnt:   0,prec: 655
+Time:4140,g_pluseCnt:   0,prec: 655
+Time:4141,g_pluseCnt:   0,prec: 655
+Time:4142,g_pluseCnt:   0,prec: 655
+Time:4143,g_pluseCnt:   0,prec: 655
+Time:4144,g_pluseCnt:   0,prec: 655
+Time:4145,g_pluseCnt:   0,prec: 655
+Time:4146,g_pluseCnt:   0,prec: 655
+Time:4147,g_pluseCnt:   0,prec: 655
+Time:4148,g_pluseCnt:   0,prec: 655
+Time:4149,g_pluseCnt:   0,prec: 655
+Time:4150,g_pluseCnt:   0,prec: 655
+Time:4151,g_pluseCnt:   0,prec: 655
+Time:4152,g_pluseCnt:   0,prec: 655
+Time:4153,g_pluseCnt:   0,prec: 655
+Time:4154,g_pluseCnt:   0,prec: 655
+Time:4155,g_pluseCnt:   0,prec: 655
+Time:4156,g_pluseCnt:   0,prec: 655
+Time:4157,g_pluseCnt:   0,prec: 655
+Time:4158,g_pluseCnt:   0,prec: 655
+Time:4159,g_pluseCnt:   0,prec: 655
+Time:4160,g_pluseCnt:   0,prec: 334
+Time:4161,g_pluseCnt:   0,prec: 334
+Time:4162,g_pluseCnt:   0,prec: 334
+Time:4163,g_pluseCnt:   0,prec: 334
+Time:4164,g_pluseCnt:   0,prec: 334
+Time:4165,g_pluseCnt:   0,prec: 334
+Time:4166,g_pluseCnt:   0,prec: 334
+Time:4167,g_pluseCnt:   1,prec: 334
+Time:4168,g_pluseCnt:   1,prec: 334
+Time:4169,g_pluseCnt:   1,prec: 334
+Time:4170,g_pluseCnt:   1,prec: 334
+Time:4171,g_pluseCnt:   1,prec: 334
+Time:4172,g_pluseCnt:   1,prec: 334
+Time:4173,g_pluseCnt:   1,prec: 334
+Time:4174,g_pluseCnt:   1,prec: 334
+Time:4175,g_pluseCnt:   1,prec: 334
+Time:4176,g_pluseCnt:   1,prec: 334
+Time:4177,g_pluseCnt:   1,prec: 334
+Time:4178,g_pluseCnt:   1,prec: 334
+Time:4179,g_pluseCnt:   1,prec: 334
+Time:4180,g_pluseCnt:   1,prec: 334
+Time:4181,g_pluseCnt:   1,prec: 334
+Time:4182,g_pluseCnt:   1,prec: 334
+Time:4183,g_pluseCnt:   1,prec: 334
+Time:4184,g_pluseCnt:   1,prec: 334
+Time:4185,g_pluseCnt:   1,prec: 334
+Time:4186,g_pluseCnt:   1,prec: 334
+Time:4187,g_pluseCnt:   1,prec: 334
+Time:4188,g_pluseCnt:   1,prec: 334
+Time:4189,g_pluseCnt:   1,prec: 334
+Time:4190,g_pluseCnt:   1,prec: 334
+Time:4191,g_pluseCnt:   1,prec: 334
+Time:4192,g_pluseCnt:   1,prec: 334
+Time:4193,g_pluseCnt:   1,prec: 334
+Time:4194,g_pluseCnt:   1,prec: 334
+Time:4195,g_pluseCnt:   1,prec: 334
+Time:4196,g_pluseCnt:   1,prec: 334
+Time:4197,g_pluseCnt:   1,prec: 334
+Time:4198,g_pluseCnt:   1,prec: 334
+Time:4199,g_pluseCnt:   1,prec: 334
+Time:4200,g_pluseCnt:   1,prec: 334
+Time:4201,g_pluseCnt:   1,prec: 334
+Time:4202,g_pluseCnt:   1,prec: 334
+Time:4203,g_pluseCnt:   1,prec: 334
+Time:4204,g_pluseCnt:   1,prec: 334
+Time:4205,g_pluseCnt:   1,prec: 334
+Time:4206,g_pluseCnt:   1,prec: 334
+Time:4207,g_pluseCnt:   1,prec: 334
+Time:4208,g_pluseCnt:   1,prec: 334
+Time:4209,g_pluseCnt:   1,prec: 334
+Time:4210,g_pluseCnt:   1,prec: 334
+Time:4211,g_pluseCnt:   1,prec: 334
+Time:4212,g_pluseCnt:   1,prec: 334
+Time:4213,g_pluseCnt:   1,prec: 334
+Time:4214,g_pluseCnt:   1,prec: 334
+Time:4215,g_pluseCnt:   1,prec: 334
+Time:4216,g_pluseCnt:   1,prec: 334
+Time:4217,g_pluseCnt:   1,prec: 334
+Time:4218,g_pluseCnt:   1,prec: 334
+Time:4219,g_pluseCnt:   1,prec: 334
+Time:4220,g_pluseCnt:   1,prec: 334
+Time:4221,g_pluseCnt:   1,prec: 334
+Time:4222,g_pluseCnt:   1,prec: 334
+Time:4223,g_pluseCnt:   1,prec: 334
+Time:4224,g_pluseCnt:   1,prec: 334
+Time:4225,g_pluseCnt:   1,prec: 334
+Time:4226,g_pluseCnt:   1,prec: 334
+Time:4227,g_pluseCnt:   1,prec: 334
+Time:4228,g_pluseCnt:   1,prec: 334
+Time:4229,g_pluseCnt:   1,prec: 334
+Time:4230,g_pluseCnt:   1,prec: 334
+Time:4231,g_pluseCnt:   1,prec: 334
+Time:4232,g_pluseCnt:   1,prec: 334
+Time:4233,g_pluseCnt:   2,prec: 334
+Time:4234,g_pluseCnt:   2,prec: 334
+Time:4235,g_pluseCnt:   2,prec: 334
+Time:4236,g_pluseCnt:   2,prec: 334
+Time:4237,g_pluseCnt:   2,prec: 334
+Time:4238,g_pluseCnt:   2,prec: 334
+Time:4239,g_pluseCnt:   2,prec: 334
+Time:4240,g_pluseCnt:   2,prec: 334
+Time:4241,g_pluseCnt:   2,prec: 334
+Time:4242,g_pluseCnt:   2,prec: 334
+Time:4243,g_pluseCnt:   2,prec: 334
+Time:4244,g_pluseCnt:   2,prec: 334
+Time:4245,g_pluseCnt:   2,prec: 334
+Time:4246,g_pluseCnt:   2,prec: 334
+Time:4247,g_pluseCnt:   2,prec: 334
+Time:4248,g_pluseCnt:   2,prec: 334
+Time:4249,g_pluseCnt:   2,prec: 334
+Time:4250,g_pluseCnt:   2,prec: 334
+Time:4251,g_pluseCnt:   2,prec: 334
+Time:4252,g_pluseCnt:   2,prec: 334
+Time:4253,g_pluseCnt:   2,prec: 334
+Time:4254,g_pluseCnt:   2,prec: 334
+Time:4255,g_pluseCnt:   2,prec: 334
+Time:4256,g_pluseCnt:   2,prec: 334
+Time:4257,g_pluseCnt:   2,prec: 334
+Time:4258,g_pluseCnt:   2,prec: 334
+Time:4259,g_pluseCnt:   2,prec: 334
+Time:4260,g_pluseCnt:   2,prec: 334
+Time:4261,g_pluseCnt:   2,prec: 500
+Time:4262,g_pluseCnt:   2,prec: 500
+Time:4263,g_pluseCnt:   2,prec: 500
+Time:4264,g_pluseCnt:   2,prec: 500
+Time:4265,g_pluseCnt:   2,prec: 500
+Time:4266,g_pluseCnt:   2,prec: 500
+Time:4267,g_pluseCnt:   2,prec: 500
+Time:4268,g_pluseCnt:   2,prec: 500
+Time:4269,g_pluseCnt:   2,prec: 500
+Time:4270,g_pluseCnt:   2,prec: 500
+Time:4271,g_pluseCnt:   2,prec: 500
+Time:4272,g_pluseCnt:   2,prec: 500
+Time:4273,g_pluseCnt:   2,prec: 500
+Time:4274,g_pluseCnt:   2,prec: 500
+Time:4275,g_pluseCnt:   2,prec: 500
+Time:4276,g_pluseCnt:   2,prec: 500
+Time:4277,g_pluseCnt:   2,prec: 500
+Time:4278,g_pluseCnt:   2,prec: 500
+Time:4279,g_pluseCnt:   2,prec: 500
+Time:4280,g_pluseCnt:   2,prec: 500
+Time:4281,g_pluseCnt:   2,prec: 500
+Time:4282,g_pluseCnt:   2,prec: 500
+Time:4283,g_pluseCnt:   2,prec: 500
+Time:4284,g_pluseCnt:   2,prec: 500
+Time:4285,g_pluseCnt:   2,prec: 500
+Time:4286,g_pluseCnt:   2,prec: 500
+Time:4287,g_pluseCnt:   2,prec: 500
+Time:4288,g_pluseCnt:   2,prec: 500
+Time:4289,g_pluseCnt:   2,prec: 500
+Time:4290,g_pluseCnt:   2,prec: 500
+Time:4291,g_pluseCnt:   2,prec: 500
+Time:4292,g_pluseCnt:   2,prec: 500
+Time:4293,g_pluseCnt:   2,prec: 500
+Time:4294,g_pluseCnt:   2,prec: 500
+Time:4295,g_pluseCnt:   2,prec: 500
+Time:4296,g_pluseCnt:   2,prec: 500
+Time:4297,g_pluseCnt:   2,prec: 500
+Time:4298,g_pluseCnt:   2,prec: 500
+Time:4299,g_pluseCnt:   2,prec: 500
+Time:4300,g_pluseCnt:   2,prec: 500
+Time:4301,g_pluseCnt:   2,prec: 500
+Time:4302,g_pluseCnt:   2,prec: 500
+Time:4303,g_pluseCnt:   2,prec: 500
+Time:4304,g_pluseCnt:   2,prec: 500
+Time:4305,g_pluseCnt:   2,prec: 500
+Time:4306,g_pluseCnt:   2,prec: 500
+Time:4307,g_pluseCnt:   2,prec: 500
+Time:4308,g_pluseCnt:   2,prec: 500
+Time:4309,g_pluseCnt:   2,prec: 500
+Time:4310,g_pluseCnt:   2,prec: 500
+Time:4311,g_pluseCnt:   2,prec: 500
+Time:4312,g_pluseCnt:   2,prec: 500
+Time:4313,g_pluseCnt:   2,prec: 500
+Time:4314,g_pluseCnt:   2,prec: 500
+Time:4315,g_pluseCnt:   2,prec: 500
+Time:4316,g_pluseCnt:   2,prec: 500
+Time:4317,g_pluseCnt:   2,prec: 500
+Time:4318,g_pluseCnt:   2,prec: 500
+Time:4319,g_pluseCnt:   2,prec: 500
+Time:4320,g_pluseCnt:   2,prec: 500
+Time:4321,g_pluseCnt:   2,prec: 500
+Time:4322,g_pluseCnt:   2,prec: 500
+Time:4323,g_pluseCnt:   2,prec: 500
+Time:4324,g_pluseCnt:   2,prec: 500
+Time:4325,g_pluseCnt:   2,prec: 500
+Time:4326,g_pluseCnt:   2,prec: 500
+Time:4327,g_pluseCnt:   2,prec: 500
+Time:4328,g_pluseCnt:   2,prec: 500
+Time:4329,g_pluseCnt:   2,prec: 500
+Time:4330,g_pluseCnt:   2,prec: 500
+Time:4331,g_pluseCnt:   2,prec: 500
+Time:4332,g_pluseCnt:   2,prec: 500
+Time:4333,g_pluseCnt:   2,prec: 500
+Time:4334,g_pluseCnt:   2,prec: 500
+Time:4335,g_pluseCnt:   2,prec: 500
+Time:4336,g_pluseCnt:   2,prec: 500
+Time:4337,g_pluseCnt:   2,prec: 500
+Time:4338,g_pluseCnt:   2,prec: 500
+Time:4339,g_pluseCnt:   2,prec: 500
+Time:4340,g_pluseCnt:   2,prec: 500
+Time:4341,g_pluseCnt:   2,prec: 500
+Time:4342,g_pluseCnt:   2,prec: 500
+Time:4343,g_pluseCnt:   2,prec: 500
+Time:4344,g_pluseCnt:   2,prec: 500
+Time:4345,g_pluseCnt:   2,prec: 500
+Time:4346,g_pluseCnt:   2,prec: 500
+Time:4347,g_pluseCnt:   2,prec: 500
+Time:4348,g_pluseCnt:   2,prec: 500
+Time:4349,g_pluseCnt:   2,prec: 500
+Time:4350,g_pluseCnt:   2,prec: 500
+Time:4351,g_pluseCnt:   2,prec: 500
+Time:4352,g_pluseCnt:   2,prec: 500
+Time:4353,g_pluseCnt:   2,prec: 500
+Time:4354,g_pluseCnt:   2,prec: 500
+Time:4355,g_pluseCnt:   2,prec: 500
+Time:4356,g_pluseCnt:   2,prec: 500
+Time:4357,g_pluseCnt:   2,prec: 500
+Time:4358,g_pluseCnt:   2,prec: 500
+Time:4359,g_pluseCnt:   2,prec: 500
+Time:4360,g_pluseCnt:   2,prec: 500
+Time:4361,g_pluseCnt:   2,prec: 500
+Time:4362,g_pluseCnt:   2,prec: 327
+Time:4363,g_pluseCnt:   2,prec: 327
+Time:4364,g_pluseCnt:   2,prec: 327
+Time:4365,g_pluseCnt:   2,prec: 327
+Time:4366,g_pluseCnt:   2,prec: 327
+Time:4367,g_pluseCnt:   2,prec: 327
+Time:4368,g_pluseCnt:   2,prec: 327
+Time:4369,g_pluseCnt:   2,prec: 327
+Time:4370,g_pluseCnt:   2,prec: 327
+Time:4371,g_pluseCnt:   3,prec: 327
+Time:4372,g_pluseCnt:   3,prec: 327
+Time:4373,g_pluseCnt:   3,prec: 327
+Time:4374,g_pluseCnt:   3,prec: 327
+Time:4375,g_pluseCnt:   3,prec: 327
+Time:4376,g_pluseCnt:   3,prec: 327
+Time:4377,g_pluseCnt:   3,prec: 327
+Time:4378,g_pluseCnt:   3,prec: 327
+Time:4379,g_pluseCnt:   3,prec: 327
+Time:4380,g_pluseCnt:   3,prec: 327
+Time:4381,g_pluseCnt:   3,prec: 327
+Time:4382,g_pluseCnt:   3,prec: 327
+Time:4383,g_pluseCnt:   3,prec: 327
+Time:4384,g_pluseCnt:   3,prec: 327
+Time:4385,g_pluseCnt:   3,prec: 327
+Time:4386,g_pluseCnt:   3,prec: 327
+Time:4387,g_pluseCnt:   3,prec: 327
+Time:4388,g_pluseCnt:   3,prec: 327
+Time:4389,g_pluseCnt:   3,prec: 327
+Time:4390,g_pluseCnt:   3,prec: 327
+Time:4391,g_pluseCnt:   3,prec: 327
+Time:4392,g_pluseCnt:   3,prec: 327
+Time:4393,g_pluseCnt:   3,prec: 327
+Time:4394,g_pluseCnt:   3,prec: 327
+Time:4395,g_pluseCnt:   3,prec: 327
+Time:4396,g_pluseCnt:   3,prec: 327
+Time:4397,g_pluseCnt:   3,prec: 327
+Time:4398,g_pluseCnt:   3,prec: 327
+Time:4399,g_pluseCnt:   3,prec: 327
+Time:4400,g_pluseCnt:   3,prec: 327
+Time:4401,g_pluseCnt:   3,prec: 327
+Time:4402,g_pluseCnt:   3,prec: 327
+Time:4403,g_pluseCnt:   3,prec: 327
+Time:4404,g_pluseCnt:   3,prec: 327
+Time:4405,g_pluseCnt:   3,prec: 327
+Time:4406,g_pluseCnt:   3,prec: 327
+Time:4407,g_pluseCnt:   3,prec: 327
+Time:4408,g_pluseCnt:   3,prec: 327
+Time:4409,g_pluseCnt:   3,prec: 327
+Time:4410,g_pluseCnt:   3,prec: 327
+Time:4411,g_pluseCnt:   3,prec: 327
+Time:4412,g_pluseCnt:   3,prec: 327
+Time:4413,g_pluseCnt:   3,prec: 327
+Time:4414,g_pluseCnt:   3,prec: 327
+Time:4415,g_pluseCnt:   3,prec: 327
+Time:4416,g_pluseCnt:   3,prec: 327
+Time:4417,g_pluseCnt:   3,prec: 327
+Time:4418,g_pluseCnt:   3,prec: 327
+Time:4419,g_pluseCnt:   3,prec: 327
+Time:4420,g_pluseCnt:   3,prec: 327
+Time:4421,g_pluseCnt:   3,prec: 327
+Time:4422,g_pluseCnt:   3,prec: 327
+Time:4423,g_pluseCnt:   3,prec: 327
+Time:4424,g_pluseCnt:   3,prec: 327
+Time:4425,g_pluseCnt:   3,prec: 327
+Time:4426,g_pluseCnt:   3,prec: 327
+Time:4427,g_pluseCnt:   3,prec: 327
+Time:4428,g_pluseCnt:   3,prec: 327
+Time:4429,g_pluseCnt:   3,prec: 327
+Time:4430,g_pluseCnt:   3,prec: 327
+Time:4431,g_pluseCnt:   3,prec: 327
+Time:4432,g_pluseCnt:   3,prec: 327
+Time:4433,g_pluseCnt:   3,prec: 327
+Time:4434,g_pluseCnt:   3,prec: 327
+Time:4435,g_pluseCnt:   3,prec: 327
+Time:4436,g_pluseCnt:   3,prec: 327
+Time:4437,g_pluseCnt:   3,prec: 327
+Time:4438,g_pluseCnt:   3,prec: 327
+Time:4439,g_pluseCnt:   3,prec: 327
+Time:4440,g_pluseCnt:   3,prec: 327
+Time:4441,g_pluseCnt:   3,prec: 327
+Time:4442,g_pluseCnt:   0,prec: 327
+Time:4443,g_pluseCnt:   0,prec: 327
+Time:4444,g_pluseCnt:   0,prec: 327
+Time:4445,g_pluseCnt:   0,prec: 327
+Time:4446,g_pluseCnt:   0,prec: 327
+Time:4447,g_pluseCnt:   0,prec: 327
+Time:4448,g_pluseCnt:   0,prec: 327
+Time:4449,g_pluseCnt:   0,prec: 327
+Time:4450,g_pluseCnt:   0,prec: 327
+Time:4451,g_pluseCnt:   0,prec: 327
+Time:4452,g_pluseCnt:   0,prec: 327
+Time:4453,g_pluseCnt:   0,prec: 327
+Time:4454,g_pluseCnt:   0,prec: 327
+Time:4455,g_pluseCnt:   0,prec: 327
+Time:4456,g_pluseCnt:   0,prec: 327
+Time:4457,g_pluseCnt:   0,prec: 327
+Time:4458,g_pluseCnt:   0,prec: 327
+Time:4459,g_pluseCnt:   0,prec: 327
+Time:4460,g_pluseCnt:   0,prec: 327
+Time:4461,g_pluseCnt:   0,prec: 327
+Time:4462,g_pluseCnt:   0,prec: 327
+Time:4463,g_pluseCnt:   0,prec: 338
+Time:4464,g_pluseCnt:   0,prec: 338
+Time:4465,g_pluseCnt:   0,prec: 338
+Time:4466,g_pluseCnt:   0,prec: 338
+Time:4467,g_pluseCnt:   0,prec: 338
+Time:4468,g_pluseCnt:   0,prec: 338
+Time:4469,g_pluseCnt:   0,prec: 338
+Time:4470,g_pluseCnt:   0,prec: 338
+Time:4471,g_pluseCnt:   0,prec: 338
+Time:4472,g_pluseCnt:   0,prec: 338
+Time:4473,g_pluseCnt:   0,prec: 338
+Time:4474,g_pluseCnt:   0,prec: 338
+Time:4475,g_pluseCnt:   0,prec: 338
+Time:4476,g_pluseCnt:   0,prec: 338
+Time:4477,g_pluseCnt:   0,prec: 338
+Time:4478,g_pluseCnt:   0,prec: 338
+Time:4479,g_pluseCnt:   0,prec: 338
+Time:4480,g_pluseCnt:   0,prec: 338
+Time:4481,g_pluseCnt:   0,prec: 338
+Time:4482,g_pluseCnt:   0,prec: 338
+Time:4483,g_pluseCnt:   0,prec: 338
+Time:4484,g_pluseCnt:   0,prec: 338
+Time:4485,g_pluseCnt:   0,prec: 338
+Time:4486,g_pluseCnt:   0,prec: 338
+Time:4487,g_pluseCnt:   0,prec: 338
+Time:4488,g_pluseCnt:   0,prec: 338
+Time:4489,g_pluseCnt:   0,prec: 338
+Time:4490,g_pluseCnt:   0,prec: 338
+Time:4491,g_pluseCnt:   0,prec: 338
+Time:4492,g_pluseCnt:   0,prec: 338
+Time:4493,g_pluseCnt:   0,prec: 338
+Time:4494,g_pluseCnt:   0,prec: 338
+Time:4495,g_pluseCnt:   0,prec: 338
+Time:4496,g_pluseCnt:   0,prec: 338
+Time:4497,g_pluseCnt:   0,prec: 338
+Time:4498,g_pluseCnt:   0,prec: 338
+Time:4499,g_pluseCnt:   0,prec: 338
+Time:4500,g_pluseCnt:   0,prec: 338
+Time:4501,g_pluseCnt:   0,prec: 338
+Time:4502,g_pluseCnt:   0,prec: 338
+Time:4503,g_pluseCnt:   0,prec: 338
+Time:4504,g_pluseCnt:   0,prec: 338
+Time:4505,g_pluseCnt:   0,prec: 338
+Time:4506,g_pluseCnt:   0,prec: 338
+Time:4507,g_pluseCnt:   0,prec: 338
+Time:4508,g_pluseCnt:   0,prec: 338
+Time:4509,g_pluseCnt:   0,prec: 338
+Time:4510,g_pluseCnt:   0,prec: 338
+Time:4511,g_pluseCnt:   0,prec: 338
+Time:4512,g_pluseCnt:   0,prec: 338
+Time:4513,g_pluseCnt:   0,prec: 338
+Time:4514,g_pluseCnt:   1,prec: 338
+Time:4515,g_pluseCnt:   1,prec: 338
+Time:4516,g_pluseCnt:   1,prec: 338
+Time:4517,g_pluseCnt:   1,prec: 338
+Time:4518,g_pluseCnt:   1,prec: 338
+Time:4519,g_pluseCnt:   1,prec: 338
+Time:4520,g_pluseCnt:   1,prec: 338
+Time:4521,g_pluseCnt:   1,prec: 338
+Time:4522,g_pluseCnt:   1,prec: 338
+Time:4523,g_pluseCnt:   1,prec: 338
+Time:4524,g_pluseCnt:   1,prec: 338
+Time:4525,g_pluseCnt:   1,prec: 338
+Time:4526,g_pluseCnt:   1,prec: 338
+Time:4527,g_pluseCnt:   1,prec: 338
+Time:4528,g_pluseCnt:   1,prec: 338
+Time:4529,g_pluseCnt:   1,prec: 338
+Time:4530,g_pluseCnt:   1,prec: 338
+Time:4531,g_pluseCnt:   1,prec: 338
+Time:4532,g_pluseCnt:   1,prec: 338
+Time:4533,g_pluseCnt:   1,prec: 338
+Time:4534,g_pluseCnt:   1,prec: 338
+Time:4535,g_pluseCnt:   1,prec: 338
+Time:4536,g_pluseCnt:   1,prec: 338
+Time:4537,g_pluseCnt:   1,prec: 338
+Time:4538,g_pluseCnt:   1,prec: 338
+Time:4539,g_pluseCnt:   1,prec: 338
+Time:4540,g_pluseCnt:   1,prec: 338
+Time:4541,g_pluseCnt:   1,prec: 338
+Time:4542,g_pluseCnt:   1,prec: 338
+Time:4543,g_pluseCnt:   1,prec: 338
+Time:4544,g_pluseCnt:   1,prec: 338
+Time:4545,g_pluseCnt:   1,prec: 338
+Time:4546,g_pluseCnt:   1,prec: 338
+Time:4547,g_pluseCnt:   1,prec: 338
+Time:4548,g_pluseCnt:   1,prec: 338
+Time:4549,g_pluseCnt:   1,prec: 338
+Time:4550,g_pluseCnt:   1,prec: 338
+Time:4551,g_pluseCnt:   1,prec: 338
+Time:4552,g_pluseCnt:   1,prec: 338
+Time:4553,g_pluseCnt:   1,prec: 338
+Time:4554,g_pluseCnt:   1,prec: 338
+Time:4555,g_pluseCnt:   1,prec: 338
+Time:4556,g_pluseCnt:   1,prec: 338
+Time:4557,g_pluseCnt:   1,prec: 338
+Time:4558,g_pluseCnt:   1,prec: 338
+Time:4559,g_pluseCnt:   1,prec: 338
+Time:4560,g_pluseCnt:   1,prec: 338
+Time:4561,g_pluseCnt:   1,prec: 338
+Time:4562,g_pluseCnt:   1,prec: 338
+Time:4563,g_pluseCnt:   1,prec: 338
+Time:4564,g_pluseCnt:   1,prec: 270
+Time:4565,g_pluseCnt:   1,prec: 270
+Time:4566,g_pluseCnt:   1,prec: 270
+Time:4567,g_pluseCnt:   1,prec: 270
+Time:4568,g_pluseCnt:   1,prec: 270
+Time:4569,g_pluseCnt:   1,prec: 270
+Time:4570,g_pluseCnt:   1,prec: 270
+Time:4571,g_pluseCnt:   1,prec: 270
+Time:4572,g_pluseCnt:   1,prec: 270
+Time:4573,g_pluseCnt:   1,prec: 270
+Time:4574,g_pluseCnt:   1,prec: 270
+Time:4575,g_pluseCnt:   1,prec: 270
+Time:4576,g_pluseCnt:   1,prec: 270
+Time:4577,g_pluseCnt:   1,prec: 270
+Time:4578,g_pluseCnt:   1,prec: 270
+Time:4579,g_pluseCnt:   1,prec: 270
+Time:4580,g_pluseCnt:   1,prec: 270
+Time:4581,g_pluseCnt:   1,prec: 270
+Time:4582,g_pluseCnt:   1,prec: 270
+Time:4583,g_pluseCnt:   1,prec: 270
+Time:4584,g_pluseCnt:   1,prec: 270
+Time:4585,g_pluseCnt:   2,prec: 270
+Time:4586,g_pluseCnt:   2,prec: 270
+Time:4587,g_pluseCnt:   2,prec: 270
+Time:4588,g_pluseCnt:   2,prec: 270
+Time:4589,g_pluseCnt:   2,prec: 270
+Time:4590,g_pluseCnt:   2,prec: 270
+Time:4591,g_pluseCnt:   2,prec: 270
+Time:4592,g_pluseCnt:   2,prec: 270
+Time:4593,g_pluseCnt:   2,prec: 270
+Time:4594,g_pluseCnt:   2,prec: 270
+Time:4595,g_pluseCnt:   2,prec: 270
+Time:4596,g_pluseCnt:   2,prec: 270
+Time:4597,g_pluseCnt:   2,prec: 270
+Time:4598,g_pluseCnt:   2,prec: 270
+Time:4599,g_pluseCnt:   2,prec: 270
+Time:4600,g_pluseCnt:   2,prec: 270
+Time:4601,g_pluseCnt:   2,prec: 270
+Time:4602,g_pluseCnt:   2,prec: 270
+Time:4603,g_pluseCnt:   2,prec: 270
+Time:4604,g_pluseCnt:   2,prec: 270
+Time:4605,g_pluseCnt:   2,prec: 270
+Time:4606,g_pluseCnt:   2,prec: 270
+Time:4607,g_pluseCnt:   2,prec: 270
+Time:4608,g_pluseCnt:   2,prec: 270
+Time:4609,g_pluseCnt:   2,prec: 270
+Time:4610,g_pluseCnt:   2,prec: 270
+Time:4611,g_pluseCnt:   2,prec: 270
+Time:4612,g_pluseCnt:   2,prec: 270
+Time:4613,g_pluseCnt:   2,prec: 270
+Time:4614,g_pluseCnt:   2,prec: 270
+Time:4615,g_pluseCnt:   2,prec: 270
+Time:4616,g_pluseCnt:   2,prec: 270
+Time:4617,g_pluseCnt:   2,prec: 270
+Time:4618,g_pluseCnt:   2,prec: 270
+Time:4619,g_pluseCnt:   2,prec: 270
+Time:4620,g_pluseCnt:   2,prec: 270
+Time:4621,g_pluseCnt:   2,prec: 270
+Time:4622,g_pluseCnt:   2,prec: 270
+Time:4623,g_pluseCnt:   2,prec: 270
+Time:4624,g_pluseCnt:   2,prec: 270
+Time:4625,g_pluseCnt:   2,prec: 270
+Time:4626,g_pluseCnt:   2,prec: 270
+Time:4627,g_pluseCnt:   2,prec: 270
+Time:4628,g_pluseCnt:   2,prec: 270
+Time:4629,g_pluseCnt:   2,prec: 270
+Time:4630,g_pluseCnt:   2,prec: 270
+Time:4631,g_pluseCnt:   2,prec: 270
+Time:4632,g_pluseCnt:   2,prec: 270
+Time:4633,g_pluseCnt:   2,prec: 270
+Time:4634,g_pluseCnt:   2,prec: 270
+Time:4635,g_pluseCnt:   2,prec: 270
+Time:4636,g_pluseCnt:   2,prec: 270
+Time:4637,g_pluseCnt:   2,prec: 270
+Time:4638,g_pluseCnt:   2,prec: 270
+Time:4639,g_pluseCnt:   2,prec: 270
+Time:4640,g_pluseCnt:   2,prec: 270
+Time:4641,g_pluseCnt:   2,prec: 270
+Time:4642,g_pluseCnt:   2,prec: 270
+Time:4643,g_pluseCnt:   2,prec: 270
+Time:4644,g_pluseCnt:   2,prec: 270
+Time:4645,g_pluseCnt:   2,prec: 270
+Time:4646,g_pluseCnt:   2,prec: 270
+Time:4647,g_pluseCnt:   2,prec: 270
+Time:4648,g_pluseCnt:   2,prec: 270
+Time:4649,g_pluseCnt:   2,prec: 270
+Time:4650,g_pluseCnt:   2,prec: 270
+Time:4651,g_pluseCnt:   2,prec: 270
+Time:4652,g_pluseCnt:   2,prec: 270
+Time:4653,g_pluseCnt:   2,prec: 270
+Time:4654,g_pluseCnt:   3,prec: 270
+Time:4655,g_pluseCnt:   3,prec: 270
+Time:4656,g_pluseCnt:   3,prec: 270
+Time:4657,g_pluseCnt:   3,prec: 270
+Time:4658,g_pluseCnt:   3,prec: 270
+Time:4659,g_pluseCnt:   3,prec: 270
+Time:4660,g_pluseCnt:   3,prec: 270
+Time:4661,g_pluseCnt:   3,prec: 270
+Time:4662,g_pluseCnt:   3,prec: 270
+Time:4663,g_pluseCnt:   3,prec: 270
+Time:4664,g_pluseCnt:   3,prec: 270
+Time:4665,g_pluseCnt:   3,prec: 238
+Time:4666,g_pluseCnt:   3,prec: 238
+Time:4667,g_pluseCnt:   3,prec: 238
+Time:4668,g_pluseCnt:   3,prec: 238
+Time:4669,g_pluseCnt:   3,prec: 238
+Time:4670,g_pluseCnt:   3,prec: 238
+Time:4671,g_pluseCnt:   3,prec: 238
+Time:4672,g_pluseCnt:   3,prec: 238
+Time:4673,g_pluseCnt:   3,prec: 238
+Time:4674,g_pluseCnt:   3,prec: 238
+Time:4675,g_pluseCnt:   3,prec: 238
+Time:4676,g_pluseCnt:   3,prec: 238
+Time:4677,g_pluseCnt:   3,prec: 238
+Time:4678,g_pluseCnt:   3,prec: 238
+Time:4679,g_pluseCnt:   3,prec: 238
+Time:4680,g_pluseCnt:   3,prec: 238
+Time:4681,g_pluseCnt:   3,prec: 238
+Time:4682,g_pluseCnt:   3,prec: 238
+Time:4683,g_pluseCnt:   3,prec: 238
+Time:4684,g_pluseCnt:   3,prec: 238
+Time:4685,g_pluseCnt:   3,prec: 238
+Time:4686,g_pluseCnt:   3,prec: 238
+Time:4687,g_pluseCnt:   3,prec: 238
+Time:4688,g_pluseCnt:   3,prec: 238
+Time:4689,g_pluseCnt:   3,prec: 238
+Time:4690,g_pluseCnt:   3,prec: 238
+Time:4691,g_pluseCnt:   3,prec: 238
+Time:4692,g_pluseCnt:   3,prec: 238
+Time:4693,g_pluseCnt:   3,prec: 238
+Time:4694,g_pluseCnt:   3,prec: 238
+Time:4695,g_pluseCnt:   3,prec: 238
+Time:4696,g_pluseCnt:   3,prec: 238
+Time:4697,g_pluseCnt:   3,prec: 238
+Time:4698,g_pluseCnt:   3,prec: 238
+Time:4699,g_pluseCnt:   3,prec: 238
+Time:4700,g_pluseCnt:   3,prec: 238
+Time:4701,g_pluseCnt:   3,prec: 238
+Time:4702,g_pluseCnt:   3,prec: 238
+Time:4703,g_pluseCnt:   3,prec: 238
+Time:4704,g_pluseCnt:   3,prec: 238
+Time:4705,g_pluseCnt:   3,prec: 238
+Time:4706,g_pluseCnt:   3,prec: 238
+Time:4707,g_pluseCnt:   3,prec: 238
+Time:4708,g_pluseCnt:   3,prec: 238
+Time:4709,g_pluseCnt:   3,prec: 238
+Time:4710,g_pluseCnt:   3,prec: 238
+Time:4711,g_pluseCnt:   3,prec: 238
+Time:4712,g_pluseCnt:   3,prec: 238
+Time:4713,g_pluseCnt:   3,prec: 238
+Time:4714,g_pluseCnt:   3,prec: 238
+Time:4715,g_pluseCnt:   3,prec: 238
+Time:4716,g_pluseCnt:   3,prec: 238
+Time:4717,g_pluseCnt:   3,prec: 238
+Time:4718,g_pluseCnt:   3,prec: 238
+Time:4719,g_pluseCnt:   3,prec: 238
+Time:4720,g_pluseCnt:   3,prec: 238
+Time:4721,g_pluseCnt:   3,prec: 238
+Time:4722,g_pluseCnt:   3,prec: 238
+Time:4723,g_pluseCnt:   0,prec: 238
+Time:4724,g_pluseCnt:   0,prec: 238
+Time:4725,g_pluseCnt:   0,prec: 238
+Time:4726,g_pluseCnt:   0,prec: 238
+Time:4727,g_pluseCnt:   0,prec: 238
+Time:4728,g_pluseCnt:   0,prec: 238
+Time:4729,g_pluseCnt:   0,prec: 238
+Time:4730,g_pluseCnt:   0,prec: 238
+Time:4731,g_pluseCnt:   0,prec: 238
+Time:4732,g_pluseCnt:   0,prec: 238
+Time:4733,g_pluseCnt:   0,prec: 238
+Time:4734,g_pluseCnt:   0,prec: 238
+Time:4735,g_pluseCnt:   0,prec: 238
+Time:4736,g_pluseCnt:   0,prec: 238
+Time:4737,g_pluseCnt:   0,prec: 238
+Time:4738,g_pluseCnt:   0,prec: 238
+Time:4739,g_pluseCnt:   0,prec: 238
+Time:4740,g_pluseCnt:   0,prec: 238
+Time:4741,g_pluseCnt:   0,prec: 238
+Time:4742,g_pluseCnt:   0,prec: 238
+Time:4743,g_pluseCnt:   0,prec: 238
+Time:4744,g_pluseCnt:   0,prec: 238
+Time:4745,g_pluseCnt:   0,prec: 238
+Time:4746,g_pluseCnt:   0,prec: 238
+Time:4747,g_pluseCnt:   0,prec: 238
+Time:4748,g_pluseCnt:   0,prec: 238
+Time:4749,g_pluseCnt:   0,prec: 238
+Time:4750,g_pluseCnt:   0,prec: 238
+Time:4751,g_pluseCnt:   0,prec: 238
+Time:4752,g_pluseCnt:   0,prec: 238
+Time:4753,g_pluseCnt:   0,prec: 238
+Time:4754,g_pluseCnt:   0,prec: 238
+Time:4755,g_pluseCnt:   0,prec: 238
+Time:4756,g_pluseCnt:   0,prec: 238
+Time:4757,g_pluseCnt:   0,prec: 238
+Time:4758,g_pluseCnt:   0,prec: 238
+Time:4759,g_pluseCnt:   0,prec: 238
+Time:4760,g_pluseCnt:   0,prec: 238
+Time:4761,g_pluseCnt:   0,prec: 238
+Time:4762,g_pluseCnt:   0,prec: 238
+Time:4763,g_pluseCnt:   0,prec: 238
+Time:4764,g_pluseCnt:   0,prec: 238
+Time:4765,g_pluseCnt:   0,prec: 238
+Time:4766,g_pluseCnt:   0,prec: 206
+Time:4767,g_pluseCnt:   0,prec: 206
+Time:4768,g_pluseCnt:   0,prec: 206
+Time:4769,g_pluseCnt:   0,prec: 206
+Time:4770,g_pluseCnt:   0,prec: 206
+Time:4771,g_pluseCnt:   0,prec: 206
+Time:4772,g_pluseCnt:   0,prec: 206
+Time:4773,g_pluseCnt:   0,prec: 206
+Time:4774,g_pluseCnt:   0,prec: 206
+Time:4775,g_pluseCnt:   0,prec: 206
+Time:4776,g_pluseCnt:   0,prec: 206
+Time:4777,g_pluseCnt:   0,prec: 206
+Time:4778,g_pluseCnt:   0,prec: 206
+Time:4779,g_pluseCnt:   0,prec: 206
+Time:4780,g_pluseCnt:   0,prec: 206
+Time:4781,g_pluseCnt:   0,prec: 206
+Time:4782,g_pluseCnt:   0,prec: 206
+Time:4783,g_pluseCnt:   0,prec: 206
+Time:4784,g_pluseCnt:   0,prec: 206
+Time:4785,g_pluseCnt:   0,prec: 206
+Time:4786,g_pluseCnt:   0,prec: 206
+Time:4787,g_pluseCnt:   0,prec: 206
+Time:4788,g_pluseCnt:   0,prec: 206
+Time:4789,g_pluseCnt:   0,prec: 206
+Time:4790,g_pluseCnt:   0,prec: 206
+Time:4791,g_pluseCnt:   0,prec: 206
+Time:4792,g_pluseCnt:   0,prec: 206
+Time:4793,g_pluseCnt:   0,prec: 206
+Time:4794,g_pluseCnt:   1,prec: 206
+Time:4795,g_pluseCnt:   1,prec: 206
+Time:4796,g_pluseCnt:   1,prec: 206
+Time:4797,g_pluseCnt:   1,prec: 206
+Time:4798,g_pluseCnt:   1,prec: 206
+Time:4799,g_pluseCnt:   1,prec: 206
+Time:4800,g_pluseCnt:   1,prec: 206
+Time:4801,g_pluseCnt:   1,prec: 206
+Time:4802,g_pluseCnt:   1,prec: 206
+Time:4803,g_pluseCnt:   1,prec: 206
+Time:4804,g_pluseCnt:   1,prec: 206
+Time:4805,g_pluseCnt:   1,prec: 206
+Time:4806,g_pluseCnt:   1,prec: 206
+Time:4807,g_pluseCnt:   1,prec: 206
+Time:4808,g_pluseCnt:   1,prec: 206
+Time:4809,g_pluseCnt:   1,prec: 206
+Time:4810,g_pluseCnt:   1,prec: 206
+Time:4811,g_pluseCnt:   1,prec: 206
+Time:4812,g_pluseCnt:   1,prec: 206
+Time:4813,g_pluseCnt:   1,prec: 206
+Time:4814,g_pluseCnt:   1,prec: 206
+Time:4815,g_pluseCnt:   1,prec: 206
+Time:4816,g_pluseCnt:   1,prec: 206
+Time:4817,g_pluseCnt:   1,prec: 206
+Time:4818,g_pluseCnt:   1,prec: 206
+Time:4819,g_pluseCnt:   1,prec: 206
+Time:4820,g_pluseCnt:   1,prec: 206
+Time:4821,g_pluseCnt:   1,prec: 206
+Time:4822,g_pluseCnt:   1,prec: 206
+Time:4823,g_pluseCnt:   1,prec: 206
+Time:4824,g_pluseCnt:   1,prec: 206
+Time:4825,g_pluseCnt:   1,prec: 206
+Time:4826,g_pluseCnt:   1,prec: 206
+Time:4827,g_pluseCnt:   1,prec: 206
+Time:4828,g_pluseCnt:   1,prec: 206
+Time:4829,g_pluseCnt:   1,prec: 206
+Time:4830,g_pluseCnt:   1,prec: 206
+Time:4831,g_pluseCnt:   1,prec: 206
+Time:4832,g_pluseCnt:   1,prec: 206
+Time:4833,g_pluseCnt:   1,prec: 206
+Time:4834,g_pluseCnt:   1,prec: 206
+Time:4835,g_pluseCnt:   1,prec: 206
+Time:4836,g_pluseCnt:   1,prec: 206
+Time:4837,g_pluseCnt:   1,prec: 206
+Time:4838,g_pluseCnt:   1,prec: 206
+Time:4839,g_pluseCnt:   1,prec: 206
+Time:4840,g_pluseCnt:   1,prec: 206
+Time:4841,g_pluseCnt:   1,prec: 206
+Time:4842,g_pluseCnt:   1,prec: 206
+Time:4843,g_pluseCnt:   1,prec: 206
+Time:4844,g_pluseCnt:   1,prec: 206
+Time:4845,g_pluseCnt:   1,prec: 206
+Time:4846,g_pluseCnt:   1,prec: 206
+Time:4847,g_pluseCnt:   1,prec: 206
+Time:4848,g_pluseCnt:   1,prec: 206
+Time:4849,g_pluseCnt:   1,prec: 206
+Time:4850,g_pluseCnt:   1,prec: 206
+Time:4851,g_pluseCnt:   1,prec: 206
+Time:4852,g_pluseCnt:   1,prec: 206
+Time:4853,g_pluseCnt:   1,prec: 206
+Time:4854,g_pluseCnt:   1,prec: 206
+Time:4855,g_pluseCnt:   1,prec: 206
+Time:4856,g_pluseCnt:   1,prec: 206
+Time:4857,g_pluseCnt:   1,prec: 206
+Time:4858,g_pluseCnt:   1,prec: 206
+Time:4859,g_pluseCnt:   1,prec: 206
+Time:4860,g_pluseCnt:   1,prec: 206
+Time:4861,g_pluseCnt:   1,prec: 206
+Time:4862,g_pluseCnt:   1,prec: 206
+Time:4863,g_pluseCnt:   1,prec: 206
+Time:4864,g_pluseCnt:   2,prec: 206
+Time:4865,g_pluseCnt:   2,prec: 206
+Time:4866,g_pluseCnt:   2,prec: 206
+Time:4867,g_pluseCnt:   2,prec: 202
+Time:4868,g_pluseCnt:   2,prec: 202
+Time:4869,g_pluseCnt:   2,prec: 202
+Time:4870,g_pluseCnt:   2,prec: 202
+Time:4871,g_pluseCnt:   2,prec: 202
+Time:4872,g_pluseCnt:   2,prec: 202
+Time:4873,g_pluseCnt:   2,prec: 202
+Time:4874,g_pluseCnt:   2,prec: 202
+Time:4875,g_pluseCnt:   2,prec: 202
+Time:4876,g_pluseCnt:   2,prec: 202
+Time:4877,g_pluseCnt:   2,prec: 202
+Time:4878,g_pluseCnt:   2,prec: 202
+Time:4879,g_pluseCnt:   2,prec: 202
+Time:4880,g_pluseCnt:   2,prec: 202
+Time:4881,g_pluseCnt:   2,prec: 202
+Time:4882,g_pluseCnt:   2,prec: 202
+Time:4883,g_pluseCnt:   2,prec: 202
+Time:4884,g_pluseCnt:   2,prec: 202
+Time:4885,g_pluseCnt:   2,prec: 202
+Time:4886,g_pluseCnt:   2,prec: 202
+Time:4887,g_pluseCnt:   2,prec: 202
+Time:4888,g_pluseCnt:   2,prec: 202
+Time:4889,g_pluseCnt:   2,prec: 202
+Time:4890,g_pluseCnt:   2,prec: 202
+Time:4891,g_pluseCnt:   2,prec: 202
+Time:4892,g_pluseCnt:   2,prec: 202
+Time:4893,g_pluseCnt:   2,prec: 202
+Time:4894,g_pluseCnt:   2,prec: 202
+Time:4895,g_pluseCnt:   2,prec: 202
+Time:4896,g_pluseCnt:   2,prec: 202
+Time:4897,g_pluseCnt:   2,prec: 202
+Time:4898,g_pluseCnt:   2,prec: 202
+Time:4899,g_pluseCnt:   2,prec: 202
+Time:4900,g_pluseCnt:   2,prec: 202
+Time:4901,g_pluseCnt:   2,prec: 202
+Time:4902,g_pluseCnt:   2,prec: 202
+Time:4903,g_pluseCnt:   2,prec: 202
+Time:4904,g_pluseCnt:   2,prec: 202
+Time:4905,g_pluseCnt:   2,prec: 202
+Time:4906,g_pluseCnt:   2,prec: 202
+Time:4907,g_pluseCnt:   2,prec: 202
+Time:4908,g_pluseCnt:   2,prec: 202
+Time:4909,g_pluseCnt:   2,prec: 202
+Time:4910,g_pluseCnt:   2,prec: 202
+Time:4911,g_pluseCnt:   2,prec: 202
+Time:4912,g_pluseCnt:   2,prec: 202
+Time:4913,g_pluseCnt:   2,prec: 202
+Time:4914,g_pluseCnt:   2,prec: 202
+Time:4915,g_pluseCnt:   2,prec: 202
+Time:4916,g_pluseCnt:   2,prec: 202
+Time:4917,g_pluseCnt:   2,prec: 202
+Time:4918,g_pluseCnt:   2,prec: 202
+Time:4919,g_pluseCnt:   2,prec: 202
+Time:4920,g_pluseCnt:   2,prec: 202
+Time:4921,g_pluseCnt:   2,prec: 202
+Time:4922,g_pluseCnt:   2,prec: 202
+Time:4923,g_pluseCnt:   2,prec: 202
+Time:4924,g_pluseCnt:   2,prec: 202
+Time:4925,g_pluseCnt:   2,prec: 202
+Time:4926,g_pluseCnt:   2,prec: 202
+Time:4927,g_pluseCnt:   2,prec: 202
+Time:4928,g_pluseCnt:   2,prec: 202
+Time:4929,g_pluseCnt:   2,prec: 202
+Time:4930,g_pluseCnt:   2,prec: 202
+Time:4931,g_pluseCnt:   2,prec: 202
+Time:4932,g_pluseCnt:   2,prec: 202
+Time:4933,g_pluseCnt:   2,prec: 202
+Time:4934,g_pluseCnt:   2,prec: 202
+Time:4935,g_pluseCnt:   2,prec: 202
+Time:4936,g_pluseCnt:   2,prec: 202
+Time:4937,g_pluseCnt:   2,prec: 202
+Time:4938,g_pluseCnt:   2,prec: 202
+Time:4939,g_pluseCnt:   2,prec: 202
+Time:4940,g_pluseCnt:   2,prec: 202
+Time:4941,g_pluseCnt:   2,prec: 202
+Time:4942,g_pluseCnt:   2,prec: 202
+Time:4943,g_pluseCnt:   2,prec: 202
+Time:4944,g_pluseCnt:   2,prec: 202
+Time:4945,g_pluseCnt:   2,prec: 202
+Time:4946,g_pluseCnt:   2,prec: 202
+Time:4947,g_pluseCnt:   2,prec: 202
+Time:4948,g_pluseCnt:   2,prec: 202
+Time:4949,g_pluseCnt:   2,prec: 202
+Time:4950,g_pluseCnt:   2,prec: 202
+Time:4951,g_pluseCnt:   2,prec: 202
+Time:4952,g_pluseCnt:   2,prec: 202
+Time:4953,g_pluseCnt:   2,prec: 202
+Time:4954,g_pluseCnt:   2,prec: 202
+Time:4955,g_pluseCnt:   2,prec: 202
+Time:4956,g_pluseCnt:   2,prec: 202
+Time:4957,g_pluseCnt:   2,prec: 202
+Time:4958,g_pluseCnt:   2,prec: 202
+Time:4959,g_pluseCnt:   2,prec: 202
+Time:4960,g_pluseCnt:   2,prec: 202
+Time:4961,g_pluseCnt:   2,prec: 202
+Time:4962,g_pluseCnt:   2,prec: 202
+Time:4963,g_pluseCnt:   2,prec: 202
+Time:4964,g_pluseCnt:   2,prec: 202
+Time:4965,g_pluseCnt:   2,prec: 202
+Time:4966,g_pluseCnt:   2,prec: 202
+Time:4967,g_pluseCnt:   2,prec: 202
+Time:4968,g_pluseCnt:   2,prec: 186
+Time:4969,g_pluseCnt:   2,prec: 186
+Time:4970,g_pluseCnt:   2,prec: 186
+Time:4971,g_pluseCnt:   2,prec: 186
+Time:4972,g_pluseCnt:   2,prec: 186
+Time:4973,g_pluseCnt:   2,prec: 186
+Time:4974,g_pluseCnt:   2,prec: 186
+Time:4975,g_pluseCnt:   2,prec: 186
+Time:4976,g_pluseCnt:   2,prec: 186
+Time:4977,g_pluseCnt:   2,prec: 186
+Time:4978,g_pluseCnt:   2,prec: 186
+Time:4979,g_pluseCnt:   2,prec: 186
+Time:4980,g_pluseCnt:   2,prec: 186
+Time:4981,g_pluseCnt:   2,prec: 186
+Time:4982,g_pluseCnt:   2,prec: 186
+Time:4983,g_pluseCnt:   2,prec: 186
+Time:4984,g_pluseCnt:   2,prec: 186
+Time:4985,g_pluseCnt:   2,prec: 186
+Time:4986,g_pluseCnt:   2,prec: 186
+Time:4987,g_pluseCnt:   2,prec: 186
+Time:4988,g_pluseCnt:   2,prec: 186
+Time:4989,g_pluseCnt:   2,prec: 186
+Time:4990,g_pluseCnt:   2,prec: 186
+Time:4991,g_pluseCnt:   2,prec: 186
+Time:4992,g_pluseCnt:   2,prec: 186
+Time:4993,g_pluseCnt:   2,prec: 186
+Time:4994,g_pluseCnt:   2,prec: 186
+Time:4995,g_pluseCnt:   2,prec: 186
+Time:4996,g_pluseCnt:   2,prec: 186
+Time:4997,g_pluseCnt:   2,prec: 186
+Time:4998,g_pluseCnt:   2,prec: 186
+Time:4999,g_pluseCnt:   2,prec: 186
+Time:5000,g_pluseCnt:   2,prec: 186
+Time:5001,g_pluseCnt:   2,prec: 186
+Time:5002,g_pluseCnt:   2,prec: 186
+Time:5003,g_pluseCnt:   2,prec: 186
+Time:5004,g_pluseCnt:   2,prec: 186
+Time:5005,g_pluseCnt:   2,prec: 186
+Time:5006,g_pluseCnt:   2,prec: 186
+Time:5007,g_pluseCnt:   2,prec: 186
+Time:5008,g_pluseCnt:   2,prec: 186
+Time:5009,g_pluseCnt:   2,prec: 186
+Time:5010,g_pluseCnt:   2,prec: 186
+Time:5011,g_pluseCnt:   2,prec: 186
+Time:5012,g_pluseCnt:   2,prec: 186
+Time:5013,g_pluseCnt:   2,prec: 186
+Time:5014,g_pluseCnt:   2,prec: 186
+Time:5015,g_pluseCnt:   2,prec: 186
+Time:5016,g_pluseCnt:   2,prec: 186
+Time:5017,g_pluseCnt:   2,prec: 186
+Time:5018,g_pluseCnt:   2,prec: 186
+Time:5019,g_pluseCnt:   2,prec: 186
+Time:5020,g_pluseCnt:   2,prec: 186
+Time:5021,g_pluseCnt:   2,prec: 186
+Time:5022,g_pluseCnt:   2,prec: 186
+Time:5023,g_pluseCnt:   2,prec: 186
+Time:5024,g_pluseCnt:   2,prec: 186
+Time:5025,g_pluseCnt:   2,prec: 186
+Time:5026,g_pluseCnt:   2,prec: 186
+Time:5027,g_pluseCnt:   2,prec: 186
+Time:5028,g_pluseCnt:   2,prec: 186
+Time:5029,g_pluseCnt:   2,prec: 186
+Time:5030,g_pluseCnt:   2,prec: 186
+Time:5031,g_pluseCnt:   2,prec: 186
+Time:5032,g_pluseCnt:   2,prec: 186
+Time:5033,g_pluseCnt:   2,prec: 186
+Time:5034,g_pluseCnt:   2,prec: 186
+Time:5035,g_pluseCnt:   2,prec: 186
+Time:5036,g_pluseCnt:   2,prec: 186
+Time:5037,g_pluseCnt:   2,prec: 186
+Time:5038,g_pluseCnt:   2,prec: 186
+Time:5039,g_pluseCnt:   2,prec: 186
+Time:5040,g_pluseCnt:   2,prec: 186
+Time:5041,g_pluseCnt:   2,prec: 186
+Time:5042,g_pluseCnt:   2,prec: 186
+Time:5043,g_pluseCnt:   2,prec: 186
+Time:5044,g_pluseCnt:   2,prec: 186
+Time:5045,g_pluseCnt:   2,prec: 186
+Time:5046,g_pluseCnt:   2,prec: 186
+Time:5047,g_pluseCnt:   2,prec: 186
+Time:5048,g_pluseCnt:   2,prec: 186
+Time:5049,g_pluseCnt:   2,prec: 186
+Time:5050,g_pluseCnt:   2,prec: 186
+Time:5051,g_pluseCnt:   2,prec: 186
+Time:5052,g_pluseCnt:   2,prec: 186
+Time:5053,g_pluseCnt:   2,prec: 186
+Time:5054,g_pluseCnt:   2,prec: 186
+Time:5055,g_pluseCnt:   2,prec: 186
+Time:5056,g_pluseCnt:   2,prec: 186
+Time:5057,g_pluseCnt:   2,prec: 186
+Time:5058,g_pluseCnt:   2,prec: 186
+Time:5059,g_pluseCnt:   2,prec: 186
+Time:5060,g_pluseCnt:   2,prec: 186
+Time:5061,g_pluseCnt:   2,prec: 186
+Time:5062,g_pluseCnt:   2,prec: 186
+Time:5063,g_pluseCnt:   2,prec: 186
+Time:5064,g_pluseCnt:   2,prec: 186
+Time:5065,g_pluseCnt:   2,prec: 186
+Time:5066,g_pluseCnt:   2,prec: 186
+Time:5067,g_pluseCnt:   2,prec: 186
+Time:5068,g_pluseCnt:   2,prec: 186
+Time:5069,g_pluseCnt:   2,prec: 257
+Time:5070,g_pluseCnt:   2,prec: 257
+Time:5071,g_pluseCnt:   2,prec: 257
+Time:5072,g_pluseCnt:   2,prec: 257
+Time:5073,g_pluseCnt:   2,prec: 257
+Time:5074,g_pluseCnt:   2,prec: 257
+Time:5075,g_pluseCnt:   2,prec: 257
+Time:5076,g_pluseCnt:   2,prec: 257
+Time:5077,g_pluseCnt:   2,prec: 257
+Time:5078,g_pluseCnt:   2,prec: 257
+Time:5079,g_pluseCnt:   2,prec: 257
+Time:5080,g_pluseCnt:   2,prec: 257
+Time:5081,g_pluseCnt:   2,prec: 257
+Time:5082,g_pluseCnt:   2,prec: 257
+Time:5083,g_pluseCnt:   2,prec: 257
+Time:5084,g_pluseCnt:   2,prec: 257
+Time:5085,g_pluseCnt:   2,prec: 257
+Time:5086,g_pluseCnt:   2,prec: 257
+Time:5087,g_pluseCnt:   2,prec: 257
+Time:5088,g_pluseCnt:   2,prec: 257
+Time:5089,g_pluseCnt:   2,prec: 257
+Time:5090,g_pluseCnt:   2,prec: 257
+Time:5091,g_pluseCnt:   2,prec: 257
+Time:5092,g_pluseCnt:   2,prec: 257
+Time:5093,g_pluseCnt:   2,prec: 257
+Time:5094,g_pluseCnt:   2,prec: 257
+Time:5095,g_pluseCnt:   2,prec: 257
+Time:5096,g_pluseCnt:   2,prec: 257
+Time:5097,g_pluseCnt:   2,prec: 257
+Time:5098,g_pluseCnt:   2,prec: 257
+Time:5099,g_pluseCnt:   2,prec: 257
+Time:5100,g_pluseCnt:   2,prec: 257
+Time:5101,g_pluseCnt:   2,prec: 257
+Time:5102,g_pluseCnt:   2,prec: 257
+Time:5103,g_pluseCnt:   2,prec: 257
+Time:5104,g_pluseCnt:   2,prec: 257
+Time:5105,g_pluseCnt:   2,prec: 257
+Time:5106,g_pluseCnt:   2,prec: 257
+Time:5107,g_pluseCnt:   2,prec: 257
+Time:5108,g_pluseCnt:   2,prec: 257
+Time:5109,g_pluseCnt:   2,prec: 257
+Time:5110,g_pluseCnt:   2,prec: 257
+Time:5111,g_pluseCnt:   2,prec: 257
+Time:5112,g_pluseCnt:   2,prec: 257
+Time:5113,g_pluseCnt:   2,prec: 257
+Time:5114,g_pluseCnt:   2,prec: 257
+Time:5115,g_pluseCnt:   2,prec: 257
+Time:5116,g_pluseCnt:   2,prec: 257
+Time:5117,g_pluseCnt:   2,prec: 257
+Time:5118,g_pluseCnt:   2,prec: 257
+Time:5119,g_pluseCnt:   2,prec: 257
+Time:5120,g_pluseCnt:   2,prec: 257
+Time:5121,g_pluseCnt:   2,prec: 257
+Time:5122,g_pluseCnt:   2,prec: 257
+Time:5123,g_pluseCnt:   3,prec: 257
+Time:5124,g_pluseCnt:   3,prec: 257
+Time:5125,g_pluseCnt:   3,prec: 257
+Time:5126,g_pluseCnt:   3,prec: 257
+Time:5127,g_pluseCnt:   3,prec: 257
+Time:5128,g_pluseCnt:   3,prec: 257
+Time:5129,g_pluseCnt:   3,prec: 257
+Time:5130,g_pluseCnt:   3,prec: 257
+Time:5131,g_pluseCnt:   3,prec: 257
+Time:5132,g_pluseCnt:   3,prec: 257
+Time:5133,g_pluseCnt:   3,prec: 257
+Time:5134,g_pluseCnt:   3,prec: 257
+Time:5135,g_pluseCnt:   3,prec: 257
+Time:5136,g_pluseCnt:   3,prec: 257
+Time:5137,g_pluseCnt:   3,prec: 257
+Time:5138,g_pluseCnt:   3,prec: 257
+Time:5139,g_pluseCnt:   3,prec: 257
+Time:5140,g_pluseCnt:   3,prec: 257
+Time:5141,g_pluseCnt:   3,prec: 257
+Time:5142,g_pluseCnt:   3,prec: 257
+Time:5143,g_pluseCnt:   3,prec: 257
+Time:5144,g_pluseCnt:   3,prec: 257
+Time:5145,g_pluseCnt:   3,prec: 257
+Time:5146,g_pluseCnt:   3,prec: 257
+Time:5147,g_pluseCnt:   3,prec: 257
+Time:5148,g_pluseCnt:   3,prec: 257
+Time:5149,g_pluseCnt:   3,prec: 257
+Time:5150,g_pluseCnt:   3,prec: 257
+Time:5151,g_pluseCnt:   3,prec: 257
+Time:5152,g_pluseCnt:   3,prec: 257
+Time:5153,g_pluseCnt:   3,prec: 257
+Time:5154,g_pluseCnt:   3,prec: 257
+Time:5155,g_pluseCnt:   3,prec: 257
+Time:5156,g_pluseCnt:   3,prec: 257
+Time:5157,g_pluseCnt:   3,prec: 257
+Time:5158,g_pluseCnt:   3,prec: 257
+Time:5159,g_pluseCnt:   3,prec: 257
+Time:5160,g_pluseCnt:   3,prec: 257
+Time:5161,g_pluseCnt:   3,prec: 257
+Time:5162,g_pluseCnt:   3,prec: 257
+Time:5163,g_pluseCnt:   3,prec: 257
+Time:5164,g_pluseCnt:   3,prec: 257
+Time:5165,g_pluseCnt:   3,prec: 257
+Time:5166,g_pluseCnt:   3,prec: 257
+Time:5167,g_pluseCnt:   3,prec: 257
+Time:5168,g_pluseCnt:   3,prec: 257
+Time:5169,g_pluseCnt:   3,prec: 257
+Time:5170,g_pluseCnt:   3,prec: 275
+Time:5171,g_pluseCnt:   3,prec: 275
+Time:5172,g_pluseCnt:   3,prec: 275
+Time:5173,g_pluseCnt:   3,prec: 275
+Time:5174,g_pluseCnt:   3,prec: 275
+Time:5175,g_pluseCnt:   3,prec: 275
+Time:5176,g_pluseCnt:   3,prec: 275
+Time:5177,g_pluseCnt:   3,prec: 275
+Time:5178,g_pluseCnt:   3,prec: 275
+Time:5179,g_pluseCnt:   3,prec: 275
+Time:5180,g_pluseCnt:   3,prec: 275
+Time:5181,g_pluseCnt:   3,prec: 275
+Time:5182,g_pluseCnt:   3,prec: 275
+Time:5183,g_pluseCnt:   3,prec: 275
+Time:5184,g_pluseCnt:   3,prec: 275
+Time:5185,g_pluseCnt:   3,prec: 275
+Time:5186,g_pluseCnt:   0,prec: 275
+Time:5187,g_pluseCnt:   0,prec: 275
+Time:5188,g_pluseCnt:   0,prec: 275
+Time:5189,g_pluseCnt:   0,prec: 275
+Time:5190,g_pluseCnt:   0,prec: 275
+Time:5191,g_pluseCnt:   0,prec: 275
+Time:5192,g_pluseCnt:   0,prec: 275
+Time:5193,g_pluseCnt:   0,prec: 275
+Time:5194,g_pluseCnt:   0,prec: 275
+Time:5195,g_pluseCnt:   0,prec: 275
+Time:5196,g_pluseCnt:   0,prec: 275
+Time:5197,g_pluseCnt:   0,prec: 275
+Time:5198,g_pluseCnt:   0,prec: 275
+Time:5199,g_pluseCnt:   0,prec: 275
+Time:5200,g_pluseCnt:   0,prec: 275
+Time:5201,g_pluseCnt:   0,prec: 275
+Time:5202,g_pluseCnt:   0,prec: 275
+Time:5203,g_pluseCnt:   0,prec: 275
+Time:5204,g_pluseCnt:   0,prec: 275
+Time:5205,g_pluseCnt:   0,prec: 275
+Time:5206,g_pluseCnt:   0,prec: 275
+Time:5207,g_pluseCnt:   0,prec: 275
+Time:5208,g_pluseCnt:   0,prec: 275
+Time:5209,g_pluseCnt:   0,prec: 275
+Time:5210,g_pluseCnt:   0,prec: 275
+Time:5211,g_pluseCnt:   0,prec: 275
+Time:5212,g_pluseCnt:   0,prec: 275
+Time:5213,g_pluseCnt:   0,prec: 275
+Time:5214,g_pluseCnt:   0,prec: 275
+Time:5215,g_pluseCnt:   0,prec: 275
+Time:5216,g_pluseCnt:   0,prec: 275
+Time:5217,g_pluseCnt:   0,prec: 275
+Time:5218,g_pluseCnt:   0,prec: 275
+Time:5219,g_pluseCnt:   0,prec: 275
+Time:5220,g_pluseCnt:   0,prec: 275
+Time:5221,g_pluseCnt:   0,prec: 275
+Time:5222,g_pluseCnt:   0,prec: 275
+Time:5223,g_pluseCnt:   0,prec: 275
+Time:5224,g_pluseCnt:   0,prec: 275
+Time:5225,g_pluseCnt:   0,prec: 275
+Time:5226,g_pluseCnt:   0,prec: 275
+Time:5227,g_pluseCnt:   0,prec: 275
+Time:5228,g_pluseCnt:   0,prec: 275
+Time:5229,g_pluseCnt:   0,prec: 275
+Time:5230,g_pluseCnt:   0,prec: 275
+Time:5231,g_pluseCnt:   0,prec: 275
+Time:5232,g_pluseCnt:   0,prec: 275
+Time:5233,g_pluseCnt:   0,prec: 275
+Time:5234,g_pluseCnt:   0,prec: 275
+Time:5235,g_pluseCnt:   0,prec: 275
+Time:5236,g_pluseCnt:   0,prec: 275
+Time:5237,g_pluseCnt:   0,prec: 275
+Time:5238,g_pluseCnt:   0,prec: 275
+Time:5239,g_pluseCnt:   0,prec: 275
+Time:5240,g_pluseCnt:   0,prec: 275
+Time:5241,g_pluseCnt:   0,prec: 275
+Time:5242,g_pluseCnt:   0,prec: 275
+Time:5243,g_pluseCnt:   0,prec: 275
+Time:5244,g_pluseCnt:   0,prec: 275
+Time:5245,g_pluseCnt:   0,prec: 275
+Time:5246,g_pluseCnt:   0,prec: 275
+Time:5247,g_pluseCnt:   0,prec: 275
+Time:5248,g_pluseCnt:   1,prec: 275
+Time:5249,g_pluseCnt:   1,prec: 275
+Time:5250,g_pluseCnt:   1,prec: 275
+Time:5251,g_pluseCnt:   1,prec: 275
+Time:5252,g_pluseCnt:   1,prec: 275
+Time:5253,g_pluseCnt:   1,prec: 275
+Time:5254,g_pluseCnt:   1,prec: 275
+Time:5255,g_pluseCnt:   1,prec: 275
+Time:5256,g_pluseCnt:   1,prec: 275
+Time:5257,g_pluseCnt:   1,prec: 275
+Time:5258,g_pluseCnt:   1,prec: 275
+Time:5259,g_pluseCnt:   1,prec: 275
+Time:5260,g_pluseCnt:   1,prec: 275
+Time:5261,g_pluseCnt:   1,prec: 275
+Time:5262,g_pluseCnt:   1,prec: 275
+Time:5263,g_pluseCnt:   1,prec: 275
+Time:5264,g_pluseCnt:   1,prec: 275
+Time:5265,g_pluseCnt:   1,prec: 275
+Time:5266,g_pluseCnt:   1,prec: 275
+Time:5267,g_pluseCnt:   1,prec: 275
+Time:5268,g_pluseCnt:   1,prec: 275
+Time:5269,g_pluseCnt:   1,prec: 275
+Time:5270,g_pluseCnt:   1,prec: 275
+Time:5271,g_pluseCnt:   1,prec: 249
+Time:5272,g_pluseCnt:   1,prec: 249
+Time:5273,g_pluseCnt:   1,prec: 249
+Time:5274,g_pluseCnt:   1,prec: 249
+Time:5275,g_pluseCnt:   1,prec: 249
+Time:5276,g_pluseCnt:   1,prec: 249
+Time:5277,g_pluseCnt:   1,prec: 249
+Time:5278,g_pluseCnt:   1,prec: 249
+Time:5279,g_pluseCnt:   1,prec: 249
+Time:5280,g_pluseCnt:   1,prec: 249
+Time:5281,g_pluseCnt:   1,prec: 249
+Time:5282,g_pluseCnt:   1,prec: 249
+Time:5283,g_pluseCnt:   1,prec: 249
+Time:5284,g_pluseCnt:   1,prec: 249
+Time:5285,g_pluseCnt:   1,prec: 249
+Time:5286,g_pluseCnt:   1,prec: 249
+Time:5287,g_pluseCnt:   1,prec: 249
+Time:5288,g_pluseCnt:   1,prec: 249
+Time:5289,g_pluseCnt:   1,prec: 249
+Time:5290,g_pluseCnt:   1,prec: 249
+Time:5291,g_pluseCnt:   1,prec: 249
+Time:5292,g_pluseCnt:   1,prec: 249
+Time:5293,g_pluseCnt:   1,prec: 249
+Time:5294,g_pluseCnt:   1,prec: 249
+Time:5295,g_pluseCnt:   1,prec: 249
+Time:5296,g_pluseCnt:   1,prec: 249
+Time:5297,g_pluseCnt:   1,prec: 249
+Time:5298,g_pluseCnt:   1,prec: 249
+Time:5299,g_pluseCnt:   1,prec: 249
+Time:5300,g_pluseCnt:   1,prec: 249
+Time:5301,g_pluseCnt:   1,prec: 249
+Time:5302,g_pluseCnt:   1,prec: 249
+Time:5303,g_pluseCnt:   1,prec: 249
+Time:5304,g_pluseCnt:   1,prec: 249
+Time:5305,g_pluseCnt:   1,prec: 249
+Time:5306,g_pluseCnt:   1,prec: 249
+Time:5307,g_pluseCnt:   1,prec: 249
+Time:5308,g_pluseCnt:   1,prec: 249
+Time:5309,g_pluseCnt:   1,prec: 249
+Time:5310,g_pluseCnt:   1,prec: 249
+Time:5311,g_pluseCnt:   2,prec: 249
+Time:5312,g_pluseCnt:   2,prec: 249
+Time:5313,g_pluseCnt:   2,prec: 249
+Time:5314,g_pluseCnt:   2,prec: 249
+Time:5315,g_pluseCnt:   2,prec: 249
+Time:5316,g_pluseCnt:   2,prec: 249
+Time:5317,g_pluseCnt:   2,prec: 249
+Time:5318,g_pluseCnt:   2,prec: 249
+Time:5319,g_pluseCnt:   2,prec: 249
+Time:5320,g_pluseCnt:   2,prec: 249
+Time:5321,g_pluseCnt:   2,prec: 249
+Time:5322,g_pluseCnt:   2,prec: 249
+Time:5323,g_pluseCnt:   2,prec: 249
+Time:5324,g_pluseCnt:   2,prec: 249
+Time:5325,g_pluseCnt:   2,prec: 249
+Time:5326,g_pluseCnt:   2,prec: 249
+Time:5327,g_pluseCnt:   2,prec: 249
+Time:5328,g_pluseCnt:   2,prec: 249
+Time:5329,g_pluseCnt:   2,prec: 249
+Time:5330,g_pluseCnt:   2,prec: 249
+Time:5331,g_pluseCnt:   2,prec: 249
+Time:5332,g_pluseCnt:   2,prec: 249
+Time:5333,g_pluseCnt:   2,prec: 249
+Time:5334,g_pluseCnt:   2,prec: 249
+Time:5335,g_pluseCnt:   2,prec: 249
+Time:5336,g_pluseCnt:   2,prec: 249
+Time:5337,g_pluseCnt:   2,prec: 249
+Time:5338,g_pluseCnt:   2,prec: 249
+Time:5339,g_pluseCnt:   2,prec: 249
+Time:5340,g_pluseCnt:   2,prec: 249
+Time:5341,g_pluseCnt:   2,prec: 249
+Time:5342,g_pluseCnt:   2,prec: 249
+Time:5343,g_pluseCnt:   2,prec: 249
+Time:5344,g_pluseCnt:   2,prec: 249
+Time:5345,g_pluseCnt:   2,prec: 249
+Time:5346,g_pluseCnt:   2,prec: 249
+Time:5347,g_pluseCnt:   2,prec: 249
+Time:5348,g_pluseCnt:   2,prec: 249
+Time:5349,g_pluseCnt:   2,prec: 249
+Time:5350,g_pluseCnt:   2,prec: 249
+Time:5351,g_pluseCnt:   2,prec: 249
+Time:5352,g_pluseCnt:   2,prec: 249
+Time:5353,g_pluseCnt:   2,prec: 249
+Time:5354,g_pluseCnt:   2,prec: 249
+Time:5355,g_pluseCnt:   2,prec: 249
+Time:5356,g_pluseCnt:   2,prec: 249
+Time:5357,g_pluseCnt:   2,prec: 249
+Time:5358,g_pluseCnt:   2,prec: 249
+Time:5359,g_pluseCnt:   2,prec: 249
+Time:5360,g_pluseCnt:   2,prec: 249
+Time:5361,g_pluseCnt:   2,prec: 249
+Time:5362,g_pluseCnt:   2,prec: 249
+Time:5363,g_pluseCnt:   2,prec: 249
+Time:5364,g_pluseCnt:   2,prec: 249
+Time:5365,g_pluseCnt:   2,prec: 249
+Time:5366,g_pluseCnt:   2,prec: 249
+Time:5367,g_pluseCnt:   2,prec: 249
+Time:5368,g_pluseCnt:   2,prec: 249
+Time:5369,g_pluseCnt:   2,prec: 249
+Time:5370,g_pluseCnt:   2,prec: 249
+Time:5371,g_pluseCnt:   2,prec: 249
+Time:5372,g_pluseCnt:   2,prec: 283
+Time:5373,g_pluseCnt:   2,prec: 283
+Time:5374,g_pluseCnt:   3,prec: 283
+Time:5375,g_pluseCnt:   3,prec: 283
+Time:5376,g_pluseCnt:   3,prec: 283
+Time:5377,g_pluseCnt:   3,prec: 283
+Time:5378,g_pluseCnt:   3,prec: 283
+Time:5379,g_pluseCnt:   3,prec: 283
+Time:5380,g_pluseCnt:   3,prec: 283
+Time:5381,g_pluseCnt:   3,prec: 283
+Time:5382,g_pluseCnt:   3,prec: 283
+Time:5383,g_pluseCnt:   3,prec: 283
+Time:5384,g_pluseCnt:   3,prec: 283
+Time:5385,g_pluseCnt:   3,prec: 283
+Time:5386,g_pluseCnt:   3,prec: 283
+Time:5387,g_pluseCnt:   3,prec: 283
+Time:5388,g_pluseCnt:   3,prec: 283
+Time:5389,g_pluseCnt:   3,prec: 283
+Time:5390,g_pluseCnt:   3,prec: 283
+Time:5391,g_pluseCnt:   3,prec: 283
+Time:5392,g_pluseCnt:   3,prec: 283
+Time:5393,g_pluseCnt:   3,prec: 283
+Time:5394,g_pluseCnt:   3,prec: 283
+Time:5395,g_pluseCnt:   3,prec: 283
+Time:5396,g_pluseCnt:   3,prec: 283
+Time:5397,g_pluseCnt:   3,prec: 283
+Time:5398,g_pluseCnt:   3,prec: 283
+Time:5399,g_pluseCnt:   3,prec: 283
+Time:5400,g_pluseCnt:   3,prec: 283
+Time:5401,g_pluseCnt:   3,prec: 283
+Time:5402,g_pluseCnt:   3,prec: 283
+Time:5403,g_pluseCnt:   3,prec: 283
+Time:5404,g_pluseCnt:   3,prec: 283
+Time:5405,g_pluseCnt:   3,prec: 283
+Time:5406,g_pluseCnt:   0,prec: 283
+Time:5407,g_pluseCnt:   0,prec: 283
+Time:5408,g_pluseCnt:   0,prec: 283
+Time:5409,g_pluseCnt:   0,prec: 283
+Time:5410,g_pluseCnt:   0,prec: 283
+Time:5411,g_pluseCnt:   0,prec: 283
+Time:5412,g_pluseCnt:   0,prec: 283
+Time:5413,g_pluseCnt:   0,prec: 283
+Time:5414,g_pluseCnt:   0,prec: 283
+Time:5415,g_pluseCnt:   0,prec: 283
+Time:5416,g_pluseCnt:   0,prec: 283
+Time:5417,g_pluseCnt:   0,prec: 283
+Time:5418,g_pluseCnt:   0,prec: 283
+Time:5419,g_pluseCnt:   0,prec: 283
+Time:5420,g_pluseCnt:   0,prec: 283
+Time:5421,g_pluseCnt:   0,prec: 283
+Time:5422,g_pluseCnt:   0,prec: 283
+Time:5423,g_pluseCnt:   0,prec: 283
+Time:5424,g_pluseCnt:   0,prec: 283
+Time:5425,g_pluseCnt:   0,prec: 283
+Time:5426,g_pluseCnt:   0,prec: 283
+Time:5427,g_pluseCnt:   0,prec: 283
+Time:5428,g_pluseCnt:   0,prec: 283
+Time:5429,g_pluseCnt:   0,prec: 283
+Time:5430,g_pluseCnt:   0,prec: 283
+Time:5431,g_pluseCnt:   0,prec: 283
+Time:5432,g_pluseCnt:   0,prec: 283
+Time:5433,g_pluseCnt:   0,prec: 283
+Time:5434,g_pluseCnt:   0,prec: 283
+Time:5435,g_pluseCnt:   0,prec: 283
+Time:5436,g_pluseCnt:   0,prec: 283
+Time:5437,g_pluseCnt:   0,prec: 283
+Time:5438,g_pluseCnt:   0,prec: 283
+Time:5439,g_pluseCnt:   0,prec: 283
+Time:5440,g_pluseCnt:   0,prec: 283
+Time:5441,g_pluseCnt:   0,prec: 283
+Time:5442,g_pluseCnt:   0,prec: 283
+Time:5443,g_pluseCnt:   0,prec: 283
+Time:5444,g_pluseCnt:   0,prec: 283
